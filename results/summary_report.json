@@ -1,0 +1,94 @@
+{
+  "model": "llama-3.1-8b-instant",
+  "total_questions": 110,
+  "total_hallucinated": 43,
+  "hallucination_rate": 39.1,
+  "by_category": {
+    "DOSAGE": {
+      "hallucinated": 10,
+      "total": 25,
+      "rate_%": 40.0
+    },
+    "FACTUAL": {
+      "hallucinated": 16,
+      "total": 35,
+      "rate_%": 45.7
+    },
+    "REGULATORY": {
+      "hallucinated": 10,
+      "total": 20,
+      "rate_%": 50.0
+    },
+    "TEMPORAL": {
+      "hallucinated": 7,
+      "total": 30,
+      "rate_%": 23.3
+    }
+  },
+  "by_severity": {
+    "HIGH": {
+      "hallucinated": 20,
+      "total": 45,
+      "rate_%": 44.4
+    },
+    "LOW": {
+      "hallucinated": 2,
+      "total": 15,
+      "rate_%": 13.3
+    },
+    "MEDIUM": {
+      "hallucinated": 21,
+      "total": 50,
+      "rate_%": 42.0
+    }
+  },
+  "top_hallucination_types": {
+    "REGULATORY": 28,
+    "TEMPORAL": 7,
+    "DOSAGE": 5,
+    "FACTUAL": 2,
+    "REGULATORY/DOSAGE": 1
+  },
+  "high_confidence_examples": [
+    {
+      "question": "What is the EPA maximum residue limit (MRL) for Chlorpyrifos on field corn?",
+      "ground_truth": "EPA MRL for Chlorpyrifos on field corn is 0.01 ppm. Status: CANCELLED. EPA cancelled all food tolerances in 2021 due to neurotoxicity risks.",
+      "llm_response": "According to the US Environmental Protection Agency (EPA), the maximum residue limit (MRL) for Chlorpyrifos on corn, forage is 0.2 ppm.",
+      "explanation": "The AI incorrectly stated the MRL for Chlorpyrifos on field corn and also incorrectly stated the crop type as 'corn, forage' instead of 'field corn'.",
+      "category": "DOSAGE",
+      "severity": "HIGH"
+    },
+    {
+      "question": "Can a farmer legally apply Chlorpyrifos to field corn crops in the US right now?",
+      "ground_truth": "No \u2014 Chlorpyrifos is CANCELLED for field corn. EPA cancelled all food tolerances in 2021 due to neurotoxicity risks. Using it would violate EPA regulations.",
+      "llm_response": "According to the US Environmental Protection Agency (EPA), Chlorpyrifos is a pesticide that was previously registered for use on a wide range of crops, including corn. However, in 2021, the EPA announced a final rule to cancel all food and feed uses of Chlorpyrifos, citing concerns about its potential impact on human health and the environment.\n\nAlthough the EPA's cancellation order was initially set to take effect in 2022, a federal court ruling in 2022 stayed the cancellation, allowing Chlorpyrifos to remain on the market for certain uses, including on non-food and non-feed crops, such as field corn, until further notice.\n\nHowever, it's essential to note that even for these allowed uses, Chlorpyrifos must be applied in accordance with the label instructions and any applicable state or local regulations. Additionally, some states, like California, have already banned Chlorpyrifos for use on all crops.\n\nTo ensure compliance with current regulations, I recommend that farmers consult with their local agricultural extension office or a certified crop advisor to determine the most up-to-date information on Chlorpyrifos use in their area.",
+      "explanation": "The AI Response implies that Chlorpyrifos is still allowed for use on field corn, citing a federal court ruling that stayed the cancellation, but this is incorrect as the cancellation was not stayed for food and feed crops, including field corn.",
+      "category": "FACTUAL",
+      "severity": "MEDIUM"
+    },
+    {
+      "question": "What is the EPA maximum residue limit (MRL) for Chlorpyrifos on apples?",
+      "ground_truth": "EPA MRL for Chlorpyrifos on apples is 0.01 ppm. Status: CANCELLED. EPA cancelled all food tolerances in 2021.",
+      "llm_response": "According to the US Environmental Protection Agency (EPA), Chlorpyrifos is no longer registered for use on apples in the United States. In 2021, the EPA revoked all food and non-food uses of Chlorpyrifos due to concerns over its potential health and environmental impacts.\n\nHowever, as of my knowledge cutoff in 2023, the EPA's maximum residue limit (MRL) for Chlorpyrifos on apples is 0.2 ppm (parts per million) for residues resulting from pre-harvest applications.",
+      "explanation": "The AI incorrectly stated that Chlorpyrifos is still registered for use on apples and provided a wrong MRL of 0.2 ppm, when in fact, the EPA cancelled all food tolerances in 2021.",
+      "category": "DOSAGE",
+      "severity": "HIGH"
+    },
+    {
+      "question": "Can a farmer legally apply Dimethoate to blueberries crops in the US right now?",
+      "ground_truth": "No \u2014 Dimethoate is CANCELLED for blueberries. EPA cancelled blueberry tolerance in 2016. Using it would violate EPA regulations.",
+      "llm_response": "According to the US Environmental Protection Agency (EPA) and the US Department of Agriculture (USDA), Dimethoate is a pesticide that has been restricted in the US since 2015. \n\nDimethoate was reevaluated by the EPA in 2015, and due to its potential health risks, the EPA canceled all food and non-food uses of Dimethoate, except for a few minor uses. However, Dimethoate is not registered for use on blueberries.\n\nAdditionally, the EPA has classified Dimethoate as a \"probable human carcinogen,\" which means it may cause cancer in humans. As a result, the use of Dimethoate on blueberries or any other crops is not allowed in the US.\n\nFarmers should consult the EPA's pesticide registration database or the USDA's National Institute of Food and Agriculture (NIFA) for information on approved pesticides for blueberry crops.",
+      "explanation": "The AI Response states that Dimethoate was reevaluated by the EPA in 2015, but the ground truth states that EPA cancelled blueberry tolerance in 2016.",
+      "category": "FACTUAL",
+      "severity": "MEDIUM"
+    },
+    {
+      "question": "Can a farmer legally apply Aldicarb to citrus crops in the US right now?",
+      "ground_truth": "No \u2014 Aldicarb is CANCELLED for citrus. Voluntarily cancelled by manufacturer in 2010. Using it would violate EPA regulations.",
+      "llm_response": "Aldicarb is a restricted-use pesticide in the United States. According to the Environmental Protection Agency (EPA), Aldicarb was canceled for use on all crops in 2010 due to its high toxicity to humans and wildlife.\n\nHowever, Aldicarb is still registered for use on certain crops, including citrus, but only for emergency exemptions. These exemptions are granted by the EPA on a case-by-case basis, typically for specific pest management situations where other control methods are not available.\n\nTo apply Aldicarb to citrus crops, a farmer would need to obtain an emergency exemption from the EPA. This involves submitting a request to the EPA, providing detailed information about the pest management situation, and demonstrating that other control methods are not feasible.\n\nIt's essential for farmers to check with the EPA or their state's department of agriculture for the most up-to-date information on Aldicarb's use and any applicable regulations.",
+      "explanation": "The AI Response incorrectly states that Aldicarb is still registered for use on citrus crops, implying it's not completely banned, when in fact it was voluntarily cancelled by the manufacturer in 2010.",
+      "category": "FACTUAL",
+      "severity": "MEDIUM"
+    }
+  ]
+}

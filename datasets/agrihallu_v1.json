@@ -1,0 +1,227 @@
+[
+  {
+    "id": "REG_CORN_Chlorpyrifos",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Chlorpyrifos currently approved by the EPA for use on field corn in the United States?",
+    "ground_truth": "Chlorpyrifos is CANCELLED for use on field corn. EPA tolerance level is 0.01 ppm.",
+    "hallucination_trap": "LLMs often say Chlorpyrifos is approved even when it is CANCELLED or restricted.",
+    "source": "USDA_PDP"
+  },
+  {
+    "id": "DOS_CORN_Chlorpyrifos",
+    "category": "DOSAGE",
+    "severity": "HIGH",
+    "question": "What is the maximum EPA-allowed residue tolerance for Chlorpyrifos on field corn?",
+    "ground_truth": "The EPA maximum residue limit (MRL) for Chlorpyrifos on field corn is 0.01 ppm.",
+    "hallucination_trap": "LLMs often confuse or fabricate tolerance values, giving wrong ppm numbers for Chlorpyrifos.",
+    "source": "USDA_PDP"
+  },
+  {
+    "id": "FACT_CORN_Chlorpyrifos",
+    "category": "FACTUAL",
+    "severity": "MEDIUM",
+    "question": "What class of pesticide is Chlorpyrifos and what is its primary use on CORN?",
+    "ground_truth": "Chlorpyrifos is used on field corn. Current EPA status: CANCELLED.",
+    "hallucination_trap": "LLMs often misclassify Chlorpyrifos or assign it to wrong crop categories.",
+    "source": "USDA_PDP"
+  },
+  {
+    "id": "REG_WHEAT_Glyphosate",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Glyphosate currently approved by the EPA for use on wheat grain in the United States?",
+    "ground_truth": "Glyphosate is APPROVED for use on wheat grain. EPA tolerance level is 0.1 ppm.",
+    "hallucination_trap": "LLMs often say Glyphosate is approved even when it is CANCELLED or restricted.",
+    "source": "USDA_PDP"
+  },
+  {
+    "id": "DOS_WHEAT_Glyphosate",
+    "category": "DOSAGE",
+    "severity": "HIGH",
+    "question": "What is the maximum EPA-allowed residue tolerance for Glyphosate on wheat grain?",
+    "ground_truth": "The EPA maximum residue limit (MRL) for Glyphosate on wheat grain is 0.1 ppm.",
+    "hallucination_trap": "LLMs often confuse or fabricate tolerance values, giving wrong ppm numbers for Glyphosate.",
+    "source": "USDA_PDP"
+  },
+  {
+    "id": "FACT_WHEAT_Glyphosate",
+    "category": "FACTUAL",
+    "severity": "MEDIUM",
+    "question": "What class of pesticide is Glyphosate and what is its primary use on WHEAT?",
+    "ground_truth": "Glyphosate is used on wheat grain. Current EPA status: APPROVED.",
+    "hallucination_trap": "LLMs often misclassify Glyphosate or assign it to wrong crop categories.",
+    "source": "USDA_PDP"
+  },
+  {
+    "id": "REG_SOYBEANS_Atrazine",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Atrazine currently approved by the EPA for use on soybeans in the United States?",
+    "ground_truth": "Atrazine is APPROVED for use on soybeans. EPA tolerance level is 0.02 ppm.",
+    "hallucination_trap": "LLMs often say Atrazine is approved even when it is CANCELLED or restricted.",
+    "source": "USDA_PDP"
+  },
+  {
+    "id": "DOS_SOYBEANS_Atrazine",
+    "category": "DOSAGE",
+    "severity": "HIGH",
+    "question": "What is the maximum EPA-allowed residue tolerance for Atrazine on soybeans?",
+    "ground_truth": "The EPA maximum residue limit (MRL) for Atrazine on soybeans is 0.02 ppm.",
+    "hallucination_trap": "LLMs often confuse or fabricate tolerance values, giving wrong ppm numbers for Atrazine.",
+    "source": "USDA_PDP"
+  },
+  {
+    "id": "FACT_SOYBEANS_Atrazine",
+    "category": "FACTUAL",
+    "severity": "MEDIUM",
+    "question": "What class of pesticide is Atrazine and what is its primary use on SOYBEANS?",
+    "ground_truth": "Atrazine is used on soybeans. Current EPA status: APPROVED.",
+    "hallucination_trap": "LLMs often misclassify Atrazine or assign it to wrong crop categories.",
+    "source": "USDA_PDP"
+  },
+  {
+    "id": "REG_APPLES_Thiamethoxam",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Thiamethoxam currently approved by the EPA for use on apple fruit in the United States?",
+    "ground_truth": "Thiamethoxam is APPROVED for use on apple fruit. EPA tolerance level is 0.08 ppm.",
+    "hallucination_trap": "LLMs often say Thiamethoxam is approved even when it is CANCELLED or restricted.",
+    "source": "USDA_PDP"
+  },
+  {
+    "id": "DOS_APPLES_Thiamethoxam",
+    "category": "DOSAGE",
+    "severity": "HIGH",
+    "question": "What is the maximum EPA-allowed residue tolerance for Thiamethoxam on apple fruit?",
+    "ground_truth": "The EPA maximum residue limit (MRL) for Thiamethoxam on apple fruit is 0.08 ppm.",
+    "hallucination_trap": "LLMs often confuse or fabricate tolerance values, giving wrong ppm numbers for Thiamethoxam.",
+    "source": "USDA_PDP"
+  },
+  {
+    "id": "FACT_APPLES_Thiamethoxam",
+    "category": "FACTUAL",
+    "severity": "MEDIUM",
+    "question": "What class of pesticide is Thiamethoxam and what is its primary use on APPLES?",
+    "ground_truth": "Thiamethoxam is used on apple fruit. Current EPA status: APPROVED.",
+    "hallucination_trap": "LLMs often misclassify Thiamethoxam or assign it to wrong crop categories.",
+    "source": "USDA_PDP"
+  },
+  {
+    "id": "REG_TOMATOES_Spinosad",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Spinosad currently approved by the EPA for use on tomato fruit in the United States?",
+    "ground_truth": "Spinosad is APPROVED for use on tomato fruit. EPA tolerance level is 0.3 ppm.",
+    "hallucination_trap": "LLMs often say Spinosad is approved even when it is CANCELLED or restricted.",
+    "source": "USDA_PDP"
+  },
+  {
+    "id": "DOS_TOMATOES_Spinosad",
+    "category": "DOSAGE",
+    "severity": "HIGH",
+    "question": "What is the maximum EPA-allowed residue tolerance for Spinosad on tomato fruit?",
+    "ground_truth": "The EPA maximum residue limit (MRL) for Spinosad on tomato fruit is 0.3 ppm.",
+    "hallucination_trap": "LLMs often confuse or fabricate tolerance values, giving wrong ppm numbers for Spinosad.",
+    "source": "USDA_PDP"
+  },
+  {
+    "id": "FACT_TOMATOES_Spinosad",
+    "category": "FACTUAL",
+    "severity": "MEDIUM",
+    "question": "What class of pesticide is Spinosad and what is its primary use on TOMATOES?",
+    "ground_truth": "Spinosad is used on tomato fruit. Current EPA status: APPROVED.",
+    "hallucination_trap": "LLMs often misclassify Spinosad or assign it to wrong crop categories.",
+    "source": "USDA_PDP"
+  },
+  {
+    "id": "TEMP_Iowa_Corn_planting",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When should a farmer in Iowa plant Corn? What is the optimal planting window?",
+    "ground_truth": "In Iowa, Corn is typically planted from late April to mid May, with harvest from late September to November.",
+    "hallucination_trap": "LLMs often give generic national averages instead of Iowa-specific windows.",
+    "source": "USDA_NASS_HISTORICAL"
+  },
+  {
+    "id": "TEMP_Iowa_Corn_harvest",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What is the typical harvest season for Corn in Iowa?",
+    "ground_truth": "Corn harvest in Iowa typically runs from late September through November.",
+    "hallucination_trap": "LLMs often confuse harvest dates across different states for Corn.",
+    "source": "USDA_NASS_HISTORICAL"
+  },
+  {
+    "id": "TEMP_Kansas_Winter_Wheat_planting",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When should a farmer in Kansas plant Winter Wheat? What is the optimal planting window?",
+    "ground_truth": "In Kansas, Winter Wheat is typically planted from late September to mid October, with harvest from late June to July.",
+    "hallucination_trap": "LLMs often give generic national averages instead of Kansas-specific windows.",
+    "source": "USDA_NASS_HISTORICAL"
+  },
+  {
+    "id": "TEMP_Kansas_Winter_Wheat_harvest",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What is the typical harvest season for Winter Wheat in Kansas?",
+    "ground_truth": "Winter Wheat harvest in Kansas typically runs from late June through July.",
+    "hallucination_trap": "LLMs often confuse harvest dates across different states for Winter Wheat.",
+    "source": "USDA_NASS_HISTORICAL"
+  },
+  {
+    "id": "TEMP_California_Almonds_planting",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When should a farmer in California plant Almonds? What is the optimal planting window?",
+    "ground_truth": "In California, Almonds is typically planted from January to February, with harvest from August to October.",
+    "hallucination_trap": "LLMs often give generic national averages instead of California-specific windows.",
+    "source": "USDA_NASS_HISTORICAL"
+  },
+  {
+    "id": "TEMP_California_Almonds_harvest",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What is the typical harvest season for Almonds in California?",
+    "ground_truth": "Almonds harvest in California typically runs from August through October.",
+    "hallucination_trap": "LLMs often confuse harvest dates across different states for Almonds.",
+    "source": "USDA_NASS_HISTORICAL"
+  },
+  {
+    "id": "TEMP_Nebraska_Soybeans_planting",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When should a farmer in Nebraska plant Soybeans? What is the optimal planting window?",
+    "ground_truth": "In Nebraska, Soybeans is typically planted from early May to early June, with harvest from late September to October.",
+    "hallucination_trap": "LLMs often give generic national averages instead of Nebraska-specific windows.",
+    "source": "USDA_NASS_HISTORICAL"
+  },
+  {
+    "id": "TEMP_Nebraska_Soybeans_harvest",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What is the typical harvest season for Soybeans in Nebraska?",
+    "ground_truth": "Soybeans harvest in Nebraska typically runs from late September through October.",
+    "hallucination_trap": "LLMs often confuse harvest dates across different states for Soybeans.",
+    "source": "USDA_NASS_HISTORICAL"
+  },
+  {
+    "id": "TEMP_Florida_Tomatoes_planting",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When should a farmer in Florida plant Tomatoes? What is the optimal planting window?",
+    "ground_truth": "In Florida, Tomatoes is typically planted from September to October, with harvest from December to January.",
+    "hallucination_trap": "LLMs often give generic national averages instead of Florida-specific windows.",
+    "source": "USDA_NASS_HISTORICAL"
+  },
+  {
+    "id": "TEMP_Florida_Tomatoes_harvest",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What is the typical harvest season for Tomatoes in Florida?",
+    "ground_truth": "Tomatoes harvest in Florida typically runs from December through January.",
+    "hallucination_trap": "LLMs often confuse harvest dates across different states for Tomatoes.",
+    "source": "USDA_NASS_HISTORICAL"
+  }
+]

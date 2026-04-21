@@ -1,0 +1,6 @@
+commodity,pesticide_name,epa_tolerance_ppm,status,crop_use
+CORN,Chlorpyrifos,0.01,CANCELLED,field corn
+WHEAT,Glyphosate,0.1,APPROVED,wheat grain
+SOYBEANS,Atrazine,0.02,APPROVED,soybeans
+APPLES,Thiamethoxam,0.08,APPROVED,apple fruit
+TOMATOES,Spinosad,0.3,APPROVED,tomato fruit

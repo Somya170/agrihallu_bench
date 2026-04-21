@@ -1,0 +1,12 @@
+{
+  "baseline_hall_rate": 39.1,
+  "rag_hall_rate": 30.9,
+  "reduction_pp": 8.2,
+  "total_questions": 110,
+  "categories": [
+    "DOSAGE",
+    "FACTUAL",
+    "REGULATORY",
+    "TEMPORAL"
+  ]
+}

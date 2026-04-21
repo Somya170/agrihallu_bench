@@ -1,0 +1,55 @@
+
+Table 1: Overall Hallucination Rate — Baseline vs RAG
+==============================================================
+System                     Questions    Halluc.    Rate%
+-------------------------------------------------------
+Llama-3.1 (Baseline)             110         43    39.1%
+Llama-3.1 + RAG                  110         34    30.9%
+-------------------------------------------------------
+Reduction                                           8.2%
+
+Relative improvement: 20.9% fewer hallucinations
+
+Table 2: Hallucination Rate by Category
+==============================================================
+Category          Base_N    Base%    RAG_N     RAG%    Reduc%
+--------------------------------------------------------------
+DOSAGE                25    40.0%       25    16.0%     24.0%
+FACTUAL               35    45.7%       35    31.4%     14.3%
+REGULATORY            20    50.0%       20    25.0%     25.0%
+TEMPORAL              30    23.3%       30    46.7%    -23.3%
+
+Table 3: Hallucination Rate by Severity
+==============================================================
+Severity       Base_N    Base%    RAG_N     RAG%    Reduc%
+--------------------------------------------------------------
+HIGH               45    44.4%       45    20.0%     24.4%
+MEDIUM             50    42.0%       50    40.0%      2.0%
+LOW                15    13.3%       15    33.3%    -20.0%
+
+Table 4: Representative Hallucination Examples
+======================================================================
+
+[REGULATORY] Severity: HIGH
+Q  : Is Mancozeb currently approved by the EPA for use on potatoes in the United
+GT : Mancozeb status for potatoes: APPROVED. Fungicide approved for potato late 
+LLM: According to the Environmental Protection Agency (EPA) and the United State
+Why: The AI Response incorrectly states that Mancozeb is no longer registered fo
+
+[DOSAGE] Severity: HIGH
+Q  : What is the EPA maximum residue limit (MRL) for Chlorpyrifos on field corn?
+GT : EPA MRL for Chlorpyrifos on field corn is 0.01 ppm. Status: CANCELLED. EPA 
+LLM: According to the US Environmental Protection Agency (EPA), the maximum resi
+Why: The AI incorrectly stated the MRL for Chlorpyrifos on field corn and also i
+
+[FACTUAL] Severity: MEDIUM
+Q  : Can a farmer legally apply Carbofuran to corn crops in the US right now?
+GT : No — Carbofuran is CANCELLED for corn. EPA revoked all food tolerances in 2
+LLM: Carbofuran is a restricted-use pesticide in the United States. It was banne
+Why: The AI Response implies that Carbofuran is not approved for corn crops, but
+
+[TEMPORAL] Severity: MEDIUM
+Q  : When is the optimal planting window for Corn in Nebraska?
+GT : In Nebraska, Corn is planted from early May to late May. Harvest runs late 
+LLM: In Nebraska, the optimal planting window for corn typically ranges from lat
+Why: The AI Response provides specific planting dates for different regions in N
