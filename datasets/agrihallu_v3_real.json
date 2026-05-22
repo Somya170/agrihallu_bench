@@ -1,0 +1,912 @@
+[
+  {
+    "id": "NASS_IOWA_CORN_PLANTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Corn crop planted in Iowa?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Corn in Iowa was planted by 2023-05-07. Activity started around 2023-04-23.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Iowa data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IOWA_CORN_PLANTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Corn planted begin in Iowa during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Corn planted in Iowa reached 10% by 2023-04-23, indicating season start. Reached 50% by 2023-05-07.",
+    "hallucination_trap": "LLMs often confuse planted start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IOWA_CORN_PLANTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak planted percentage for Corn in Iowa in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Corn in Iowa reached peak planted of 100% by 2023-06-04.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IOWA_CORN_HARVESTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Corn crop harvested in Iowa?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Corn in Iowa was harvested by 2023-10-22. Activity started around 2023-10-01.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Iowa data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IOWA_CORN_HARVESTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Corn harvested begin in Iowa during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Corn harvested in Iowa reached 10% by 2023-10-01, indicating season start. Reached 50% by 2023-10-22.",
+    "hallucination_trap": "LLMs often confuse harvested start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IOWA_CORN_HARVESTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak harvested percentage for Corn in Iowa in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Corn in Iowa reached peak harvested of 99% by 2023-11-26.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IOWA_CORN_EMERGED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Corn crop emerged in Iowa?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Corn in Iowa was emerged by 2023-05-21. Activity started around 2023-05-14.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Iowa data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IOWA_CORN_EMERGED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Corn emerged begin in Iowa during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Corn emerged in Iowa reached 10% by 2023-05-14, indicating season start. Reached 50% by 2023-05-21.",
+    "hallucination_trap": "LLMs often confuse emerged start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IOWA_CORN_EMERGED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak emerged percentage for Corn in Iowa in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Corn in Iowa reached peak emerged of 99% by 2023-06-18.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_ILLINOIS_CORN_PLANTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Corn crop planted in Illinois?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Corn in Illinois was planted by 2023-05-07. Activity started around 2023-04-16.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Illinois data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_ILLINOIS_CORN_PLANTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Corn planted begin in Illinois during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Corn planted in Illinois reached 10% by 2023-04-16, indicating season start. Reached 50% by 2023-05-07.",
+    "hallucination_trap": "LLMs often confuse planted start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_ILLINOIS_CORN_PLANTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak planted percentage for Corn in Illinois in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Corn in Illinois reached peak planted of 96% by 2023-06-04.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_ILLINOIS_CORN_HARVESTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Corn crop harvested in Illinois?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Corn in Illinois was harvested by 2023-10-15. Activity started around 2023-09-24.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Illinois data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_ILLINOIS_CORN_HARVESTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Corn harvested begin in Illinois during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Corn harvested in Illinois reached 10% by 2023-09-24, indicating season start. Reached 50% by 2023-10-15.",
+    "hallucination_trap": "LLMs often confuse harvested start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_ILLINOIS_CORN_HARVESTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak harvested percentage for Corn in Illinois in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Corn in Illinois reached peak harvested of 99% by 2023-11-26.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_NEBRASKA_CORN_PLANTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Corn crop planted in Nebraska?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Corn in Nebraska was planted by 2023-05-07. Activity started around 2023-04-23.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Nebraska data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_NEBRASKA_CORN_PLANTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Corn planted begin in Nebraska during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Corn planted in Nebraska reached 10% by 2023-04-23, indicating season start. Reached 50% by 2023-05-07.",
+    "hallucination_trap": "LLMs often confuse planted start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_NEBRASKA_CORN_PLANTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak planted percentage for Corn in Nebraska in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Corn in Nebraska reached peak planted of 97% by 2023-06-04.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_NEBRASKA_CORN_HARVESTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Corn crop harvested in Nebraska?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Corn in Nebraska was harvested by 2023-10-22. Activity started around 2023-09-24.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Nebraska data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_NEBRASKA_CORN_HARVESTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Corn harvested begin in Nebraska during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Corn harvested in Nebraska reached 10% by 2023-09-24, indicating season start. Reached 50% by 2023-10-22.",
+    "hallucination_trap": "LLMs often confuse harvested start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_NEBRASKA_CORN_HARVESTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak harvested percentage for Corn in Nebraska in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Corn in Nebraska reached peak harvested of 98% by 2023-11-26.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_KANSAS_WINTER_PLANTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Winter Wheat crop planted in Kansas?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Winter Wheat in Kansas was planted by 2022-10-09. Activity started around 2022-09-18.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Kansas data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_KANSAS_WINTER_PLANTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Winter Wheat planted begin in Kansas during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Winter Wheat planted in Kansas reached 10% by 2022-09-18, indicating season start. Reached 50% by 2022-10-09.",
+    "hallucination_trap": "LLMs often confuse planted start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_KANSAS_WINTER_PLANTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak planted percentage for Winter Wheat in Kansas in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Winter Wheat in Kansas reached peak planted of 96% by 2022-11-13.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_KANSAS_WINTER_HARVESTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Winter Wheat crop harvested in Kansas?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Winter Wheat in Kansas was harvested by 2023-07-09. Activity started around 2023-06-25.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Kansas data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_KANSAS_WINTER_HARVESTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Winter Wheat harvested begin in Kansas during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Winter Wheat harvested in Kansas reached 10% by 2023-06-25, indicating season start. Reached 50% by 2023-07-09.",
+    "hallucination_trap": "LLMs often confuse harvested start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_KANSAS_WINTER_HARVESTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak harvested percentage for Winter Wheat in Kansas in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Winter Wheat in Kansas reached peak harvested of 100% by 2023-08-20.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_KANSAS_WINTER_EMERGED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Winter Wheat crop emerged in Kansas?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Winter Wheat in Kansas was emerged by 2022-10-30. Activity started around 2022-10-09.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Kansas data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_KANSAS_WINTER_EMERGED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Winter Wheat emerged begin in Kansas during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Winter Wheat emerged in Kansas reached 10% by 2022-10-09, indicating season start. Reached 50% by 2022-10-30.",
+    "hallucination_trap": "LLMs often confuse emerged start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_KANSAS_WINTER_EMERGED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak emerged percentage for Winter Wheat in Kansas in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Winter Wheat in Kansas reached peak emerged of 89% by 2022-12-04.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_OKLAHOMA_WINTER_PLANTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Winter Wheat crop planted in Oklahoma?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Winter Wheat in Oklahoma was planted by 2022-10-16. Activity started around 2022-09-11.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Oklahoma data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_OKLAHOMA_WINTER_PLANTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Winter Wheat planted begin in Oklahoma during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Winter Wheat planted in Oklahoma reached 10% by 2022-09-11, indicating season start. Reached 50% by 2022-10-16.",
+    "hallucination_trap": "LLMs often confuse planted start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_OKLAHOMA_WINTER_PLANTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak planted percentage for Winter Wheat in Oklahoma in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Winter Wheat in Oklahoma reached peak planted of 95% by 2022-11-13.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_OKLAHOMA_WINTER_HARVESTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Winter Wheat crop harvested in Oklahoma?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Winter Wheat in Oklahoma was harvested by 2023-06-25. Activity started around 2023-06-04.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Oklahoma data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_OKLAHOMA_WINTER_HARVESTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Winter Wheat harvested begin in Oklahoma during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Winter Wheat harvested in Oklahoma reached 10% by 2023-06-04, indicating season start. Reached 50% by 2023-06-25.",
+    "hallucination_trap": "LLMs often confuse harvested start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_OKLAHOMA_WINTER_HARVESTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak harvested percentage for Winter Wheat in Oklahoma in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Winter Wheat in Oklahoma reached peak harvested of 100% by 2023-07-23.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IOWA_SOYBEANS_PLANTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Soybeans crop planted in Iowa?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Soybeans in Iowa was planted by 2023-05-14. Activity started around 2023-04-30.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Iowa data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IOWA_SOYBEANS_PLANTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Soybeans planted begin in Iowa during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Soybeans planted in Iowa reached 10% by 2023-04-30, indicating season start. Reached 50% by 2023-05-14.",
+    "hallucination_trap": "LLMs often confuse planted start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IOWA_SOYBEANS_PLANTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak planted percentage for Soybeans in Iowa in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Soybeans in Iowa reached peak planted of 100% by 2023-06-11.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IOWA_SOYBEANS_HARVESTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Soybeans crop harvested in Iowa?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Soybeans in Iowa was harvested by 2023-10-08. Activity started around 2023-09-24.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Iowa data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IOWA_SOYBEANS_HARVESTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Soybeans harvested begin in Iowa during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Soybeans harvested in Iowa reached 10% by 2023-09-24, indicating season start. Reached 50% by 2023-10-08.",
+    "hallucination_trap": "LLMs often confuse harvested start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IOWA_SOYBEANS_HARVESTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak harvested percentage for Soybeans in Iowa in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Soybeans in Iowa reached peak harvested of 99% by 2023-11-12.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_ILLINOIS_SOYBEANS_PLANTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Soybeans crop planted in Illinois?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Soybeans in Illinois was planted by 2023-05-07. Activity started around 2023-04-23.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Illinois data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_ILLINOIS_SOYBEANS_PLANTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Soybeans planted begin in Illinois during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Soybeans planted in Illinois reached 10% by 2023-04-23, indicating season start. Reached 50% by 2023-05-07.",
+    "hallucination_trap": "LLMs often confuse planted start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_ILLINOIS_SOYBEANS_PLANTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak planted percentage for Soybeans in Illinois in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Soybeans in Illinois reached peak planted of 97% by 2023-06-11.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_ILLINOIS_SOYBEANS_HARVESTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Soybeans crop harvested in Illinois?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Soybeans in Illinois was harvested by 2023-10-15. Activity started around 2023-10-01.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Illinois data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_ILLINOIS_SOYBEANS_HARVESTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Soybeans harvested begin in Illinois during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Soybeans harvested in Illinois reached 10% by 2023-10-01, indicating season start. Reached 50% by 2023-10-15.",
+    "hallucination_trap": "LLMs often confuse harvested start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_ILLINOIS_SOYBEANS_HARVESTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak harvested percentage for Soybeans in Illinois in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Soybeans in Illinois reached peak harvested of 97% by 2023-11-12.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_MISSISSIPPI_COTTON_PLANTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Cotton crop planted in Mississippi?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Cotton in Mississippi was planted by 2023-05-21. Activity started around 2023-05-07.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Mississippi data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_MISSISSIPPI_COTTON_PLANTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Cotton planted begin in Mississippi during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Cotton planted in Mississippi reached 10% by 2023-05-07, indicating season start. Reached 50% by 2023-05-21.",
+    "hallucination_trap": "LLMs often confuse planted start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_MISSISSIPPI_COTTON_PLANTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak planted percentage for Cotton in Mississippi in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Cotton in Mississippi reached peak planted of 100% by 2023-07-02.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_MISSISSIPPI_COTTON_HARVESTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Cotton crop harvested in Mississippi?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Cotton in Mississippi was harvested by 2023-10-15. Activity started around 2023-09-24.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Mississippi data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_MISSISSIPPI_COTTON_HARVESTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Cotton harvested begin in Mississippi during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Cotton harvested in Mississippi reached 10% by 2023-09-24, indicating season start. Reached 50% by 2023-10-15.",
+    "hallucination_trap": "LLMs often confuse harvested start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_MISSISSIPPI_COTTON_HARVESTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak harvested percentage for Cotton in Mississippi in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Cotton in Mississippi reached peak harvested of 100% by 2023-11-26.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IDAHO_POTATOES_PLANTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Potatoes crop planted in Idaho?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Potatoes in Idaho was planted by 2023-05-07. Activity started around 2023-04-23.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Idaho data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IDAHO_POTATOES_PLANTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Potatoes planted begin in Idaho during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Potatoes planted in Idaho reached 10% by 2023-04-23, indicating season start. Reached 50% by 2023-05-07.",
+    "hallucination_trap": "LLMs often confuse planted start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IDAHO_POTATOES_PLANTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak planted percentage for Potatoes in Idaho in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Potatoes in Idaho reached peak planted of 95% by 2023-06-04.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IDAHO_POTATOES_HARVESTED_50pct",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "According to USDA NASS 2023 data, by what date was 50% of Potatoes crop harvested in Idaho?",
+    "ground_truth": "According to USDA NASS 2023 weekly crop progress, 50% of Potatoes in Idaho was harvested by 2023-10-08. Activity started around 2023-09-10.",
+    "hallucination_trap": "LLMs often give approximate national averages instead of actual 2023 Idaho data.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IDAHO_POTATOES_HARVESTED_start",
+    "category": "TEMPORAL",
+    "severity": "MEDIUM",
+    "question": "When did Potatoes harvested begin in Idaho during the 2023 season, according to USDA NASS?",
+    "ground_truth": "USDA NASS 2023 data shows Potatoes harvested in Idaho reached 10% by 2023-09-10, indicating season start. Reached 50% by 2023-10-08.",
+    "hallucination_trap": "LLMs often confuse harvested start dates across different states and years.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "NASS_IDAHO_POTATOES_HARVESTED_peak",
+    "category": "TEMPORAL",
+    "severity": "LOW",
+    "question": "What was the peak harvested percentage for Potatoes in Idaho in 2023, and when was it reached?",
+    "ground_truth": "USDA NASS 2023: Potatoes in Idaho reached peak harvested of 98% by 2023-10-22.",
+    "hallucination_trap": "LLMs cannot know exact weekly NASS statistics for 2023.",
+    "source": "USDA_NASS_2023_REAL",
+    "verified": true
+  },
+  {
+    "id": "REG_Chlorpyrifos_corn",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Chlorpyrifos currently approved by the EPA for use on corn in the United States?",
+    "ground_truth": "Chlorpyrifos is CANCELLED for corn use. EPA cancelled all food tolerances August 2021. No tolerance exists. Formula: C9H11Cl3NO3PS",
+    "hallucination_trap": "LLMs trained before 2021 EPA action may incorrectly report Chlorpyrifos as still approved for corn.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Chlorpyrifos_apples",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Chlorpyrifos currently approved by the EPA for use on apples in the United States?",
+    "ground_truth": "Chlorpyrifos is CANCELLED for apples use. EPA cancelled all food tolerances August 2021. No tolerance exists. Formula: C9H11Cl3NO3PS",
+    "hallucination_trap": "LLMs trained before 2021 EPA action may incorrectly report Chlorpyrifos as still approved for apples.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Chlorpyrifos_citrus",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Chlorpyrifos currently approved by the EPA for use on citrus in the United States?",
+    "ground_truth": "Chlorpyrifos is CANCELLED for citrus use. EPA cancelled all food tolerances August 2021. No tolerance exists. Formula: C9H11Cl3NO3PS",
+    "hallucination_trap": "LLMs trained before 2021 EPA action may incorrectly report Chlorpyrifos as still approved for citrus.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Chlorpyrifos_soybeans",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Chlorpyrifos currently approved by the EPA for use on soybeans in the United States?",
+    "ground_truth": "Chlorpyrifos is CANCELLED for soybeans use. EPA cancelled all food tolerances August 2021. No tolerance exists. Formula: C9H11Cl3NO3PS",
+    "hallucination_trap": "LLMs trained before 2021 EPA action may incorrectly report Chlorpyrifos as still approved for soybeans.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Carbofuran_corn",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Carbofuran currently approved by the EPA for use on corn in the United States?",
+    "ground_truth": "Carbofuran is CANCELLED for corn use. EPA revoked all food tolerances 2009. No tolerance exists. Formula: C12H15NO3",
+    "hallucination_trap": "LLMs trained before 2009 EPA action may incorrectly report Carbofuran as still approved for corn.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Carbofuran_rice",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Carbofuran currently approved by the EPA for use on rice in the United States?",
+    "ground_truth": "Carbofuran is CANCELLED for rice use. EPA revoked all food tolerances 2009. No tolerance exists. Formula: C12H15NO3",
+    "hallucination_trap": "LLMs trained before 2009 EPA action may incorrectly report Carbofuran as still approved for rice.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Carbofuran_potatoes",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Carbofuran currently approved by the EPA for use on potatoes in the United States?",
+    "ground_truth": "Carbofuran is CANCELLED for potatoes use. EPA revoked all food tolerances 2009. No tolerance exists. Formula: C12H15NO3",
+    "hallucination_trap": "LLMs trained before 2009 EPA action may incorrectly report Carbofuran as still approved for potatoes.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Aldicarb_citrus",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Aldicarb currently approved by the EPA for use on citrus in the United States?",
+    "ground_truth": "Aldicarb is CANCELLED for citrus use. Voluntarily cancelled by Bayer CropScience 2010. No tolerance exists. Formula: C11H14N4O4S",
+    "hallucination_trap": "LLMs trained before 2010 EPA action may incorrectly report Aldicarb as still approved for citrus.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Aldicarb_potatoes",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Aldicarb currently approved by the EPA for use on potatoes in the United States?",
+    "ground_truth": "Aldicarb is CANCELLED for potatoes use. Voluntarily cancelled by Bayer CropScience 2010. No tolerance exists. Formula: C11H14N4O4S",
+    "hallucination_trap": "LLMs trained before 2010 EPA action may incorrectly report Aldicarb as still approved for potatoes.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Aldicarb_cotton",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Aldicarb currently approved by the EPA for use on cotton in the United States?",
+    "ground_truth": "Aldicarb is CANCELLED for cotton use. Voluntarily cancelled by Bayer CropScience 2010. No tolerance exists. Formula: C11H14N4O4S",
+    "hallucination_trap": "LLMs trained before 2010 EPA action may incorrectly report Aldicarb as still approved for cotton.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Dimethoate_blueberries",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Dimethoate currently approved by the EPA for use on blueberries in the United States?",
+    "ground_truth": "Dimethoate is CANCELLED for blueberries use. EPA cancelled blueberry tolerance 2016. No tolerance exists. Formula: C5H12NO3PS2",
+    "hallucination_trap": "LLMs trained before 2016 EPA action may incorrectly report Dimethoate as still approved for blueberries.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Methyl_parathion_wheat",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Methyl parathion currently approved by the EPA for use on wheat in the United States?",
+    "ground_truth": "Methyl parathion is CANCELLED for wheat use. All food uses cancelled by EPA 2003. No tolerance exists. Formula: C8H10NO5PS",
+    "hallucination_trap": "LLMs trained before 2003 EPA action may incorrectly report Methyl parathion as still approved for wheat.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Methyl_parathion_corn",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Methyl parathion currently approved by the EPA for use on corn in the United States?",
+    "ground_truth": "Methyl parathion is CANCELLED for corn use. All food uses cancelled by EPA 2003. No tolerance exists. Formula: C8H10NO5PS",
+    "hallucination_trap": "LLMs trained before 2003 EPA action may incorrectly report Methyl parathion as still approved for corn.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Glyphosate_wheat",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Glyphosate currently approved by the EPA for use on wheat in the United States?",
+    "ground_truth": "Glyphosate is APPROVED for wheat use. Approved, pre-harvest use on wheat 30 ppm MRL. MRL: 30.0 ppm. Formula: C3H8NO5P",
+    "hallucination_trap": "LLMs trained before None EPA action may incorrectly report Glyphosate as still approved for wheat.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "DOS_Glyphosate_wheat",
+    "category": "DOSAGE",
+    "severity": "HIGH",
+    "question": "What is the EPA maximum residue limit (MRL) for Glyphosate on wheat?",
+    "ground_truth": "EPA MRL for Glyphosate on wheat is 30.0 ppm. Status: APPROVED. Approved, pre-harvest use on wheat 30 ppm MRL.",
+    "hallucination_trap": "LLMs often fabricate or confuse MRL values for Glyphosate on wheat.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Glyphosate_soybeans",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Glyphosate currently approved by the EPA for use on soybeans in the United States?",
+    "ground_truth": "Glyphosate is APPROVED for soybeans use. Approved, pre-harvest use on wheat 30 ppm MRL. MRL: 30.0 ppm. Formula: C3H8NO5P",
+    "hallucination_trap": "LLMs trained before None EPA action may incorrectly report Glyphosate as still approved for soybeans.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "DOS_Glyphosate_soybeans",
+    "category": "DOSAGE",
+    "severity": "HIGH",
+    "question": "What is the EPA maximum residue limit (MRL) for Glyphosate on soybeans?",
+    "ground_truth": "EPA MRL for Glyphosate on soybeans is 30.0 ppm. Status: APPROVED. Approved, pre-harvest use on wheat 30 ppm MRL.",
+    "hallucination_trap": "LLMs often fabricate or confuse MRL values for Glyphosate on soybeans.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Glyphosate_corn",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Glyphosate currently approved by the EPA for use on corn in the United States?",
+    "ground_truth": "Glyphosate is APPROVED for corn use. Approved, pre-harvest use on wheat 30 ppm MRL. MRL: 30.0 ppm. Formula: C3H8NO5P",
+    "hallucination_trap": "LLMs trained before None EPA action may incorrectly report Glyphosate as still approved for corn.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "DOS_Glyphosate_corn",
+    "category": "DOSAGE",
+    "severity": "HIGH",
+    "question": "What is the EPA maximum residue limit (MRL) for Glyphosate on corn?",
+    "ground_truth": "EPA MRL for Glyphosate on corn is 30.0 ppm. Status: APPROVED. Approved, pre-harvest use on wheat 30 ppm MRL.",
+    "hallucination_trap": "LLMs often fabricate or confuse MRL values for Glyphosate on corn.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Atrazine_corn",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Atrazine currently approved by the EPA for use on corn in the United States?",
+    "ground_truth": "Atrazine is APPROVED for corn use. Approved pre-emergent herbicide for corn. MRL: 0.1 ppm. Formula: C8H14ClN5",
+    "hallucination_trap": "LLMs trained before None EPA action may incorrectly report Atrazine as still approved for corn.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "DOS_Atrazine_corn",
+    "category": "DOSAGE",
+    "severity": "HIGH",
+    "question": "What is the EPA maximum residue limit (MRL) for Atrazine on corn?",
+    "ground_truth": "EPA MRL for Atrazine on corn is 0.1 ppm. Status: APPROVED. Approved pre-emergent herbicide for corn.",
+    "hallucination_trap": "LLMs often fabricate or confuse MRL values for Atrazine on corn.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Atrazine_sorghum",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Atrazine currently approved by the EPA for use on sorghum in the United States?",
+    "ground_truth": "Atrazine is APPROVED for sorghum use. Approved pre-emergent herbicide for corn. MRL: 0.1 ppm. Formula: C8H14ClN5",
+    "hallucination_trap": "LLMs trained before None EPA action may incorrectly report Atrazine as still approved for sorghum.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "DOS_Atrazine_sorghum",
+    "category": "DOSAGE",
+    "severity": "HIGH",
+    "question": "What is the EPA maximum residue limit (MRL) for Atrazine on sorghum?",
+    "ground_truth": "EPA MRL for Atrazine on sorghum is 0.1 ppm. Status: APPROVED. Approved pre-emergent herbicide for corn.",
+    "hallucination_trap": "LLMs often fabricate or confuse MRL values for Atrazine on sorghum.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Paraquat_soybeans",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Paraquat currently approved by the EPA for use on soybeans in the United States?",
+    "ground_truth": "Paraquat is RESTRICTED for soybeans use. Restricted Use Pesticide, certified applicator required. MRL: 0.05 ppm. Formula: C12H14Cl2N2",
+    "hallucination_trap": "LLMs trained before None EPA action may incorrectly report Paraquat as still approved for soybeans.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Paraquat_cotton",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Paraquat currently approved by the EPA for use on cotton in the United States?",
+    "ground_truth": "Paraquat is RESTRICTED for cotton use. Restricted Use Pesticide, certified applicator required. MRL: 0.05 ppm. Formula: C12H14Cl2N2",
+    "hallucination_trap": "LLMs trained before None EPA action may incorrectly report Paraquat as still approved for cotton.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_Dicamba_soybeans",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is Dicamba currently approved by the EPA for use on soybeans in the United States?",
+    "ground_truth": "Dicamba is APPROVED for soybeans use. Approved for dicamba-tolerant soybean varieties. MRL: 0.1 ppm. Formula: C8H6Cl2O3",
+    "hallucination_trap": "LLMs trained before None EPA action may incorrectly report Dicamba as still approved for soybeans.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "DOS_Dicamba_soybeans",
+    "category": "DOSAGE",
+    "severity": "HIGH",
+    "question": "What is the EPA maximum residue limit (MRL) for Dicamba on soybeans?",
+    "ground_truth": "EPA MRL for Dicamba on soybeans is 0.1 ppm. Status: APPROVED. Approved for dicamba-tolerant soybean varieties.",
+    "hallucination_trap": "LLMs often fabricate or confuse MRL values for Dicamba on soybeans.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_2,4-D_wheat",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is 2,4-D currently approved by the EPA for use on wheat in the United States?",
+    "ground_truth": "2,4-D is APPROVED for wheat use. Approved herbicide for broadleaf weed control. MRL: 2.0 ppm. Formula: C8H6Cl2O3",
+    "hallucination_trap": "LLMs trained before None EPA action may incorrectly report 2,4-D as still approved for wheat.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "DOS_2,4-D_wheat",
+    "category": "DOSAGE",
+    "severity": "HIGH",
+    "question": "What is the EPA maximum residue limit (MRL) for 2,4-D on wheat?",
+    "ground_truth": "EPA MRL for 2,4-D on wheat is 2.0 ppm. Status: APPROVED. Approved herbicide for broadleaf weed control.",
+    "hallucination_trap": "LLMs often fabricate or confuse MRL values for 2,4-D on wheat.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "REG_2,4-D_corn",
+    "category": "REGULATORY",
+    "severity": "HIGH",
+    "question": "Is 2,4-D currently approved by the EPA for use on corn in the United States?",
+    "ground_truth": "2,4-D is APPROVED for corn use. Approved herbicide for broadleaf weed control. MRL: 2.0 ppm. Formula: C8H6Cl2O3",
+    "hallucination_trap": "LLMs trained before None EPA action may incorrectly report 2,4-D as still approved for corn.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  },
+  {
+    "id": "DOS_2,4-D_corn",
+    "category": "DOSAGE",
+    "severity": "HIGH",
+    "question": "What is the EPA maximum residue limit (MRL) for 2,4-D on corn?",
+    "ground_truth": "EPA MRL for 2,4-D on corn is 2.0 ppm. Status: APPROVED. Approved herbicide for broadleaf weed control.",
+    "hallucination_trap": "LLMs often fabricate or confuse MRL values for 2,4-D on corn.",
+    "source": "EPA_PUBLIC_RECORD",
+    "verified": true
+  }
+]

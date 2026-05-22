@@ -1,0 +1,20 @@
+pesticide_name,cid,molecular_formula,iupac_name,source
+Chlorpyrifos,2730,C9H11Cl3NO3PS,"diethoxy-thioxo-[(3,5,6-trichloro-2-pyridyl)oxy]phosphorane",PubChem
+Glyphosate,3496,C3H8NO5P,2-(phosphonomethylamino)acetic acid,PubChem
+Atrazine,2256,C8H14ClN5,[4-chloro-6-(ethylamino)-s-triazin-2-yl]-isopropyl-amine,PubChem
+Carbofuran,2566,C12H15NO3,"N-methylcarbamic acid (2,2-dimethylcoumaran-7-yl) ester",PubChem
+Paraquat,15938,C12H14Cl2N2,1-methyl-4-(1-methylpyridin-1-ium-4-yl)pyridin-1-ium dichloride,PubChem
+Malathion,4004,C10H19O6PS2,2-(dimethoxythiophosphorylthio)succinic acid diethyl ester,PubChem
+Imidacloprid,86418,C9H10ClN5O2,N-[1-[(6-chloro-3-pyridyl)methyl]-2-imidazolin-2-yl]nitramide,PubChem
+Thiamethoxam,213784,C11H12Cl2N2,"(2,4-dichlorophenyl)-(1-methylpyrrolidin-2-ylidene)amine",PubChem
+Spinosad,443059,C41H65NO10,"(1S,2R,5S,7R,9R,10S,14R,15S,19S)-15-[(2R,5S,6R)-5-(dimethylamino)-6-methyl-tetrahydropyran-2-yl]oxy-19-ethyl-14-methyl-7-[(2R,3R,4R,5S,6S)-3,4,5-trimethoxy-6-methyl-tetrahydropyran-2-yl]oxy-20-oxatetracyclo[10.10.0.02,10.05,9]docosa-3,11-diene-13,21-quinone",PubChem
+Mancozeb,15933,C14H21N3O3,5-[4-(diethylamino)but-2-ynyl]-5-ethyl-barbituric acid,PubChem
+Captan,8606,C9H8Cl3NO2S,"2-(trichloromethylthio)-3a,4,7,7a-tetrahydroisoindole-1,3-quinone",PubChem
+Propiconazole,43234,C15H17Cl2N3O2,"1-[[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl]-1,2,4-triazole",PubChem
+"2,4-D",1486,C8H6Cl2O3,"2-(2,4-dichlorophenoxy)acetic acid",PubChem
+Aldicarb,9570,C11H14N4O4S,"(2R,3S,4R,5R)-2-methylol-5-[6-(methylthio)purin-9-yl]tetrahydrofuran-3,4-diol",PubChem
+Dimethoate,3082,C5H12NO3PS2,2-(dimethoxythiophosphorylthio)-N-methyl-acetamide,PubChem
+Methyl parathion,4130,C8H10NO5PS,dimethoxy-(4-nitrophenoxy)-thioxo-phosphorane,PubChem
+Dicamba,3030,C8H6Cl2O3,"3,6-dichloro-2-methoxy-benzoic acid",PubChem
+Metolachlor,24486,CaCl2H12O6,calcium;dichloride;hexahydrate,PubChem
+Pendimethalin,38479,C13H19N3O4,"(3,4-dimethyl-2,6-dinitro-phenyl)-(1-ethylpropyl)amine",PubChem

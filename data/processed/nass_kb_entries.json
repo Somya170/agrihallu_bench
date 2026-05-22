@@ -1,0 +1,155 @@
+[
+  {
+    "id": "kb_nass_2023_illinois_corn",
+    "text": "USDA NASS 2023 ILLINOIS CORN planting progress: Season started (10% planted) by 2023-04-16. 50% planted by 2023-05-07. 100% planted by unknown. Source: USDA NASS 2023 Weekly Crop Progress.",
+    "keywords": [
+      "illinois",
+      "corn",
+      "2023",
+      "nass",
+      "planted",
+      "planting",
+      "progress",
+      "usda",
+      "2023-04-16",
+      "2023-05-07",
+      "unknown"
+    ]
+  },
+  {
+    "id": "kb_nass_2023_iowa_corn",
+    "text": "USDA NASS 2023 IOWA CORN planting progress: Season started (10% planted) by 2023-04-23. 50% planted by 2023-05-07. 100% planted by 2023-06-04. Source: USDA NASS 2023 Weekly Crop Progress.",
+    "keywords": [
+      "iowa",
+      "corn",
+      "2023",
+      "nass",
+      "planted",
+      "planting",
+      "progress",
+      "usda",
+      "2023-04-23",
+      "2023-05-07",
+      "2023-06-04"
+    ]
+  },
+  {
+    "id": "kb_nass_2023_nebraska_corn",
+    "text": "USDA NASS 2023 NEBRASKA CORN planting progress: Season started (10% planted) by 2023-04-23. 50% planted by 2023-05-07. 100% planted by unknown. Source: USDA NASS 2023 Weekly Crop Progress.",
+    "keywords": [
+      "nebraska",
+      "corn",
+      "2023",
+      "nass",
+      "planted",
+      "planting",
+      "progress",
+      "usda",
+      "2023-04-23",
+      "2023-05-07",
+      "unknown"
+    ]
+  },
+  {
+    "id": "kb_nass_2023_mississippi_cotton",
+    "text": "USDA NASS 2023 MISSISSIPPI COTTON planting progress: Season started (10% planted) by 2023-05-07. 50% planted by 2023-05-21. 100% planted by 2023-07-02. Source: USDA NASS 2023 Weekly Crop Progress.",
+    "keywords": [
+      "mississippi",
+      "cotton",
+      "2023",
+      "nass",
+      "planted",
+      "planting",
+      "progress",
+      "usda",
+      "2023-05-07",
+      "2023-05-21",
+      "2023-07-02"
+    ]
+  },
+  {
+    "id": "kb_nass_2023_idaho_potatoes",
+    "text": "USDA NASS 2023 IDAHO POTATOES planting progress: Season started (10% planted) by 2023-04-23. 50% planted by 2023-05-07. 100% planted by unknown. Source: USDA NASS 2023 Weekly Crop Progress.",
+    "keywords": [
+      "idaho",
+      "potatoes",
+      "2023",
+      "nass",
+      "planted",
+      "planting",
+      "progress",
+      "usda",
+      "2023-04-23",
+      "2023-05-07",
+      "unknown"
+    ]
+  },
+  {
+    "id": "kb_nass_2023_illinois_soybeans",
+    "text": "USDA NASS 2023 ILLINOIS SOYBEANS planting progress: Season started (10% planted) by 2023-04-23. 50% planted by 2023-05-07. 100% planted by unknown. Source: USDA NASS 2023 Weekly Crop Progress.",
+    "keywords": [
+      "illinois",
+      "soybeans",
+      "2023",
+      "nass",
+      "planted",
+      "planting",
+      "progress",
+      "usda",
+      "2023-04-23",
+      "2023-05-07",
+      "unknown"
+    ]
+  },
+  {
+    "id": "kb_nass_2023_iowa_soybeans",
+    "text": "USDA NASS 2023 IOWA SOYBEANS planting progress: Season started (10% planted) by 2023-04-30. 50% planted by 2023-05-14. 100% planted by 2023-06-11. Source: USDA NASS 2023 Weekly Crop Progress.",
+    "keywords": [
+      "iowa",
+      "soybeans",
+      "2023",
+      "nass",
+      "planted",
+      "planting",
+      "progress",
+      "usda",
+      "2023-04-30",
+      "2023-05-14",
+      "2023-06-11"
+    ]
+  },
+  {
+    "id": "kb_nass_2023_kansas_wheat",
+    "text": "USDA NASS 2023 KANSAS WHEAT planting progress: Season started (10% planted) by 2022-09-18. 50% planted by 2022-10-09. 100% planted by unknown. Source: USDA NASS 2023 Weekly Crop Progress.",
+    "keywords": [
+      "kansas",
+      "wheat",
+      "2023",
+      "nass",
+      "planted",
+      "planting",
+      "progress",
+      "usda",
+      "2022-09-18",
+      "2022-10-09",
+      "unknown"
+    ]
+  },
+  {
+    "id": "kb_nass_2023_oklahoma_wheat",
+    "text": "USDA NASS 2023 OKLAHOMA WHEAT planting progress: Season started (10% planted) by 2022-09-11. 50% planted by 2022-10-16. 100% planted by unknown. Source: USDA NASS 2023 Weekly Crop Progress.",
+    "keywords": [
+      "oklahoma",
+      "wheat",
+      "2023",
+      "nass",
+      "planted",
+      "planting",
+      "progress",
+      "usda",
+      "2022-09-11",
+      "2022-10-16",
+      "unknown"
+    ]
+  }
+]

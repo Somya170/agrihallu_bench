@@ -121,6 +121,46 @@ KNOWLEDGE_BASE = [
         "text": "Illinois Soybeans: Plant early May to early June. Harvest late September through October. Illinois is the top soybean producing state.",
         "keywords": ["illinois", "soybeans", "soybean", "plant", "harvest", "may", "june"]
     },
+    {
+        "id": "kb_oklahoma_winter_wheat",
+        "text": "Oklahoma Winter Wheat: Plant mid October to early November. Harvest June through early July. Oklahoma is second largest winter wheat state after Kansas.",
+        "keywords": ["oklahoma", "wheat", "winter wheat", "plant", "harvest", "october", "november", "june", "july"]
+    },
+    {
+        "id": "kb_washington_spring_wheat",
+        "text": "Washington Spring Wheat: Plant March through April. Harvest August through September. Washington Palouse region is top spring wheat area.",
+        "keywords": ["washington", "wheat", "spring wheat", "plant", "harvest", "march", "april", "august"]
+    },
+    {
+        "id": "kb_iowa_soybeans",
+        "text": "Iowa Soybeans: Plant early May to early June. Harvest October through November. Iowa is top soybean producing state alongside Illinois.",
+        "keywords": ["iowa", "soybeans", "soybean", "plant", "harvest", "may", "june", "october"]
+    },
+    {
+        "id": "kb_illinois_corn",
+        "text": "Illinois Corn: Plant late April to late May. Harvest October through November. Illinois is second largest corn producing state.",
+        "keywords": ["illinois", "corn", "plant", "harvest", "april", "may", "october", "november"]
+    },
+    {
+        "id": "kb_georgia_peanuts",
+        "text": "Georgia Peanuts: Plant late April to mid May. Harvest October through November. Georgia produces 40% of US peanuts.",
+        "keywords": ["georgia", "peanuts", "peanut", "plant", "harvest", "april", "may", "october"]
+    },
+    {
+        "id": "kb_mississippi_cotton",
+        "text": "Mississippi Cotton: Plant late April to mid May. Harvest October through November. Mississippi Delta is prime cotton region.",
+        "keywords": ["mississippi", "cotton", "plant", "harvest", "april", "may", "october"]
+    },
+    {
+        "id": "kb_wisconsin_cranberries",
+        "text": "Wisconsin Cranberries: Plant April through May. Harvest September through October. Wisconsin produces 60% of US cranberries.",
+        "keywords": ["wisconsin", "cranberries", "cranberry", "plant", "harvest", "april", "september", "october"]
+    },
+    {
+        "id": "kb_california_tomatoes",
+        "text": "California Tomatoes: Plant March through May. Harvest July through October. California produces 90% of US processed tomatoes.",
+        "keywords": ["california", "tomatoes", "tomato", "plant", "harvest", "march", "may", "july", "october"]
+    },
     # Fertilizer
     {
         "id": "kb_nitrogen_corn_iowa",
@@ -137,6 +177,60 @@ KNOWLEDGE_BASE = [
         "text": "Phosphorus for soybeans in Illinois: Recommended 40-80 lbs/acre pre-plant incorporated. Soybeans fix nitrogen so P and K are primary nutrient concerns.",
         "keywords": ["phosphorus", "soybeans", "illinois", "40", "80", "lbs", "acre", "pre-plant"]
     },
+
+
+
+
+
+
+
+
+    {
+        "id": "kb_nass_2023_iowa_soybeans_full",
+        "text": "USDA NASS 2023 IOWA SOYBEANS: PLANTING — Season started (10%) by 2023-04-30, 50% planted by 2023-05-14, 100% planted by 2023-06-11. HARVEST — Season started (10%) by 2023-09-24, 50% harvested by 2023-10-08, peak 99% harvested reached by 2023-11-12. Source: USDA NASS 2023 Weekly Crop Progress Reports.",
+        "keywords": ["iowa", "soybeans", "2023", "nass", "usda", "planted", "planting", "harvested", "harvest", "peak", "progress", "weekly", "2023-04-30", "2023-05-14", "2023-06-11", "2023-09-24", "2023-10-08", "2023-11-12"]
+    },
+    {
+        "id": "kb_nass_2023_oklahoma_wheat_full",
+        "text": "USDA NASS 2023 OKLAHOMA WHEAT: PLANTING — Season started (10%) by 2022-09-11, 50% planted by 2022-10-16, 100% planted by unknown. HARVEST — Season started (10%) by 2023-06-04, 50% harvested by 2023-06-25, peak 100% harvested reached by 2023-07-23. Source: USDA NASS 2023 Weekly Crop Progress Reports.",
+        "keywords": ["oklahoma", "wheat", "2023", "nass", "usda", "planted", "planting", "harvested", "harvest", "peak", "progress", "weekly", "2022-09-11", "2022-10-16", "2023-06-04", "2023-06-25", "2023-07-23"]
+    },
+    {
+        "id": "kb_nass_2023_mississippi_cotton_full",
+        "text": "USDA NASS 2023 MISSISSIPPI COTTON: PLANTING — Season started (10%) by 2023-05-07, 50% planted by 2023-05-21, 100% planted by 2023-07-02. HARVEST — Season started (10%) by 2023-09-24, 50% harvested by 2023-10-15, peak 100% harvested reached by 2023-11-26. Source: USDA NASS 2023 Weekly Crop Progress Reports.",
+        "keywords": ["mississippi", "cotton", "2023", "nass", "usda", "planted", "planting", "harvested", "harvest", "peak", "progress", "weekly", "2023-05-07", "2023-05-21", "2023-07-02", "2023-09-24", "2023-10-15", "2023-11-26"]
+    },
+    {
+        "id": "kb_nass_2023_illinois_corn_full",
+        "text": "USDA NASS 2023 ILLINOIS CORN: PLANTING — Season started (10%) by 2023-04-16, 50% planted by 2023-05-07, 100% planted by unknown. HARVEST — Season started (10%) by 2023-09-24, 50% harvested by 2023-10-15, peak 99% harvested reached by 2023-11-26. Source: USDA NASS 2023 Weekly Crop Progress Reports.",
+        "keywords": ["illinois", "corn", "2023", "nass", "usda", "planted", "planting", "harvested", "harvest", "peak", "progress", "weekly", "2023-04-16", "2023-05-07", "2023-09-24", "2023-10-15", "2023-11-26"]
+    },
+    {
+        "id": "kb_nass_2023_kansas_wheat_full",
+        "text": "USDA NASS 2023 KANSAS WHEAT: PLANTING — Season started (10%) by 2022-09-18, 50% planted by 2022-10-09, 100% planted by unknown. HARVEST — Season started (10%) by 2023-06-25, 50% harvested by 2023-07-09, peak 100% harvested reached by 2023-08-20. Source: USDA NASS 2023 Weekly Crop Progress Reports.",
+        "keywords": ["kansas", "wheat", "2023", "nass", "usda", "planted", "planting", "harvested", "harvest", "peak", "progress", "weekly", "2022-09-18", "2022-10-09", "2023-06-25", "2023-07-09", "2023-08-20"]
+    },
+    {
+        "id": "kb_nass_2023_iowa_corn_full",
+        "text": "USDA NASS 2023 IOWA CORN: PLANTING — Season started (10%) by 2023-04-23, 50% planted by 2023-05-07, 100% planted by 2023-06-04. HARVEST — Season started (10%) by 2023-10-01, 50% harvested by 2023-10-22, peak 99% harvested reached by 2023-11-26. Source: USDA NASS 2023 Weekly Crop Progress Reports.",
+        "keywords": ["iowa", "corn", "2023", "nass", "usda", "planted", "planting", "harvested", "harvest", "peak", "progress", "weekly", "2023-04-23", "2023-05-07", "2023-06-04", "2023-10-01", "2023-10-22", "2023-11-26"]
+    },
+    {
+        "id": "kb_nass_2023_idaho_potatoes_full",
+        "text": "USDA NASS 2023 IDAHO POTATOES: PLANTING — Season started (10%) by 2023-04-23, 50% planted by 2023-05-07, 100% planted by unknown. HARVEST — Season started (10%) by 2023-09-10, 50% harvested by 2023-10-08, peak 98% harvested reached by 2023-10-22. Source: USDA NASS 2023 Weekly Crop Progress Reports.",
+        "keywords": ["idaho", "potatoes", "2023", "nass", "usda", "planted", "planting", "harvested", "harvest", "peak", "progress", "weekly", "2023-04-23", "2023-05-07", "2023-09-10", "2023-10-08", "2023-10-22"]
+    },
+    {
+        "id": "kb_nass_2023_nebraska_corn_full",
+        "text": "USDA NASS 2023 NEBRASKA CORN: PLANTING — Season started (10%) by 2023-04-23, 50% planted by 2023-05-07, 100% planted by unknown. HARVEST — Season started (10%) by 2023-09-24, 50% harvested by 2023-10-22, peak 98% harvested reached by 2023-11-26. Source: USDA NASS 2023 Weekly Crop Progress Reports.",
+        "keywords": ["nebraska", "corn", "2023", "nass", "usda", "planted", "planting", "harvested", "harvest", "peak", "progress", "weekly", "2023-04-23", "2023-05-07", "2023-09-24", "2023-10-22", "2023-11-26"]
+    },
+    {
+        "id": "kb_nass_2023_illinois_soybeans_full",
+        "text": "USDA NASS 2023 ILLINOIS SOYBEANS: PLANTING — Season started (10%) by 2023-04-23, 50% planted by 2023-05-07, 100% planted by unknown. HARVEST — Season started (10%) by 2023-10-01, 50% harvested by 2023-10-15, peak 97% harvested reached by 2023-11-12. Source: USDA NASS 2023 Weekly Crop Progress Reports.",
+        "keywords": ["illinois", "soybeans", "2023", "nass", "usda", "planted", "planting", "harvested", "harvest", "peak", "progress", "weekly", "2023-04-23", "2023-05-07", "2023-10-01", "2023-10-15", "2023-11-12"]
+    },
+
 ]
 
 
@@ -392,7 +486,7 @@ if __name__ == "__main__":
     print("=== AgriHallu-Bench RAG v2 Evaluation ===")
     os.makedirs("results", exist_ok=True)
 
-    dataset = "datasets/agrihallu_v2.json"
+    dataset = "datasets/agrihallu_v3_real.json"
 
     print("\nRunning improved RAG on full dataset...")
     rag_df = evaluate_with_rag(
