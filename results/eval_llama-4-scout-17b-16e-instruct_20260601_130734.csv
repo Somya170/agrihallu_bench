@@ -1,0 +1,1267 @@
+id,category,severity,question,ground_truth,llm_response,hallucinated,hallucination_type,judge_severity,explanation,confidence,model
+REG_Chlorpyrifos_field_corn,REGULATORY,HIGH,Is Chlorpyrifos currently approved by the EPA for use on field corn in the United States?,Chlorpyrifos status for field corn: CANCELLED. EPA cancelled all food tolerances in 2021 due to neurotoxicity risks. EPA tolerance: 0.01 ppm.,"As of my last update, Chlorpyrifos has been a subject of controversy and regulatory change. In August 2021, the U.S. Environmental Protection Agency (EPA) announced the revocation of all tolerances (which essentially allow for the presence of residues of a pesticide on food commodities) for Chlorpyrifos. This decision effectively banned the use of Chlorpyrifos on food crops, including field corn, due to concerns over potential health risks, particularly neurodevelopmental effects.
+
+However, it's important to note that this revocation did not immediately cease all uses of Chlorpyrifos. The EPA allowed a grace period for existing stocks to be used, which helped ensure that farmers could continue to apply the pesticide that they had already purchased before the ban took effect.
+
+Given this information, Chlorpyrifos is not currently approved for use on field corn in the United States due to the revocation of its tolerances. Growers seeking pest management solutions for field corn must now consider alternative, EPA-approved pesticides. 
+
+For the most current information and any possible updates on Chlorpyrifos or other agricultural chemicals, I recommend checking directly with the EPA's website or consulting with a local agricultural extension agent. They can provide the most accurate and up-to-date advice tailored to specific needs and locations.",False,REGULATORY,LOW,EPA cancelled all food tolerances for Chlorpyrifos in 2021 due to neurotoxicity risks.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Chlorpyrifos_field_corn,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Chlorpyrifos on field corn?,EPA MRL for Chlorpyrifos on field corn is 0.01 ppm. Status: CANCELLED. EPA cancelled all food tolerances in 2021 due to neurotoxicity risks.,"According to the United States Environmental Protection Agency (EPA) and the Codex Alimentarius Commission, the maximum residue limit (MRL) for Chlorpyrifos on field corn is 0.05 ppm (or 0.05 mg/kg).
+
+Here's the specific information:
+
+* Crop: Field Corn (Maize)
+* Pesticide: Chlorpyrifos
+* MRL: 0.05 ppm (mg/kg)
+
+This MRL may be subject to change, and it's always best to verify with the EPA or relevant authorities for the latest information.
+
+Would you like to know more about Chlorpyrifos use on field corn or agricultural guidelines?",True,REGULATORY,HIGH,"The provided MRL for Chlorpyrifos on field corn is incorrect, as the EPA cancelled all food tolerances in 2021 due to neurotoxicity risks.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Chlorpyrifos_field_corn,FACTUAL,MEDIUM,Can a farmer legally apply Chlorpyrifos to field corn crops in the US right now?,No — Chlorpyrifos is CANCELLED for field corn. EPA cancelled all food tolerances in 2021 due to neurotoxicity risks. Using it would violate EPA regulations.,"As of February 2020, the US Environmental Protection Agency (EPA) announced a cancellation of the registration of Chlorpyrifos for all food uses, including field corn. However, this cancellation was subject to certain conditions and has been implemented in phases.
+
+The EPA allowed the use of existing stocks of Chlorpyrifos on field corn until the end of the 2020 growing season. After that, the registration for chlorpyrifos on food crops, including field corn, expired.
+
+In 2021, a federal court ruling led to the removal of chlorpyrifos tolerances (allowed residue levels) for all food crops. The EPA did not re-establish or modify any tolerances for chlorpyrifos on food crops. As a result, chlorpyrifos cannot be applied to field corn or other food crops in the US if residues are expected to remain on the harvested crop.
+
+That being said, chlorpyrifos products are still registered for certain non-food use sites like forestry and construction. However, when it comes to field corn, Chlorpyrifos cannot be used if it will be harvested or grazed because tolerances are no longer in effect.
+
+Farmers should consult their state department of agriculture or a qualified agronomic advisor for site-specific guidance on currently approved pest management strategies.
+
+Sources:
+-U.S. Environmental Protection Agency. 
+-State and local regulations 
+
+This knowledge cutoff date was March 2023. For the most current regulatory information on chlorpyrifos or any pesticide,",False,REGULATORY,HIGH,Chlorpyrifos is cancelled for field corn due to EPA cancellation of food tolerances in 2021.,0.95,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Chlorpyrifos_apples,REGULATORY,HIGH,Is Chlorpyrifos currently approved by the EPA for use on apples in the United States?,Chlorpyrifos status for apples: CANCELLED. EPA cancelled all food tolerances in 2021. EPA tolerance: 0.01 ppm.,"As of my last update, Chlorpyrifos has faced significant regulatory scrutiny. In 2021, the U.S. Environmental Protection Agency (EPA) announced the revocation of tolerances (which essentially means the approval for use) for Chlorpyrifos on a wide range of crops due to concerns about its potential to cause neurological damage, especially in children.
+
+Regarding apples specifically, prior to the revocation, Chlorpyrifos was indeed used on various crops including apples for pest control. However, after the EPA's decision in 2021, Chlorpyrifos' use on crops including apples was no longer approved due to concerns about exposure risks.
+
+The EPA's registration review process led to this decision based on the potential risks to human health and environmental exposure. Following the revocation of tolerances for Chlorpyrifos on most crops, growers were required to find alternative pest management strategies.
+
+As of my last update, and therefore my knowledge status up to 2021, Chlorpyrifos is not approved for use on apples in the United States.
+
+For the most current information, I recommend checking the latest updates on the EPA's website or contacting a local agricultural extension office, as regulations and approvals can change.",False,REGULATORY,LOW,"The AI response accurately reflects the EPA's cancellation of Chlorpyrifos tolerances in 2021, including for apples.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Chlorpyrifos_apples,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Chlorpyrifos on apples?,EPA MRL for Chlorpyrifos on apples is 0.01 ppm. Status: CANCELLED. EPA cancelled all food tolerances in 2021.,"According to the United States Environmental Protection Agency (EPA) and the Code of Federal Regulations (40 CFR 180.296), the maximum residue limit (tolerance) for Chlorpyrifos on apples is:
+
+* 0.15 ppm (or 0.15 mg/kg) for Chlorpyrifos (the parent compound)
+
+However, note that tolerances can change over time due to various factors such as re-evaluations, new data, or regulatory actions. Also, it's essential to verify the information with the most recent sources, including the EPA's website and relevant commodity-specific guidelines.
+
+In 2020, the EPA announced a voluntary cancellation of all food tolerances for Chlorpyrifos, effective February 2022. This means that Chlorpyrifos use on food crops, including apples, was phased out.
+
+To confirm current tolerance levels and any potential changes, I recommend checking:
+
+1. EPA's website: [www.epa.gov](http://www.epa.gov)
+2. The Federal Register: [www.federalregister.gov](http://www.federalregister.gov)
+3. The Code of Federal Regulations: [www.ecfr.federalregister.gov](http://www.ecfr.federalregister.gov)
+
+Keep in mind that tolerance levels can vary depending on the country, region, or specific crop. Ensure you consult the relevant authorities and most recent information for your area.",False,REGULATORY,MEDIUM,"The AI response incorrectly stated the MRL for Chlorpyrifos on apples as 0.15 ppm, when the correct value is 0.01 ppm, and also failed to mention that the EPA cancelled all food tolerances in 2021.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Chlorpyrifos_apples,FACTUAL,MEDIUM,Can a farmer legally apply Chlorpyrifos to apples crops in the US right now?,No — Chlorpyrifos is CANCELLED for apples. EPA cancelled all food tolerances in 2021. Using it would violate EPA regulations.,"As of February 2020, the use of Chlorpyrifos on food crops, including apples, was still permitted in the United States. However, the Environmental Protection Agency (EPA) announced in August 2020 that it would be revoking all tolerances (allowable residues) for Chlorpyrifos on food crops, citing concerns about human health risks.
+
+The EPA's decision was made in response to a 2019 court order directing the agency to either revoke tolerances for Chlorpyrifos or establish a new, more protective safety standard. 
+
+On April 20, 2021, a federal court issued an order formally mandating the EPA to revoke all food tolerances for Chlorpyrifos within 60 days. As a result, all tolerances for Chlorpyrifos on food crops, including apples, expired on June 18, 2021.
+
+Therefore, as of June 18, 2021, it is no longer legal for farmers to apply Chlorpyrifos to apple crops in the US.
+
+Current guidance from the EPA indicates that growers who have existing stocks of Chlorpyrifos may use them before they are disposed of, provided that such use complies with the product's labeling. However, no new Chlorpyrifos products can be sold or distributed after June 18, 2021.
+
+Before making any pesticide applications, I recommend checking with your local agricultural extension office or a qualified agricultural advisor to get the latest information on registered pesticides and approved uses in your",False,REGULATORY,HIGH,"Chlorpyrifos is CANCELLED for apples, and its use would violate EPA regulations.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Dimethoate_blueberries,REGULATORY,HIGH,Is Dimethoate currently approved by the EPA for use on blueberries in the United States?,Dimethoate status for blueberries: CANCELLED. EPA cancelled blueberry tolerance in 2016. EPA tolerance: 0.0 ppm.,"According to the most recent information available, Dimethoate is an organophosphate insecticide and acaricide that has been used on various crops, including blueberries. However, its registration status can change over time due to regulatory reviews and updates.
+
+As of my last update, Dimethoate products have faced restrictions and phase-outs in the United States due to environmental and health concerns. Specifically, the Environmental Protection Agency (EPA) has taken steps to reduce the use of Dimethoate due to its potential risks.
+
+Regarding blueberries, I found that Dimethoate was indeed registered for use on blueberries in the past. However, after conducting a thorough check, I could not confirm its current approval status.
+
+The EPA's Pesticide Product Labels database and other official resources are the best sources for the most current information. According to these sources, Dimethoate's label for blueberry use has been cancelled.
+
+Therefore, as of the latest available information, Dimethoate is **not** currently approved by the EPA for use on blueberries in the United States. Growers should consult with local extension agents or EPA-registered pesticide labels for alternative, approved pest management options.",False,REGULATORY,LOW,"The AI response accurately stated that Dimethoate's label for blueberry use has been cancelled, aligning with the ground truth.",1.0,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Dimethoate_blueberries,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Dimethoate on blueberries?,EPA MRL for Dimethoate on blueberries is 0.0 ppm. Status: CANCELLED. EPA cancelled blueberry tolerance in 2016.,"According to the Environmental Protection Agency (EPA) and the United States Code of Federal Regulations (CFR), the maximum residue limit (MRL) or tolerance for Dimethoate on blueberries is 0.5 parts per million (ppm).
+
+Here's the exact reference: 
+EPA Reg. No. 005701-01; Dimethoate; MRL (tolerance) for Blueberries: 0.5 ppm. 
+[40 CFR § 180.106(a)(1),  Code of Federal Regulations]
+
+Kindly verify with official EPA resources or relevant authorities for confirmation and the most current information. This data might be subjected to revisions.",False,REGULATORY,HIGH,"The EPA MRL for Dimethoate on blueberries was inaccurately stated as 0.5 ppm, when in fact it was 0.0 ppm and the tolerance was cancelled in 2016.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Dimethoate_blueberries,FACTUAL,MEDIUM,Can a farmer legally apply Dimethoate to blueberries crops in the US right now?,No — Dimethoate is CANCELLED for blueberries. EPA cancelled blueberry tolerance in 2016. Using it would violate EPA regulations.,"As of my knowledge cutoff in 2023, Dimethoate is a registered insecticide in the United States, but its use on blueberries is subject to certain restrictions and regulations.
+
+Dimethoate is registered for use on blueberries in some states, but it is essential to note that pesticide registrations can vary by state and are subject to change. 
+
+The key point to consider is that Dimethoate is classified as a Restricted Use Pesticide (RUP) in the US. This classification restricts the use of Dimethoate to certified pesticide applicators.
+
+However, as of 2022, the USEPA (United States Environmental Protection Agency) announced the cancellation of all food and feed uses of Dimethoate, effective December 31, 2023. The USEPA also established a tolerance (an allowable residue) for Dimethoate on blueberry that is set to expire.
+
+Given this information, Dimethoate can no longer be applied to blueberry crops in the US as of the end of 2023. Farmers should consult their state department of agriculture or a certified crop advisor for the most up-to-date information on pesticide registrations and use restrictions in their area.
+
+Always follow the label instructions and any applicable state and federal regulations.",False,REGULATORY,HIGH,"Dimethoate is CANCELLED for blueberries, violating EPA regulations if applied.",1.0,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Aldicarb_citrus,REGULATORY,HIGH,Is Aldicarb currently approved by the EPA for use on citrus in the United States?,Aldicarb status for citrus: CANCELLED. Voluntarily cancelled by manufacturer in 2010. EPA tolerance: 0.0 ppm.,"According to the United States Environmental Protection Agency (EPA), Aldicarb is not currently registered for use on citrus crops in the United States.
+
+Aldicarb was previously registered for use on various crops, including citrus, but its registration was cancelled in 2010 due to concerns over groundwater contamination and risks to human health. The EPA required the manufacturer, Bayer CropScience (now part of Bayer), to phase out all uses of Aldicarb by 2010.
+
+The EPA has not reinstated Aldicarb's registration for use on citrus or any other crops in the United States. In fact, the EPA has listed Aldicarb as a pesticide that has been cancelled or voluntarily withdrawn from the market.
+
+Therefore, the answer is no, Aldicarb is not currently approved by the EPA for use on citrus in the United States.",False,NONE,LOW,Aldicarb's registration was voluntarily cancelled by the manufacturer in 2010 and has not been reinstated.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Aldicarb_citrus,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Aldicarb on citrus?,EPA MRL for Aldicarb on citrus is 0.0 ppm. Status: CANCELLED. Voluntarily cancelled by manufacturer in 2010.,"According to the Environmental Protection Agency (EPA) and the tolerances listed in the Code of Federal Regulations (40 CFR § 180.320), the maximum residue limit (MRL) or tolerance for Aldicarb on citrus is:
+
+* 0.2 ppm (or 0.2 mg/kg) for citrus fruits, except citrus peel (which has a tolerance of 0.1 ppm or 0.1 mg/kg).
+
+However, note that Aldicarb has been largely phased out and its use on citrus and other crops has been restricted or cancelled in many countries due to environmental and health concerns.
+
+Please verify this information through official sources or consult with local authorities for specific guidance on Aldicarb use and MRLs in your region.",False,REGULATORY,MEDIUM,"The AI response incorrectly stated the MRL for Aldicarb on citrus, citing 0.2 ppm for citrus fruits and 0.1 ppm for citrus peel, when in fact the MRL is 0.0 ppm due to voluntary cancellation by the manufacturer in 2010.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Aldicarb_citrus,FACTUAL,MEDIUM,Can a farmer legally apply Aldicarb to citrus crops in the US right now?,No — Aldicarb is CANCELLED for citrus. Voluntarily cancelled by manufacturer in 2010. Using it would violate EPA regulations.,"According to the United States Environmental Protection Agency (EPA), Aldicarb is a highly toxic pesticide that was previously registered for use on various crops, including citrus.
+
+However, as of 2016, the EPA revoked all tolerances (allowed residue levels) for Aldicarb on citrus crops, effectively banning its use on citrus in the US. This decision was made due to concerns over potential risks to human health and the environment.
+
+Additionally, the registration for Aldicarb was cancelled by the manufacturer, and it is no longer available for use on any crop in the United States.
+
+Therefore, a farmer cannot legally apply Aldicarb to citrus crops in the US right now.",False,NONE,LOW,The information provided is accurate and consistent with the ground truth.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Methyl_parathion_wheat,REGULATORY,HIGH,Is Methyl parathion currently approved by the EPA for use on wheat in the United States?,Methyl parathion status for wheat: CANCELLED. All food uses cancelled by EPA in 2003. EPA tolerance: 0.0 ppm.,"No, Methyl parathion is not currently approved by the EPA for use on wheat in the United States. 
+
+In fact, the EPA cancelled the registrations of all methyl parathion products in 2007 due to concerns about its potential risks to human health and the environment. As a result, methyl parathion is no longer registered for use on any crops, including wheat, in the United States.",False,REGULATORY,LOW,The AI response incorrectly stated the year the EPA cancelled methyl parathion registrations.,0.9,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Methyl_parathion_wheat,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Methyl parathion on wheat?,EPA MRL for Methyl parathion on wheat is 0.0 ppm. Status: CANCELLED. All food uses cancelled by EPA in 2003.,"According to the United States Environmental Protection Agency (EPA), the maximum residue limit (MRL) or tolerance for Methyl parathion on wheat is 0.1 ppm (or 0.1 mg/kg).
+
+To provide more context, Methyl parathion is a highly toxic insecticide and acaricide that was widely used in agriculture, but due to concerns over its toxicity and environmental impact, its use has been significantly restricted or banned in many countries, including the United States.
+
+The EPA established a tolerance for Methyl parathion on wheat at 0.1 ppm under the Federal Food, Drug, and Cosmetic Act (FFDCA). However, I want to emphasize that Methyl parathion is not currently registered for use on wheat in the United States, and this tolerance might be outdated.
+
+If you're looking for more up-to-date or specific information on pesticide residues or tolerances, I recommend checking the EPA's website or contacting them directly for the most current information. 
+
+Also, it's worth noting that Maximum Residue Limits (MRLs) can vary across countries and regions, so if you're interested in information on Methyl parathion or other pesticides for a specific country or region, please let me know and I can try to provide a more tailored response.",False,REGULATORY,HIGH,"The AI response incorrectly stated the EPA MRL for Methyl parathion on wheat as 0.1 ppm, when in fact it is 0.0 ppm due to all food uses being cancelled by EPA in 2003.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Methyl_parathion_wheat,FACTUAL,MEDIUM,Can a farmer legally apply Methyl parathion to wheat crops in the US right now?,No — Methyl parathion is CANCELLED for wheat. All food uses cancelled by EPA in 2003. Using it would violate EPA regulations.,"A very specific and important question!
+
+Methyl parathion is a highly toxic insecticide that was widely used in the United States, particularly on cotton and wheat crops. However, its use has been severely restricted due to environmental and health concerns.
+
+In 2003, the U.S. Environmental Protection Agency (EPA) canceled the registration of methyl parathion for most uses, including on wheat, due to concerns about its toxicity and potential risks to human health and the environment.
+
+Currently, the use of methyl parathion on wheat crops is not permitted in the United States. In fact, the EPA has established a tolerance (a maximum residue limit) of 0.1 ppm (parts per million) for methyl parathion on wheat, but this tolerance is essentially a ""no-use"" tolerance, as no registrations are currently active for this pesticide on wheat.
+
+Additionally, many states have their own regulations and restrictions on pesticide use, and some may have banned methyl parathion entirely.
+
+Therefore, to answer your question directly: No, a farmer cannot legally apply methyl parathion to wheat crops in the US right now. If a farmer needs to control pests on their wheat crops, they should consult with their local agricultural extension office or a certified crop advisor to determine the best alternative pest management strategies and registered pesticides that can be used safely and effectively.",False,REGULATORY,HIGH,"Methyl parathion is CANCELLED for wheat, violating EPA regulations.",1.0,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Glyphosate_wheat_grain,REGULATORY,HIGH,Is Glyphosate currently approved by the EPA for use on wheat grain in the United States?,"Glyphosate status for wheat grain: APPROVED. Pre-harvest desiccant use approved, 30 ppm tolerance. EPA tolerance: 30.0 ppm.","According to the Environmental Protection Agency (EPA) and current agricultural regulations, Glyphosate is approved for use on wheat grain in the United States, but with certain restrictions and only for a specific pre-harvest application.
+
+Glyphosate, commonly known by its brand name Roundup, is a widely used herbicide. The EPA allows its use on wheat grain for pre-harvest desiccation, which means it can be applied to dry down the crop before harvesting. However, this approval comes with specific conditions.
+
+The EPA has established a tolerance (a maximum residue limit) for glyphosate residues on wheat grain. The current tolerance for glyphosate on wheat grain is 30 parts per million (ppm).
+
+It's essential to note that while glyphosate can be used on wheat, the use must adhere to label instructions and Good Agricultural Practices (GAPs). Furthermore, the wheat grain must be used in accordance with established and approved food/feed uses.
+
+For the most up-to-date information on glyphosate use on wheat grain, I recommend checking the EPA's official website or consulting with a local agricultural extension expert or a qualified agronomist. They can provide you with the latest on-label instructions and GAPs for glyphosate application on wheat grain.",False,NONE,LOW,Glyphosate is approved for use on wheat grain in the United States with a 30 ppm tolerance for pre-harvest desiccation.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Glyphosate_wheat_grain,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Glyphosate on wheat grain?,"EPA MRL for Glyphosate on wheat grain is 30.0 ppm. Status: APPROVED. Pre-harvest desiccant use approved, 30 ppm tolerance.","According to the United States Environmental Protection Agency (EPA), the maximum residue limit (MRL) or tolerance for Glyphosate on wheat grain is 5.0 parts per million (ppm) or 5.0 mg/kg.
+
+You can verify this information on the EPA's website, specifically on the page for Glyphosate: [https://www.epa.gov/pesticides/ glyphosate](https://www.epa.gov/pesticides/glyphosate). 
+
+The EPA sets MRLs or tolerances for pesticide residues in or on food commodities, including grains like wheat, to ensure that the residues do not pose a risk to human health. These limits are usually established based on the registered uses of the pesticide and are enforced through a combination of monitoring and enforcement actions. 
+
+In this case, a 5.0 mg/kg tolerance on wheat grain helps ensure that any residues of Glyphosate on wheat are at levels considered safe for human consumption by the EPA.",True,FACTUAL,HIGH,"The provided EPA information for Glyphosate on wheat grain is incorrect, the actual MRL is 30.0 ppm.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Glyphosate_wheat_grain,FACTUAL,MEDIUM,Can a farmer legally apply Glyphosate to wheat grain crops in the US right now?,"Yes — Glyphosate is APPROVED for wheat grain. Pre-harvest desiccant use approved, 30 ppm tolerance. Must follow label instructions and 30.0 ppm MRL.","In the United States, the use of glyphosate on wheat grain crops is a bit restricted. 
+
+Glyphosate is commonly used as a desiccant to dry down wheat crops before harvest, but it is not registered for use on wheat for grain in most states. 
+
+The US Environmental Protection Agency (EPA) has approved labels for glyphosate products that allow their use as a desiccant in certain crops, including wheat, but specifically for ""pre-harvest"" applications, usually 7-10 days before harvest, and only for ""drying"" (desiccation) purposes. These applications are limited and regulated.
+
+However, glyphosate is not registered for use on wheat for grain in the typical growing season as a herbicide. Some formulations of glyphosate are labeled for use in wheat for control of certain weeds, but usually only for post-emergence, before the wheat reaches a certain growth stage (e.g., before the boot stage), and under specific conditions.
+
+The **key point** here is that a 2012 EPA decision removed approval for glyphosate applications to wheat for grain production in the United States as a result of residues concerns.
+
+Therefore, **at this time, farmers are generally not allowed to apply glyphosate to wheat grain crops in the US except for the very specific and limited pre-harvest desiccation use**, under a restricted label. Application of glyphosate on wheat at other stages of growth or for other purposes may lead to",False,REGULATORY,HIGH,"Glyphosate is approved for pre-harvest desiccant use on wheat grain crops in the US, but not for other stages of growth or purposes.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Atrazine_field_corn,REGULATORY,HIGH,Is Atrazine currently approved by the EPA for use on field corn in the United States?,Atrazine status for field corn: APPROVED. Approved for pre-emergent weed control in corn. EPA tolerance: 0.1 ppm.,"According to the United States Environmental Protection Agency (EPA), atrazine is currently registered for use on field corn, sorghum, sugarcane, and other crops in the United States. However, its use is subject to certain restrictions and conditions.
+
+The EPA has established a maximum allowable annual application rate for atrazine on field corn, and it is only approved for use on field corn in certain formulations and under specific application guidelines.
+
+It's worth noting that the EPA has taken steps to mitigate potential environmental and health risks associated with atrazine use, including requiring label warnings, establishing buffer zones, and setting limits on application rates.
+
+However, some environmental and health advocacy groups have raised concerns about atrazine's potential impacts on human health and the environment, particularly related to contamination of waterways and potential endocrine-disrupting effects.
+
+To get the most current and detailed information on atrazine's registration status and use guidelines, I recommend checking the EPA's website or contacting the agency directly.
+
+Current Status (as of my cut-off date March 2023): Atrazine is registered for use on field corn in the United States, subject to certain restrictions and conditions. 
+
+Please ensure you verify the information with the EPA for any recent updates.",False,REGULATORY,LOW,"Atrazine is currently approved by the EPA for use on field corn in the United States, subject to certain restrictions and conditions.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Atrazine_field_corn,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Atrazine on field corn?,EPA MRL for Atrazine on field corn is 0.1 ppm. Status: APPROVED. Approved for pre-emergent weed control in corn.,"According to the United States Environmental Protection Agency (EPA), the maximum residue limit (MRL) or tolerance for Atrazine on field corn (corn grain) is 0.02 parts per million (ppm) or 0.02 mg/kg.
+
+However, I need to provide more specific information. The tolerance for Atrazine on field corn grain is indeed 0.02 ppm, but there are different tolerances for different commodities. 
+
+Here are some tolerances for Atrazine on field corn:
+
+- Field corn grain: 0.02 ppm
+- Field corn forage: 0.5 ppm
+- Field corn silage: 0.1 ppm
+
+These tolerances are subject to change, and I would recommend verifying the information through official EPA sources or other reliable sources for the most up-to-date information. 
+
+The EPA's Pesticide Tolerance webpage or the Code of Federal Regulations (CFR) can be consulted for the latest information on pesticide tolerances, including those for Atrazine on field corn. 
+
+Would you like to know more about Atrazine use in agriculture or have another question?",False,NONE,LOW,"The AI response was partially incorrect, but the correct information was provided in the follow-up response.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Atrazine_field_corn,FACTUAL,MEDIUM,Can a farmer legally apply Atrazine to field corn crops in the US right now?,Yes — Atrazine is APPROVED for field corn. Approved for pre-emergent weed control in corn. Must follow label instructions and 0.1 ppm MRL.,"According to current regulations, Atrazine is a restricted-use herbicide in the United States, and its use is subject to certain conditions and restrictions.
+
+Atrazine is registered for use on corn, sorghum, and other crops, but its use on corn is limited to certain formulations and application rates. The Environmental Protection Agency (EPA) has established a tolerance for Atrazine residues on corn, which is 0.02 parts per million (ppm) for corn grain and 0.1 ppm for corn forage.
+
+However, in 2020, the EPA announced a decision to reaffirm the existing tolerances for Atrazine, but with some modifications. The agency concluded that the current tolerances for Atrazine on corn are adequate to protect human health and the environment.
+
+Currently, Atrazine products are still registered for use on field corn in the US. However, there are specific restrictions and guidelines that farmers must follow when applying Atrazine:
+
+1. **Label restrictions**: Farmers must follow the label instructions for Atrazine products, which include specific application rates, timing, and formulations.
+2. **State-specific regulations**: Some states have their own regulations and restrictions on Atrazine use. For example, certain states may have more stringent buffer zone requirements or restricted application windows.
+3. **Best Management Practices (BMPs)**: Farmers are encouraged to follow BMPs for Atrazine use, such as using drift-reducing nozzles, maintaining accurate records, and implementing conservation tillage.
+
+Assuming a farmer is using an",False,REGULATORY,LOW,"Atrazine is approved for field corn, but farmers must follow label instructions and 0.1 ppm MRL.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Thiamethoxam_apple_fruit,REGULATORY,HIGH,Is Thiamethoxam currently approved by the EPA for use on apple fruit in the United States?,Thiamethoxam status for apple fruit: APPROVED. Approved systemic insecticide for apples. EPA tolerance: 0.08 ppm.,"According to the United States Environmental Protection Agency (EPA) and the label information available through various sources, Thiamethoxam is not registered for use on apple fruit in the United States.
+
+Thiamethoxam is a neonicotinoid insecticide, and it is registered for use on various crops, including some fruit and vegetable crops. However, its use on apple fruit is not approved.
+
+For accurate and up-to-date information on pesticide registrations and uses, I recommend checking the EPA's website, specifically the Pesticide Product Labels and Registrations section, or contacting the EPA directly. Additionally, you can also check with the relevant state pesticide regulatory agency or a qualified agricultural professional for more information on approved pesticide uses in your area.",False,Factual,LOW,"Thiamethoxam is indeed registered for use on apple fruit in the United States, with an EPA tolerance of 0.08 ppm.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Thiamethoxam_apple_fruit,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Thiamethoxam on apple fruit?,EPA MRL for Thiamethoxam on apple fruit is 0.08 ppm. Status: APPROVED. Approved systemic insecticide for apples.,"According to the United States Environmental Protection Agency (EPA) and the label information of Thiamethoxam, as well as data available up to 01 March 2023, 
+
+The Maximum Residue Limit (MRL) or Tolerance for Thiamethoxam on apple fruit is 0.1 ppm (or 0.1 mg/kg). 
+
+However, I recommend checking the latest information on the EPA website or contacting them directly for any recent updates on MRLs. Additionally, you can also verify it through other reliable sources such as the Codex Alimentarius Commission. Always ensure to use the most recent and accurate data for your advisory or regulatory purposes.",False,REGULATORY,MEDIUM,"The AI response incorrectly stated the MRL as 0.1 ppm, when the correct value is 0.08 ppm.",0.8,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Thiamethoxam_apple_fruit,FACTUAL,MEDIUM,Can a farmer legally apply Thiamethoxam to apple fruit crops in the US right now?,Yes — Thiamethoxam is APPROVED for apple fruit. Approved systemic insecticide for apples. Must follow label instructions and 0.08 ppm MRL.,"To provide an accurate answer, I'll need to consider the current regulatory status of Thiamethoxam in the United States, particularly for use on apple fruit crops.
+
+Thiamethoxam is a neonicotinoid insecticide, and its use in the US is regulated by the Environmental Protection Agency (EPA). As of my last update, Thiamethoxam is registered for use in the US on various crops, but its use on apple fruit crops specifically needs verification against current EPA registrations and any applicable tolerances.
+
+However, there's an important consideration regarding the use of Thiamethoxam and other neonicotinoids. In 2019, the EPA announced an action to cancel the registrations of Thiamethoxam, Imidacloprid, and Clothianidin for virtually all food crop uses due to risks to bees and other pollinators, though specific exemptions and grace periods were provided.
+
+Specifically for apples, the product labels and the EPA's database need to be checked for the most current information on registered uses. 
+
+As of January 2020, the EPA had taken steps to restrict the use of Thiamethoxam and other neonicotinoids on certain crops to mitigate pollinator risks. Given these restrictions, and unless there are specific exemptions for apple crops not listed here or a very recent change not captured here, applying Thiamethoxam to apple fruit crops might not be permissible under current EPA regulations.
+
+For the most accurate and up-to-date",False,REGULATORY,MEDIUM,"Thiamethoxam's use on apple fruit crops is restricted due to pollinator risks, but specific exemptions or recent changes may allow its use.",0.8,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Spinosad_tomato_fruit,REGULATORY,HIGH,Is Spinosad currently approved by the EPA for use on tomato fruit in the United States?,"Spinosad status for tomato fruit: APPROVED. OMRI-listed organic insecticide, approved for tomatoes. EPA tolerance: 0.3 ppm.","According to the Environmental Protection Agency (EPA) and the most recent data available, Spinosad is indeed registered for use on tomatoes in the United States. 
+
+Spinosad is a biological insecticide, derived from the soil microorganism Saccharopolyspora spinosa. It is commonly used to control a wide range of pests, including Lepidoptera, Coleoptera, and Diptera, in various crops, including fruits and vegetables.
+
+The EPA has approved Spinosad for use on tomato plants, but it's crucial to verify specific product labels and formulations for approved uses on tomato fruit. The approved use might be restricted to certain pest targets, application rates, or have specific guidelines for Integrated Pest Management (IPM) programs.
+
+Always ensure to check the most current and specific information on product labels, the EPA's website, or consult with local agricultural extension services for the most up-to-date and accurate information on pesticide registrations and approved uses in your area.",False,NONE,LOW,"Spinosad is approved for use on tomato plants, but specific product labels and formulations should be verified for approved uses on tomato fruit.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Spinosad_tomato_fruit,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Spinosad on tomato fruit?,"EPA MRL for Spinosad on tomato fruit is 0.3 ppm. Status: APPROVED. OMRI-listed organic insecticide, approved for tomatoes.","According to the United States Environmental Protection Agency (EPA) and the tolerance established in the Code of Federal Regulations (40 CFR § 180.121), the maximum residue limit (MRL) for Spinosad on tomato fruit is 0.5 parts per million (ppm) or 0.5 mg/kg.
+
+To confirm, you may check the EPA's website or the Federal Register for the most up-to-date information on pesticide tolerances. 
+
+Here are the details of the EPA tolerance:
+
+* Pesticide: Spinosad
+* Commodity: Tomato
+* MRL (tolerance): 0.5 ppm (or 0.5 mg/kg) 
+
+Kindly note that MRLs are subject to change; therefore, verifying through official channels (such as EPA) for the most recent MRLs on specific commodities is recommended.",False,REGULATORY,HIGH,"The AI response incorrectly stated the EPA MRL for Spinosad on tomato fruit as 0.5 ppm, when the actual MRL is 0.3 ppm.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Spinosad_tomato_fruit,FACTUAL,MEDIUM,Can a farmer legally apply Spinosad to tomato fruit crops in the US right now?,"Yes — Spinosad is APPROVED for tomato fruit. OMRI-listed organic insecticide, approved for tomatoes. Must follow label instructions and 0.3 ppm MRL.","To provide an accurate and up-to-date answer, I must clarify that regulations and registrations can change. However, as of my last update in April 2023, Spinosad is a biopesticide registered for use in the United States by the Environmental Protection Agency (EPA) under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA).
+
+Spinosad is labeled for use on a variety of crops, including fruits and vegetables, for controlling certain insect pests. Specifically, for tomato crops, Spinosad is registered to control pests such as the tomato pinworm, leafminers, and certain species of beetles and caterpillars.
+
+However, the key here is the specificity of the application to ""tomato fruit crops."" Generally, pesticide labels, including those for Spinosad products, specify which crops and pests are approved for treatment. 
+
+As of my last update, products containing Spinosad are labeled for foliar and soil applications on tomatoes (which can be considered as a crop that produces fruit) but are not specifically labeled for direct application to the fruit. Direct application to fruit, especially close to harvest, can have different regulatory considerations due to concerns about residues and food safety.
+
+For the most accurate and current information on applying Spinosad to tomato fruit crops in the US, I recommend:
+
+1. **Checking the Label:** Always refer to the current label of the specific Spinosad product you are interested in using. Labels can be found",False,REGULATORY,MEDIUM,"Spinosad is registered for use on tomato crops, but direct application to fruit is not specifically labeled, and regulatory considerations may apply.",0.8,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Imidacloprid_cotton,REGULATORY,HIGH,Is Imidacloprid currently approved by the EPA for use on cotton in the United States?,Imidacloprid status for cotton: APPROVED. Seed treatment and foliar approved for cotton. EPA tolerance: 1.0 ppm.,"According to the United States Environmental Protection Agency (EPA), Imidacloprid is registered for use on various crops, including cotton. However, labels and registrations can change over time.
+
+As of my knowledge cutoff in 2023, Imidacloprid is indeed approved by the EPA for use on cotton in the United States, but it's primarily used for controlling sucking insects like aphids, whiteflies, and thrips.
+
+To ensure accuracy and up-to-date information, I recommend checking the EPA's Pesticide Product Label System (PPLS) or contacting the EPA directly. Additionally, you may want to verify with your local agricultural extension office or a qualified agronomic professional for the latest information on pesticide registrations and label updates.
+
+That being said, based on my current knowledge, Imidacloprid is approved for use on cotton in the United States, but labels may have specific restrictions, guidelines, and recommendations for its application. Always follow label instructions and best management practices when using pesticides.",False,NONE,LOW,Imidacloprid is indeed approved by the EPA for use on cotton in the United States.,0.95,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Imidacloprid_cotton,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Imidacloprid on cotton?,EPA MRL for Imidacloprid on cotton is 1.0 ppm. Status: APPROVED. Seed treatment and foliar approved for cotton.,"According to the United States Environmental Protection Agency (EPA) and the tolerances listed in the Code of Federal Regulations (40 CFR § 180.449), the maximum residue limit (MRL) for Imidacloprid on cottonseed is 0.25 parts per million (ppm) and on cottonseed oil is 0.5 ppm. However, I couldn't find any specific MRL for Imidacloprid on cotton (e.g., cotton lint, cotton foliage, etc.) except for cottonseed.
+
+It's worth noting that MRLs can vary depending on the country and region, and they are subject to change. For the most up-to-date information, I recommend checking with the relevant regulatory agency or searching through the EPA's tolerance database.
+
+If you need more information on Imidacloprid use on cotton or any other crop, feel free to ask!",False,REGULATORY,MEDIUM,"The AI response inaccurately stated that the EPA MRL for Imidacloprid on cotton is unknown, when in fact the EPA MRL for Imidacloprid on cottonseed is 1.0 ppm.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Imidacloprid_cotton,FACTUAL,MEDIUM,Can a farmer legally apply Imidacloprid to cotton crops in the US right now?,Yes — Imidacloprid is APPROVED for cotton. Seed treatment and foliar approved for cotton. Must follow label instructions and 1.0 ppm MRL.,"To provide an accurate answer, I'll need to consider the current regulatory status of Imidacloprid in the United States.
+
+Imidacloprid is a neonicotinoid insecticide commonly used in various agricultural applications, including cotton production. However, its use is subject to regulation by the United States Environmental Protection Agency (EPA).
+
+As of 2022, Imidacloprid is registered for use in the United States, and it is listed on the EPA's website as an active ingredient in several pesticide products used on cotton.
+
+However, it's essential to note that pesticide registrations and labels can change over time, and there might be specific restrictions or limitations on its use in certain areas or under certain conditions.
+
+Currently, there are no nationwide bans on the use of Imidacloprid on cotton crops in the US. However, some restrictions and guidelines do apply:
+
+1. **Label restrictions**: Imidacloprid products must be used in accordance with their registered labels, which specify application rates, timing, and other use instructions.
+2. **Pollinator protection**: Imidacloprid is considered a bee-toxic pesticide. As a result, applicators must follow label instructions and take steps to minimize exposure to bees and other pollinators.
+3. **Regional restrictions**: Some states or regions may have additional restrictions on Imidacloprid use, such as limitations on the number of applications or specific requirements for monitoring and reporting.
+
+To ensure compliance with current regulations, I recommend",False,NONE,LOW,"Imidacloprid is registered for use in the US and approved for cotton, with specific label instructions and 1.0 ppm MRL.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Malathion_strawberries,REGULATORY,HIGH,Is Malathion currently approved by the EPA for use on strawberries in the United States?,Malathion status for strawberries: APPROVED. Approved broad-spectrum insecticide for strawberries. EPA tolerance: 8.0 ppm.,"According to the Environmental Protection Agency (EPA) and the most recent information available, Malathion is not registered for use on strawberries in the United States.
+
+While Malathion is registered for use on some agricultural crops, its use on strawberries has been discontinued. The EPA provides information on registered pesticides through its website, and according to the EPA's Pesticide Product Labels database, there are no registered uses of Malathion on strawberries.
+
+Additionally, the National Agricultural Statistics Service (NASS) and other official sources also reflect this information.
+
+For more information on current pesticide registrations and approved uses, I recommend checking the EPA's website or contacting your local agricultural extension office. They can provide the most up-to-date information on approved pesticides and Integrated Pest Management (IPM) strategies for strawberry production in your area.",True,FACTUAL,HIGH,The AI response contradicts the ground truth that Malathion is approved for use on strawberries.,0.9,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Malathion_strawberries,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Malathion on strawberries?,EPA MRL for Malathion on strawberries is 8.0 ppm. Status: APPROVED. Approved broad-spectrum insecticide for strawberries.,"A very specific question!
+
+According to the United States Environmental Protection Agency (EPA) and the Code of Federal Regulations (40 CFR 180.123), the maximum residue limit (MRL) or tolerance for Malathion on strawberries is:
+
+* 5 parts per million (ppm) or 5 mg/kg
+
+This means that the EPA allows a maximum residue of 5 milligrams of Malathion per kilogram of strawberries. 
+
+Please note that MRLs can change over time, and it's always a good idea to verify the information through official sources, such as the EPA's website or the Code of Federal Regulations, for the most up-to-date information.",False,REGULATORY,MEDIUM,"The AI response incorrectly stated the EPA MRL for Malathion on strawberries as 5 ppm, when it is actually 8.0 ppm.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Malathion_strawberries,FACTUAL,MEDIUM,Can a farmer legally apply Malathion to strawberries crops in the US right now?,Yes — Malathion is APPROVED for strawberries. Approved broad-spectrum insecticide for strawberries. Must follow label instructions and 8.0 ppm MRL.,"To provide an accurate answer, I'll need to consider the current regulations and tolerances for Malathion on strawberries in the US.
+
+Malathion is a commonly used organophosphate insecticide. The US Environmental Protection Agency (EPA) regulates its use under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA).
+
+According to the EPA's database, Malathion is registered for use on strawberries. However, to confirm its current legal status, I'll rely on publicly available information:
+
+*   **Tolerances:** The EPA has established a tolerance for Malathion on strawberries, which means it is allowed for use on this crop. You can check the EPA's tolerance database for the most current information.
+
+*   **Labeling and Registration:** Malathion products must be registered with the EPA and bear a label that specifies approved uses, application rates, and any restrictions.
+
+Assuming Malathion products are applied according to their registered labels and in compliance with all relevant federal, state, and local regulations, it appears that a farmer can legally apply Malathion to strawberry crops in the US.
+
+However, for the most up-to-date and accurate information regarding pesticide use, I recommend verifying with:
+
+1.  The EPA's website (<https://www.epa.gov/>) 
+2.  The National Agricultural Library's database on pesticide tolerances (<https://www.nal.usda.gov/>) 
+3.  Your state's department of agriculture or environmental protection agency.
+
+These sources",False,NONE,LOW,"Malathion is registered and approved for use on strawberries in the US, with established tolerances and labeling requirements.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Permethrin_soybeans,REGULATORY,HIGH,Is Permethrin currently approved by the EPA for use on soybeans in the United States?,Permethrin status for soybeans: APPROVED. Pyrethroid insecticide approved for soybean. EPA tolerance: 1.0 ppm.,"According to the Environmental Protection Agency (EPA) and the most recent publicly available data, Permethrin is not registered for use on soybeans in the United States.
+
+Permethrin is a synthetic pyrethroid insecticide, and while it is registered for use on various crops, such as cotton, fruits, and vegetables, its approved uses do not include soybeans.
+
+The EPA's database and labeling information should always be consulted for the most current and accurate information on pesticide registrations and uses. However, as of my last update, there are no EPA-approved registrations for permethrin on soybeans in the United States. For the most up-to-date information, I recommend checking directly with the EPA or a reliable agricultural extension service.",False,Factual,LOW,Permethrin is actually approved by the EPA for use on soybeans in the United States.,0.9,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Permethrin_soybeans,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Permethrin on soybeans?,EPA MRL for Permethrin on soybeans is 1.0 ppm. Status: APPROVED. Pyrethroid insecticide approved for soybean.,"According to the United States Environmental Protection Agency (EPA) and the tolerance levels established under the Federal Food, Drug, and Cosmetic Act (FFDCA), the maximum residue limit (MRL) or tolerance for Permethrin on soybeans is 0.5 ppm (parts per million).
+
+Source: EPA's Pesticide Tolerance Database, which can be accessed through the EPA website.",True,FACTUAL,HIGH,"The EPA MRL for Permethrin on soybeans is actually 1.0 ppm, not 0.5 ppm.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Permethrin_soybeans,FACTUAL,MEDIUM,Can a farmer legally apply Permethrin to soybeans crops in the US right now?,Yes — Permethrin is APPROVED for soybeans. Pyrethroid insecticide approved for soybean. Must follow label instructions and 1.0 ppm MRL.,"To provide an accurate answer, I'll need to consider the current regulations and label approvals for Permethrin on soybeans in the United States.
+
+Permethrin is a synthetic pyrethroid insecticide, and its use on crops is regulated by the Environmental Protection Agency (EPA) under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA).
+
+According to the EPA's database and labeling information, Permethrin is registered for use on various crops, including soybeans. However, label approvals and restrictions can change over time.
+
+As of my knowledge cutoff, there are several Permethrin products labeled for use on soybeans in the US, but these labels might have specific restrictions, such as:
+
+* Application rates and timing
+* Maximum number of applications per growing season
+* Pre-harvest intervals (PHI)
+* Restrictions on use in certain regions or on specific soybean varieties
+
+To confirm the current status and any potential changes, I recommend checking:
+
+1. The EPA's website (epa.gov) for the latest information on Permethrin registrations and label approvals.
+2. The label of the specific Permethrin product you are interested in using on soybeans.
+3. Your state's department of agriculture or pesticide regulatory agency for any additional restrictions or guidelines.
+
+That being said, based on my knowledge, some commonly used Permethrin products, such as Ambush, are labeled for use on soybeans in the US. However, I would advise verifying the label and checking with local",False,NONE,LOW,"Permethrin is registered for use on soybeans in the US, but check the label and local regulations for specific restrictions.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Captan_grapes,REGULATORY,HIGH,Is Captan currently approved by the EPA for use on grapes in the United States?,Captan status for grapes: APPROVED. Fungicide approved for grape disease control. EPA tolerance: 5.0 ppm.,"According to the United States Environmental Protection Agency (EPA) and the most recent information available, Captan is indeed registered for use on grapes in the United States. However, pesticide registrations can change over time due to various reasons such as new toxicity assessments, changes in use patterns, or as a result of periodic reviews under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA).
+
+As of my last update, Captan (captan; 50%, 80%, and other formulations) is registered for use on a variety of crops including grapes for the control of certain fungal diseases. The EPA continuously reviews and updates the registrations and tolerances (allowed residues) for pesticides. For the most current and accurate information, I recommend checking directly with the EPA's website or contacting them. Additionally, consulting resources such as the National Agricultural Statistics Service or extension bulletins from land-grant universities can provide up-to-date information on approved pesticide uses.
+
+Given that information and guidelines on pesticide use can change, it is crucial for agricultural professionals to consult the latest guidelines and product labels for specific details on approved uses, application rates, and safety precautions.",False,NONE,LOW,"Captan is indeed registered for use on grapes in the United States, with an EPA tolerance of 5.0 ppm.",1.0,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Captan_grapes,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Captan on grapes?,EPA MRL for Captan on grapes is 5.0 ppm. Status: APPROVED. Fungicide approved for grape disease control.,"According to the United States Environmental Protection Agency (EPA) and the tolerance listed in the Code of Federal Regulations (40 CFR 180.163), the maximum residue limit (MRL) or tolerance for Captan on grapes is 0.2 parts per million (ppm) or 0.2 mg/kg.
+
+To confirm and ensure accuracy, you should always verify this information through official sources such as the EPA's website or relevant regulatory documents, as tolerance levels can be subject to change. However, as of my last update, this is the MRL for Captan on grapes.",True,REGULATORY,HIGH,"The provided AI response incorrectly stated the EPA MRL for Captan on grapes as 0.2 ppm, when in fact it is 5.0 ppm.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Captan_grapes,FACTUAL,MEDIUM,Can a farmer legally apply Captan to grapes crops in the US right now?,Yes — Captan is APPROVED for grapes. Fungicide approved for grape disease control. Must follow label instructions and 5.0 ppm MRL.,"To provide an accurate answer, I'll need to consider the current regulatory status of Captan on grape crops in the US.
+
+Captan is a fungicide commonly used in agriculture to control fungal diseases on various crops, including grapes. However, its use is regulated by the US Environmental Protection Agency (EPA) under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA).
+
+As of my cut-off knowledge date (December 2023), Captan is registered for use on grapes in the US. However, the EPA has been re-evaluating the tolerances (allowed residue levels) for Captan on various crops, including grapes, as part of its periodic review of pesticide registrations.
+
+The EPA's 2020 Interim Reassessment of Captan concluded that some risk concerns remained for certain crops, including grapes. As a result, the agency established new tolerances for Captan on grapes, effective on August 21, 2020.
+
+According to the EPA's database, the current tolerance for Captan on grapes (residue limit) is:
+
+* For table grapes: 0.2 ppm
+* For raisin grapes: 0.2 ppm
+* For wine grapes: 0.2 ppm
+
+Additionally, there are some specific requirements and restrictions on Captan use on grapes. For example:
+
+* Captan can be applied up to 45 days before harvest on table grapes and 90 days before harvest on raisin and wine grapes.
+* There are restrictions on",False,NONE,LOW,"Captan is approved for use on grapes in the US, with specific tolerances and application restrictions.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Mancozeb_potatoes,REGULATORY,HIGH,Is Mancozeb currently approved by the EPA for use on potatoes in the United States?,Mancozeb status for potatoes: APPROVED. Fungicide approved for potato late blight control. EPA tolerance: 0.1 ppm.,"As of my last update, Mancozeb is indeed registered and approved by the Environmental Protection Agency (EPA) for use on various crops, including potatoes, in the United States. However, pesticide registrations can be subject to change due to reevaluations, and it's essential to verify the current status.
+
+Mancozeb is a broad-spectrum fungicide used for the control of fungal diseases on a wide range of crops, including potatoes. It acts by disrupting the fungal cell's ability to produce essential enzymes, ultimately leading to the death of the fungal cells.
+
+For the most current information on the registration status of Mancozeb or any other pesticide, I recommend checking directly with the EPA's official website or contacting a local agricultural extension office. They can provide the most up-to-date information on approved uses, application rates, and any restrictions or warnings associated with its use on potatoes or other crops. 
+
+Additionally, always ensure to follow the label instructions and guidelines for safe and effective use.",False,NONE,LOW,Mancozeb is indeed registered and approved by the EPA for use on potatoes in the United States.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Mancozeb_potatoes,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Mancozeb on potatoes?,EPA MRL for Mancozeb on potatoes is 0.1 ppm. Status: APPROVED. Fungicide approved for potato late blight control.,"According to the United States Environmental Protection Agency (EPA), the maximum residue limit (MRL) for Mancozeb on potatoes is 0.1 ppm (parts per million) or 0.1 mg/kg.
+
+To be more specific, the EPA's tolerance level for Mancozeb on potatoes, as listed in the Code of Federal Regulations (40 CFR 180.131), is:
+
+* Potato, tubers: 0.1 ppm
+
+Please note that MRLs can vary depending on the country, region, or specific use pattern. This information is specific to the United States and may not apply to other regions.
+
+If you have any additional questions or need further assistance, feel free to ask!",False,NONE,NONE,The provided information matches the ground truth.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Mancozeb_potatoes,FACTUAL,MEDIUM,Can a farmer legally apply Mancozeb to potatoes crops in the US right now?,Yes — Mancozeb is APPROVED for potatoes. Fungicide approved for potato late blight control. Must follow label instructions and 0.1 ppm MRL.,"To provide an accurate answer, I'll need to consider the current regulatory status of Mancozeb in the United States.
+
+Mancozeb is a fungicide commonly used in agriculture to control a wide range of fungal diseases on various crops, including potatoes. However, its use is subject to regulation by the United States Environmental Protection Agency (EPA) under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA).
+
+As of my last update, Mancozeb is registered for use on potatoes in the United States, but there are specific conditions and restrictions. However, registrations and tolerances can change due to periodic reviews, environmental and health concerns, and other factors.
+
+The key piece of information needed to answer your question accurately is the current label status and any recent regulatory actions affecting Mancozeb.
+
+In 2020, the EPA announced an Intent to Cancel all registrations of Mancozeb due to potential risks to human health and the environment. However, this decision was subject to a public comment period and review.
+
+Subsequently, on April 1, 2022, the EPA announced the final cancellation of all Mancozeb registrations, effective December 31, 2026. This decision allows for a phase-out period, during which registrants can continue to sell existing stocks, and users can continue to apply Mancozeb according to its label until the phase-out is complete.
+
+Given this timeline, as of the current date (assuming it's before December 31, 2026),",False,REGULATORY,MEDIUM,"Mancozeb is still registered for use on potatoes in the US, but its registrations will be canceled by the end of 2026.",0.8,meta-llama/llama-4-scout-17b-16e-instruct
+REG_24-D_wheat,REGULATORY,HIGH,"Is 2,4-D currently approved by the EPA for use on wheat in the United States?","2,4-D status for wheat: APPROVED. Herbicide approved for broadleaf weed control in wheat. EPA tolerance: 2.0 ppm.","According to the Environmental Protection Agency (EPA) and current agricultural regulations, 2,4-D is indeed approved for use on wheat in the United States, but with certain restrictions and formulations.
+
+The EPA has registered several formulations of 2,4-D for use on wheat, including:
+
+1. 2,4-D amine formulations: These are commonly used for post-emergence control of broadleaf weeds in wheat.
+2. 2,4-D ester formulations: These are also used for post-emergence control of broadleaf weeds in wheat.
+
+However, it's essential to note that:
+
+* The EPA has established specific tolerances (maximum residue limits) for 2,4-D on wheat, which are outlined in the Code of Federal Regulations (40 CFR § 180.101).
+* The use of 2,4-D on wheat is subject to label instructions and restrictions, including application rates, timing, and regional limitations.
+
+To confirm current approval and any specific requirements, I recommend checking:
+
+1. The EPA's website (epa.gov) for the most recent information on pesticide registrations and tolerances.
+2. The label of the specific 2,4-D product you plan to use on wheat, which can be found through the EPA's Pesticide Product Labels database or on the product manufacturer's website.
+
+Keep in mind that agricultural regulations and pesticide approvals can change over time, so it's always a good idea to verify information through official sources.",False,NONE,LOW,"2,4-D is indeed approved for use on wheat in the United States, with specific formulations and restrictions.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_24-D_wheat,DOSAGE,HIGH,"What is the EPA maximum residue limit (MRL) for 2,4-D on wheat?","EPA MRL for 2,4-D on wheat is 2.0 ppm. Status: APPROVED. Herbicide approved for broadleaf weed control in wheat.","A very specific question!
+
+According to the United States Environmental Protection Agency (EPA) and the Code of Federal Regulations (40 CFR 180.142), the maximum residue limit (MRL) or tolerance for 2,4-D on wheat is:
+
+* 2,4-D (2,4-dichlorophenoxyacetic acid): 0.1 ppm (or 0.1 mg/kg) for wheat, grain; and 
+* 0.2 ppm (or 0.2 mg/kg) for wheat, straw.
+
+These tolerances are subject to change, and I encourage checking with the EPA or other regulatory agencies for the most up-to-date information.
+
+The information I provide here serves as a general guideline. It is always recommended to verify with relevant authorities and label instructions for the most current and accurate information. 
+
+How can I help you with anything else related to agricultural practices or advisory services?",False,REGULATORY,MEDIUM,"The provided information contradicts the actual EPA MRL for 2,4-D on wheat.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+APP_24-D_wheat,FACTUAL,MEDIUM,"Can a farmer legally apply 2,4-D to wheat crops in the US right now?","Yes — 2,4-D is APPROVED for wheat. Herbicide approved for broadleaf weed control in wheat. Must follow label instructions and 2.0 ppm MRL.","No, a farmer cannot legally apply 2,4-D to wheat crops in the US right now. 
+
+The Environmental Protection Agency (EPA) has approved the use of 2,4-D on certain crops, but its use on wheat is limited and subject to specific regulations. There are some formulations of 2,4-D that are approved for use on wheat, but only for specific purposes, such as on certain varieties of wheat and at specific growth stages.
+
+However, most formulations of 2,4-D are not registered for use on wheat. Moreover, there are strict guidelines on the use of 2,4-D on wheat due to concerns over residues, crop sensitivity, and potential damage to other crops.
+
+In May 2021, the EPA approved a new formulation of 2,4-D, known as 2,4-D choline (Espro Pest Control, from the company Innvictis, a Corteva company), that can be used on certain cereal grains including wheat.
+
+The labels on these products still contain caveats, strict use guidelines and some product labels specify limited growth stages for application.
+
+Therefore, US farmers must consult and verify current product labels with their state Department of Agriculture and ensure compliance with label requirements and local regulations before applying 2,4-D on wheat crops. A best practice involves verifying specific product labels to ascertain usage on specific crops.
+
+To stay up to date on all labels I suggest establishing communication channels with your extension office.",False,REGULATORY,LOW,"2,4-D is approved for wheat, but use is subject to specific regulations and label instructions.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Methyl_bromide_strawberries,REGULATORY,HIGH,Is Methyl bromide currently approved by the EPA for use on strawberries in the United States?,"Methyl bromide status for strawberries: RESTRICTED. Critical use exemption only, being phased out under Montreal Protocol. EPA tolerance: 0.0 ppm.","As of 2020, Methyl bromide is no longer approved for use on strawberries in the United States. 
+
+The Environmental Protection Agency (EPA) phased out the use of methyl bromide under the Montreal Protocol due to its role in ozone depletion. Although it was previously widely used as a soil fumigant for strawberries and other crops, its use was significantly reduced and eventually phased out.
+
+The EPA had exempted methyl bromide for ""critical uses"" such as strawberry production in some areas; however, these exemptions were limited and generally required specific conditions and alternatives evaluation.
+
+Currently, the approved alternatives to methyl bromide for strawberry production in the United States include other soil fumigants such as:
+
+1. 1,3-Dichloropropene (1,3-D)
+2. Chloropicrin
+3. Fumigant combinations 
+4. Non-chemical methods like solarization, biofumigation, and crop rotation.
+
+It is best to consult with local agricultural advisors or the EPA for the most recent information on approved chemicals and their uses.",False,REGULATORY,LOW,"Methyl bromide is restricted for use on strawberries in the US, with a 0.0 ppm EPA tolerance.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Methyl_bromide_strawberries,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Methyl bromide on strawberries?,"EPA MRL for Methyl bromide on strawberries is 0.0 ppm. Status: RESTRICTED. Critical use exemption only, being phased out under Montreal Protocol.","According to the United States Environmental Protection Agency (EPA), the maximum residue limit (MRL) or tolerance for Methyl bromide on strawberries is 0.02 parts per million (ppm) or 0.02 mg/kg.
+
+Here is the specific information: 
+
+ Crop: Strawberries 
+ Chemical: Methyl bromide 
+ Tolerance (MRL): 0.02 ppm 
+
+It's worth noting that Methyl bromide is a toxic substance and its use is heavily regulated under the Montreal Protocol and the Clean Air Act. Its use as a pesticide has been phased out in many countries, including the United States, due to concerns about its impact on the ozone layer and human health.
+
+For more detailed information on pesticide tolerances, I recommend checking the EPA's website or searching the EPA's Tolerance List.",False,REGULATORY/DOSAGE/TEMPORAL/FACTUAL/NONE,LOW,"The AI response accurately stated the EPA MRL for Methyl bromide on strawberries as 0.02 ppm, which is consistent with the provided information.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Methyl_bromide_strawberries,FACTUAL,MEDIUM,Can a farmer legally apply Methyl bromide to strawberries crops in the US right now?,"No — Methyl bromide is RESTRICTED for strawberries. Critical use exemption only, being phased out under Montreal Protocol. Using it would violate EPA regulations.","No, a farmer cannot legally apply Methyl bromide to strawberry crops in the US right now. 
+
+Methyl bromide is a widely used fumigant that was previously used for soil fumigation, including in strawberry production, to control pests and diseases. However, due to concerns over its potential to contribute to ozone depletion and environmental harm, its use has been heavily restricted.
+
+The Montreal Protocol, an international treaty aimed at protecting the ozone layer, mandated the phase-out of methyl bromide for most uses, including agricultural applications. The US Environmental Protection Agency (EPA) implemented this phase-out in the US.
+
+As of 2008, the use of methyl bromide for most agricultural purposes, including strawberry production, was phased out in the US, except for certain ""critical use exemptions"" (CUEs) that are allowed under specific circumstances.
+
+The current critical use exemptions for methyl bromide in the US are limited and subject to strict conditions. For strawberries, there are no current exemptions for the use of methyl bromide as a soil fumigant.
+
+Therefore, under current regulations, farmers in the US are not allowed to apply methyl bromide to strawberry crops, except possibly under very specific and highly restricted conditions that would require special permission and adherence to strict guidelines.
+
+Farmers are encouraged to consult with their local agricultural extension office, a qualified agricultural advisor, or the EPA for the most up-to-date information on available alternatives and current regulations regarding pest management in strawberry production.",False,REGULATORY,HIGH,Methyl bromide use is restricted for strawberries in the US due to the Montreal Protocol and EPA regulations.,0.95,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Paraquat_soybeans,REGULATORY,HIGH,Is Paraquat currently approved by the EPA for use on soybeans in the United States?,"Paraquat status for soybeans: RESTRICTED. Restricted use pesticide, requires certified applicator. EPA tolerance: 0.05 ppm.","According to the United States Environmental Protection Agency (EPA) and current information, Paraquat is registered for use on certain crops in the United States, but its use on soybeans is limited and subject to specific conditions.
+
+Paraquat is a restricted-use herbicide, and as of my last update, it is approved for use on certain crops including soybeans, but only for pre-plant or pre-emergence applications in some regions or for specific situations. However, direct application on growing soybeans (foliar application) is not a labeled use.
+
+The EPA continuously reviews and updates pesticide registrations. For the most current and accurate information on the use of Paraquat on soybeans or any other crop, I recommend checking the EPA's official website or contacting them directly. Additionally, consulting with local agricultural extension services or a certified pesticide applicator can provide guidance tailored to specific regional conditions and regulations.
+
+It's crucial to follow all label instructions and ensure any use complies with local regulations and recommendations to ensure safe and effective application.",False,REGULATORY,LOW,"Paraquat is a restricted-use herbicide with specific conditions for use on soybeans, including pre-plant or pre-emergence applications.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Paraquat_soybeans,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Paraquat on soybeans?,"EPA MRL for Paraquat on soybeans is 0.05 ppm. Status: RESTRICTED. Restricted use pesticide, requires certified applicator.","According to the United States Environmental Protection Agency (EPA) and the tolerance data, the maximum residue limit (MRL) or tolerance for Paraquat on soybeans is 0.25 parts per million (ppm) or 0.25 mg/kg. 
+
+However, note that Paraquat is a restricted-use herbicide and its use on soybeans might be limited or subject to specific regulations. It's essential to consult the EPA's official website, specifically the Pesticide Product Labels and Tolerance listings, and/or check with local authorities for the most up-to-date and accurate information on pesticide use and residue limits.
+
+Additionally, users should always follow label instructions and good agricultural practices when using pesticides to minimize residues and environmental impact. 
+
+Would you like to know more about Paraquat or soybean best practices?",False,REGULATORY/DOSAGE/TEMPORAL/FACTUAL/NONE,HIGH,"The AI response incorrectly stated the EPA MRL for Paraquat on soybeans as 0.25 ppm, when the actual MRL is 0.05 ppm.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Paraquat_soybeans,FACTUAL,MEDIUM,Can a farmer legally apply Paraquat to soybeans crops in the US right now?,"No — Paraquat is RESTRICTED for soybeans. Restricted use pesticide, requires certified applicator. Using it would violate EPA regulations.","Paraquat is a highly toxic herbicide that has been widely used for weed control in various crops. However, its use on soybeans is limited.
+
+In the United States, the Environmental Protection Agency (EPA) regulates the use of pesticides, including Paraquat. 
+
+Paraquat is labeled for use in certain crops, but soybeans are not a crop with an existing tolerance (or exemption) for Paraquat application in the US.
+
+Moreover, Paraquat is a restricted-use pesticide in the United States, which means it can only be applied by certified applicators.
+
+According to the current EPA regulations and labels, Paraquat is not registered or approved for use on soybeans. Therefore, a farmer **cannot** legally apply Paraquat to soybean crops in the US. 
+
+Additionally, label changes or updates might alter this information. But based on current information, Paraquat use on soybeans remains prohibited. 
+
+If you have questions or need more up-to-date information on Paraquat or alternative herbicide options, I recommend checking with your local extension office or the EPA's Pesticide Product Labels database. 
+
+Stay informed, stay compliant!",False,REGULATORY,HIGH,"Paraquat is a restricted-use pesticide in the US and is not registered or approved for use on soybeans, requiring certified applicators and violating EPA regulations.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Carbofuran_corn,REGULATORY,HIGH,Is Carbofuran currently approved by the EPA for use on corn in the United States?,Carbofuran status for corn: CANCELLED. EPA revoked all food tolerances in 2009. EPA tolerance: 0.0 ppm.,"No, Carbofuran is not currently approved by the EPA for use on corn in the United States. In fact, the EPA cancelled the registration of Carbofuran in 2009 due to concerns over its toxicity to humans, wildlife, and the environment. The final cancellation order was issued on July 31, 2009, and all tolerances (maximum residue limits) for Carbofuran on various crops, including corn, were revoked.
+
+The cancellation was based on the EPA's determination that Carbofuran posed unacceptable risks to human health and the environment, particularly to endangered species, birds, and other wildlife. As a result, Carbofuran is no longer registered for use on corn or any other crop in the United States.",False,NONE,LOW,The EPA cancelled the registration of Carbofuran in 2009 due to toxicity concerns.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Carbofuran_corn,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Carbofuran on corn?,EPA MRL for Carbofuran on corn is 0.0 ppm. Status: CANCELLED. EPA revoked all food tolerances in 2009.,"According to the United States Environmental Protection Agency (EPA), the maximum residue limit (MRL) or tolerance for Carbofuran on corn is 0.1 ppm (or 0.1 mg/kg) for the combined residues of carbofuran and its 3-hydroxy and 3-keto metabolites.
+
+Specifically, the EPA tolerance for Carbofuran on corn is listed as follows:
+
+* Corn, sweet, kernel plus cob with husk removed: 0.1 ppm
+* Corn, forage: 2.0 ppm
+* Corn, grain: 0.1 ppm
+* Corn, silage: 1.0 ppm
+
+Please note that these tolerances may be subject to change, and it's always best to verify with the EPA or other reliable sources for the most up-to-date information.
+
+Source: EPA's Pesticide Tolerance Database: [https://www.epa.gov/pesticide-tolerance/pesticide-tolerance-database](https://www.epa.gov/pesticide-tolerance/pesticide-tolerance-database)",False,REGULATORY,HIGH,"The AI response incorrectly stated that the EPA MRL for Carbofuran on corn is 0.1 ppm, when in fact it was revoked in 2009.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Carbofuran_corn,FACTUAL,MEDIUM,Can a farmer legally apply Carbofuran to corn crops in the US right now?,No — Carbofuran is CANCELLED for corn. EPA revoked all food tolerances in 2009. Using it would violate EPA regulations.,"As of 2022, Carbofuran is a restricted-use pesticide in the United States. Due to concerns over its toxicity and potential environmental impact, the U.S. Environmental Protection Agency (EPA) has imposed significant restrictions on its use.
+
+In 2006, the EPA issued a cancellation order for Carbofuran products, which phased out most uses of the pesticide, including its use on corn. Currently, only certain specific uses of Carbofuran are allowed under restricted conditions.
+
+According to the EPA's Pesticide Product Labels database and other reliable sources, Carbofuran is not registered for use on corn crops in the United States. Additionally, the EPA has not approved any Carbofuran products for use on corn.
+
+Therefore, a farmer cannot legally apply Carbofuran to corn crops in the US right now. If a farmer is looking for alternative pest management solutions for their corn crops, I can help provide guidance on integrated pest management strategies and available pesticide options that are registered and safe for use on corn.",False,NONE,LOW,"Carbofuran is CANCELLED for corn, and EPA revoked all food tolerances in 2009.",1.0,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Dichlorvos_(DDVP)_stored_grain,REGULATORY,HIGH,Is Dichlorvos (DDVP) currently approved by the EPA for use on stored grain in the United States?,Dichlorvos (DDVP) status for stored grain: RESTRICTED. Restricted to specific post-harvest uses only. EPA tolerance: 0.1 ppm.,"No, Dichlorvos (DDVP) is not currently approved by the EPA for use on stored grain in the United States. 
+
+In 2006, the EPA phased out the residential and commercial use of DDVP (also known as Vapona) due to potential health risks. Although some tolerances (allowed residues) for DDVP on certain commodities, including stored grains, were still in effect, the registered uses for DDVP were significantly reduced.
+
+Currently, DDVP is registered for use only in certain agricultural and non-agricultural sites in the US, such as for control of biting flies, mosquitoes and other pests in livestock and poultry houses, greenhouses, and mushroom houses; control of aphids and whiteflies on certain greenhouse and nursery crops.
+
+Alternative pest management methods and chemicals have been developed and registered for controlling pests on stored grain. It's best to consult the EPA's website, or check with local authorities and agricultural experts to determine the currently approved treatments for stored grain protection.",False,REGULATORY,LOW,"Dichlorvos (DDVP) is registered for use on stored grain, but with restricted uses and specific tolerances.",0.9,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Dichlorvos_(DDVP)_stored_grain,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Dichlorvos (DDVP) on stored grain?,EPA MRL for Dichlorvos (DDVP) on stored grain is 0.1 ppm. Status: RESTRICTED. Restricted to specific post-harvest uses only.,"According to the United States Environmental Protection Agency (EPA), the maximum residue limit (MRL) or tolerance for Dichlorvos (DDVP) on stored grain varies depending on the specific grain.
+
+Here are the tolerances for Dichlorvos on stored grains:
+
+- Wheat: 0.1 ppm
+- Corn: 0.1 ppm
+- Sorghum: 0.1 ppm
+- Oats: 0.1 ppm
+- Barley: 0.1 ppm
+- Rice: 0.1 ppm
+
+These tolerances are subject to change, and it's essential to verify with the EPA or other regulatory agencies for any updates.
+
+The use of Dichlorvos on stored grain is restricted, and label directions for registered products must be followed carefully to ensure safe and effective use.
+
+If you have any further questions or need additional assistance, feel free to ask!",False,NONE,LOW,The AI response accurately stated the EPA MRL for Dichlorvos on stored grain.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Dichlorvos_(DDVP)_stored_grain,FACTUAL,MEDIUM,Can a farmer legally apply Dichlorvos (DDVP) to stored grain crops in the US right now?,No — Dichlorvos (DDVP) is RESTRICTED for stored grain. Restricted to specific post-harvest uses only. Using it would violate EPA regulations.,"According to the United States Environmental Protection Agency (EPA), Dichlorvos (DDVP) is a registered pesticide in the US, but its use on stored grain crops is restricted.
+
+As of 2020, the EPA cancelled the registration of DDVP for use on stored grains, including corn, wheat, oats, barley, and sorghum, due to concerns over potential health risks and environmental impacts.
+
+The cancellation was made under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA), and it prohibits the use of DDVP on stored grains, effective immediately.
+
+However, existing stocks of DDVP products that were registered and labeled for use on stored grains before the cancellation date may still be used, provided that they are used in accordance with their labeling and in compliance with any applicable state and local regulations.
+
+But, **new applications** of Dichlorvos (DDVP) on stored grain crops are **not allowed** under current US regulations.
+
+Farmers should consult with their state department of agriculture, a licensed pest control professional, or an agricultural advisor to explore alternative pest management strategies for stored grain crops.
+
+To confirm and stay up-to-date on current regulations, I recommend checking with:
+
+* The US Environmental Protection Agency (EPA) Pesticide Registration and REI (Reregistration Eligibility) database
+* Your state's department of agriculture or pesticide regulatory agency
+* A qualified agricultural professional
+
+Would you like more information on integrated pest management strategies for stored grain crops?",False,REGULATORY,HIGH,Dichlorvos (DDVP) use on stored grain crops is restricted and new applications are not allowed under current US regulations.,0.95,meta-llama/llama-4-scout-17b-16e-instruct
+REG_Propiconazole_wheat,REGULATORY,HIGH,Is Propiconazole currently approved by the EPA for use on wheat in the United States?,Propiconazole status for wheat: APPROVED. Triazole fungicide approved for wheat disease control. EPA tolerance: 5.0 ppm.,"As of my last update, Propiconazole is indeed approved by the EPA (Environmental Protection Agency) for use on wheat in the United States. However, pesticide registrations can change, and it's essential to verify the current status.
+
+According to the EPA's database and other reliable sources, Propiconazole is registered for use on wheat for control of various fungal diseases. The specific formulations and approved uses may vary, so I recommend checking the EPA's official website or contacting a local agricultural extension office or a certified pesticide applicator for the most up-to-date information on Propiconazole's registration status and label instructions.
+
+Additionally, you can also search the EPA's Pesticide Product Labels database or the National Pesticide Information Center (NPIC) for the latest information on Propiconazole's approval and usage guidelines.
+
+Would you like to know more about Propiconazole's usage guidelines or alternatives for disease management in wheat?",False,NONE,LOW,Propiconazole is indeed approved by the EPA for use on wheat in the United States.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+DOS_Propiconazole_wheat,DOSAGE,HIGH,What is the EPA maximum residue limit (MRL) for Propiconazole on wheat?,EPA MRL for Propiconazole on wheat is 5.0 ppm. Status: APPROVED. Triazole fungicide approved for wheat disease control.,"According to the United States Environmental Protection Agency (EPA), the maximum residue limit (MRL) or tolerance for Propiconazole on wheat is as follows:
+
+* Grain: 0.1 ppm (or 0.1 mg/kg)
+* Straw: 0.2 ppm (or 0.2 mg/kg)
+
+These values are based on the EPA's tolerance listings, which can be found in the Code of Federal Regulations (40 CFR § 180.442).
+
+Here is the direct quote: 
+
+""The tolerance for Propiconazole [(±)-1-[2-(2,4-dichlorophenyl)-6-fluoro-1,3-dioxolan-2-yl]ethyl-1H-1,2,4-triazole] on Wheat, grain is  0.1 ppm;  Wheat, straw  is 0.2 ppm."" 
+
+Kindly verify through official EPA resources or pertinent agricultural guidelines for further verification or consultation because in practice, these numbers can sometimes vary on formulation specifics.",False,REGULATORY,LOW,The provided EPA MRL values for Propiconazole on wheat grain and straw are accurate and based on official EPA resources.,0.9,meta-llama/llama-4-scout-17b-16e-instruct
+APP_Propiconazole_wheat,FACTUAL,MEDIUM,Can a farmer legally apply Propiconazole to wheat crops in the US right now?,Yes — Propiconazole is APPROVED for wheat. Triazole fungicide approved for wheat disease control. Must follow label instructions and 5.0 ppm MRL.,"To provide an accurate answer, I'll need to consider the current regulations and label information for Propiconazole in the United States.
+
+Propiconazole is a fungicide commonly used to control various fungal diseases in crops, including wheat. In the US, the use of Propiconazole is regulated by the Environmental Protection Agency (EPA) under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA).
+
+As of my knowledge cutoff in 2023, Propiconazole is registered for use on wheat in the US, but its use is subject to certain conditions and restrictions.
+
+The key consideration is the specific formulation and label of Propiconazole. There are several formulations available, such as Tilt, Propi-Con, and Artisan, among others. Each formulation has its own label and restrictions.
+
+Assuming the farmer has a registered and labeled Propiconazole product for wheat, the next step is to verify the product's current registration status and any use restrictions.
+
+According to the EPA's Pesticide Product Labels database and other reliable sources, Propiconazole products are registered for use on wheat in the US, but the labels might have specific requirements, such as:
+
+1. **PHI (Pre-Harvest Interval)**: The number of days between the last application and harvest. This varies depending on the formulation and should be checked on the product label.
+2. **Maximum application rates and frequency**: There may be limits on how much Propiconazole can be applied per acre and how often",False,NONE,LOW,"Propiconazole is registered for use on wheat in the US, subject to label instructions and conditions.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Iowa_Corn_plant,TEMPORAL,MEDIUM,When is the optimal planting window for Corn in Iowa?,"In Iowa, Corn is planted from late April to mid May. Harvest runs late September to November. Note: Iowa is the largest corn-producing state.","Iowa!
+
+The optimal planting window for corn in Iowa typically occurs in late April to early May. Here's a more specific breakdown:
+
+* For southern Iowa (Zone 7): around April 20 - May 1
+* For central Iowa (Zone 6): around April 25 - May 5
+* For northern Iowa (Zone 5): around May 1 - May 10
+
+These dates are based on historical climate data and soil temperature trends. The ideal time for planting corn in Iowa is when:
+
+1. Soil temperatures are consistently above 55°F (13°C) at a depth of 2-3 inches. This is usually around late April to early May.
+2. The risk of frost has decreased. The last spring frost dates for Iowa are typically:
+	* Southern Iowa: around April 15-20
+	* Central Iowa: around April 20-25
+	* Northern Iowa: around April 25-30
+3. The soil is workable and not too wet or dry. Iowa's soil moisture is usually optimal for planting in the spring when the snowmelt and spring rainfall have replenished the soil moisture.
+
+Keep in mind that these are general guidelines and can vary depending on specific weather conditions, soil type, and location within Iowa. It's always a good idea to check with local weather forecasts, soil temperature data, and your specific county extension office for more precise guidance.
+
+Additionally, Iowa State University's Extension has a useful tool called the """,False,NONE,LOW,"The provided information accurately describes the optimal planting window for corn in Iowa, considering factors like soil temperature, frost risk, and soil moisture.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Iowa_Corn_harvest,TEMPORAL,LOW,When does Corn harvest typically occur in Iowa?,Corn harvest in Iowa runs from late September to November. Iowa is the largest corn-producing state.,"In Iowa, corn harvest typically occurs from mid-September to late October, with the optimal harvest period usually taking place in late September to early October. However, the exact timing of corn harvest in Iowa depends on various factors, including:
+
+1. **Maturity of the hybrid**: Different corn hybrids have varying maturity dates, ranging from 90 to 130 days or more.
+2. **Weather conditions**: Weather patterns, such as temperature, moisture, and sunlight, can impact corn development and drydown.
+3. **Soil type and moisture**: Soil conditions, including moisture levels and drainage, can influence corn growth and harvest timing.
+
+On average, Iowa's corn harvest schedule can be broken down as follows:
+
+* **September 15 - 30**: Early-maturing hybrids (around 90-100 days) may be ready for harvest, especially in southern Iowa.
+* **September 25 - October 10**: The majority of Iowa's corn crop, which is typically planted with mid-season hybrids (around 100-110 days), reaches maturity and is harvested.
+* **October 5 - 20**: Late-maturing hybrids (around 110-120 days) are harvested, often in northern Iowa.
+
+Keep in mind that these dates are approximate and may vary depending on specific weather conditions and regional differences within Iowa.",False,NONE,LOW,"The AI response accurately describes the typical corn harvest period in Iowa, considering factors like hybrid maturity, weather, and soil conditions.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+FACT_Iowa_Corn,FACTUAL,MEDIUM,What is notable about Corn production in Iowa compared to other US states?,Iowa is the largest corn-producing state,"As an agricultural advisory AI, I can tell you that Iowa is notable for being the leading producer of corn in the United States. According to the United States Department of Agriculture (USDA), Iowa consistently produces more corn than any other state in the country.
+
+On average, Iowa accounts for around 25% of the country's total corn production. The state's fertile soil, moderate climate, and extensive irrigation system make it an ideal place for corn production. Iowa's corn crop is typically planted in the spring and harvested in the fall, with the majority of the crop being used for livestock feed, ethanol production, and exports.
+
+Some notable statistics that highlight Iowa's dominance in corn production include:
+
+* In 2020, Iowa produced over 2.5 billion bushels of corn, accounting for approximately 25% of the country's total corn production.
+* Iowa's corn yields per acre are consistently higher than the national average, with an average yield of over 200 bushels per acre.
+* The state has a large number of corn farms, with many of them being family-owned and operated.
+
+Overall, Iowa's unique combination of geography, climate, and agricultural expertise make it the leading producer of corn in the United States.",False,NONE,NONE,"Iowa is the largest corn-producing state in the US, accounting for around 25% of the country's total corn production.",1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Illinois_Corn_plant,TEMPORAL,MEDIUM,When is the optimal planting window for Corn in Illinois?,"In Illinois, Corn is planted from late April to mid May. Harvest runs September to October. Note: Illinois second largest corn producer.","In Illinois, the optimal planting window for corn is typically from late April to early May. However, the exact timing depends on various factors such as soil type, temperature, moisture, and specific location within the state.
+
+According to the University of Illinois Extension, the recommended planting dates for corn in Illinois are:
+
+* For northern Illinois (zones 5-6): April 25 - May 5
+* For central Illinois (zones 5-6): April 20 - May 1
+* For southern Illinois (zones 6-7): April 15 - April 25
+
+It's essential to consider the following conditions for optimal corn planting:
+
+1. **Soil temperature**: The ideal soil temperature for corn planting is between 55°F (13°C) and 65°F (18°C). Planting when the soil temperature is too low can lead to slow germination and emergence.
+2. **Moisture**: Adequate moisture is crucial for corn germination and emergence. Planting when the soil is too dry can result in poor stands.
+3. **Frost risk**: Late frosts can damage or kill emerged corn plants. Wait until the risk of frost has passed before planting.
+
+Keep in mind that these are general guidelines. Local conditions, such as weather patterns, soil type, and specific hybrid characteristics, may affect the optimal planting window. It's always best to consult with local agricultural experts, extension agents, or agronomists for more specific advice tailored to your specific region and conditions",False,NONE,LOW,The provided information accurately reflects the optimal planting window for Corn in Illinois.,0.95,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Illinois_Corn_harvest,TEMPORAL,LOW,When does Corn harvest typically occur in Illinois?,Corn harvest in Illinois runs from September to October. Illinois second largest corn producer.,"In Illinois, corn harvest typically occurs in late September to early November, with the optimal harvest period usually being around mid-October.
+
+The exact timing of corn harvest in Illinois depends on various factors such as:
+
+1. **Maturity of the corn hybrid**: Different corn hybrids have varying maturity days, which can range from 90 to 130 days or more. Early-maturing hybrids are usually harvested in late September, while late-maturing hybrids are harvested in early to mid-November.
+2. **Weather conditions**: Weather conditions like temperature, rainfall, and sunlight hours can impact corn maturity. Warmer and drier summers can lead to earlier maturity, while cooler and wetter summers may delay maturity.
+3. **Soil type and moisture**: Soil type, moisture levels, and drainage can influence corn growth and maturity. Areas with well-drained soils and adequate moisture tend to mature earlier than areas with poorly drained soils or drought-stressed conditions.
+
+According to data from the Illinois Department of Agriculture and the University of Illinois Extension, here are some general guidelines for corn harvest in Illinois:
+
+* **Southwestern Illinois**: Late September to early October
+* **Southern Illinois**: Early to mid-October
+* **Central Illinois**: Mid-to-late October
+* **Northern Illinois**: Late October to early November
+
+Keep in mind that these are general guidelines and the optimal harvest period may vary depending on specific weather conditions, soil types, and corn hybrid maturity. It's always best to check with local agricultural experts, extension",False,NONE,LOW,"The provided information accurately describes the typical corn harvest period in Illinois, considering factors like corn hybrid maturity, weather conditions, and soil type.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+FACT_Illinois_Corn,FACTUAL,MEDIUM,What is notable about Corn production in Illinois compared to other US states?,Illinois second largest corn producer,"A great question about corn production!
+
+Illinois is indeed a significant player in corn production in the United States. Here's what's notable about corn production in Illinois compared to other US states:
+
+**Illinois is one of the top corn-producing states in the US**: According to the United States Department of Agriculture (USDA), Illinois consistently ranks among the top three corn-producing states in the country, along with Iowa and Nebraska.
+
+**High yields**: Illinois is known for its high corn yields, which are among the highest in the nation. The state's fertile soil, moderate climate, and advanced farming practices contribute to its high productivity. On average, Illinois corn farms produce around 200-220 bushels per acre, which is significantly higher than the national average.
+
+**Large production volume**: In 2020, Illinois produced over 2.3 billion bushels of corn, accounting for around 10% of the country's total corn production. This makes Illinois a major contributor to the US corn market.
+
+**Ideal growing conditions**: Illinois has a relatively long growing season, with adequate moisture and warm temperatures during the critical pollination and grain-filling stages. The state's flat to gently sloping terrain also makes it well-suited for large-scale corn production.
+
+**Advanced farming practices**: Illinois farmers are known for adopting advanced farming practices, such as precision agriculture, conservation tillage, and high-yielding seed varieties. These practices have helped to optimize corn production and maintain the state's position as a leading corn producer.
+
+Overall, Illinois's unique",False,NONE,LOW,"The provided text accurately describes Illinois as a significant corn producer in the US, with high yields, large production volume, ideal growing conditions, and advanced farming practices.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Nebraska_Corn_plant,TEMPORAL,MEDIUM,When is the optimal planting window for Corn in Nebraska?,"In Nebraska, Corn is planted from early May to late May. Harvest runs late September to November. Note: Nebraska heavy irrigation corn production.","Nebraska! A great state for corn production.
+
+The optimal planting window for corn in Nebraska typically varies depending on the specific location within the state and the maturity group of the corn hybrid being planted. However, based on historical climate data and agronomic research, here are some general guidelines:
+
+**Optimal Planting Window:**
+
+* For southern Nebraska (south of Interstate 80): Late April to early May (around April 25 to May 5)
+* For central Nebraska (between Interstate 80 and Highway 30): Early to mid-May (around May 1 to May 15)
+* For northern Nebraska (north of Highway 30): Mid- to late May (around May 10 to May 20)
+
+**Factors Influencing Planting Window:**
+
+1. **Soil Temperature:** Corn typically germinates and grows best when soil temperatures are around 55°F (13°C) or higher. In Nebraska, this usually occurs when the soil has warmed up sufficiently in late April or early May.
+2. **Last Frost Date:** Planting corn too early can expose it to potential damage from late frosts. Nebraska's last frost dates range from late April (southern Nebraska) to early May (northern Nebraska).
+3. **Moisture:** Adequate moisture, either from rainfall or irrigation, is essential for successful corn establishment. Planting during a period of good soil moisture increases the likelihood of successful emergence and early growth.
+
+**Additional Considerations:**
+
+* **Maturity Group:** Choose a corn",False,NONE,LOW,The provided information is consistent with the ground truth.,0.9,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Nebraska_Corn_harvest,TEMPORAL,LOW,When does Corn harvest typically occur in Nebraska?,Corn harvest in Nebraska runs from late September to November. Nebraska heavy irrigation corn production.,"In Nebraska, corn harvest typically occurs from late September to early November, with the exact timing depending on factors such as:
+
+1. **Maturity of the corn hybrid**: Different corn hybrids have varying maturity dates, ranging from 90 to 120 days or more.
+2. **Weather conditions**: Weather conditions, such as temperature, moisture, and sunlight, can impact corn maturation and dry-down.
+3. **Soil type and moisture**: Soil type and moisture levels can influence corn growth and maturation.
+
+ Generally, in Nebraska:
+
+* **Early-maturing corn hybrids** (around 90-100 days): Late September to early October
+* **Mid-season corn hybrids** (around 105-110 days): Early to mid-October
+* **Late-maturing corn hybrids** (around 115-120 days): Mid- to late October
+
+Keep in mind that these dates can vary depending on specific locations within Nebraska, with southern regions typically maturing earlier than northern regions.
+
+It's essential to monitor the corn's moisture content, which usually ranges from 20-25% at harvest. Farmers often aim to harvest corn when the moisture content is around 20%, and then dry it further to 15% or lower for storage.
+
+Do you have any follow-up questions or would you like more information on corn harvest or agricultural practices in Nebraska?",False,NONE,NONE,The provided information is accurate and consistent with the ground truth.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+FACT_Nebraska_Corn,FACTUAL,MEDIUM,What is notable about Corn production in Nebraska compared to other US states?,Nebraska heavy irrigation corn production,"Nebraska is notable for being one of the top corn-producing states in the United States, and here's what makes it stand out:
+
+1. **High yields**: Nebraska consistently ranks among the top three states in the country for corn yields per acre. According to the USDA, in 2020, Nebraska's average corn yield was around 185 bushels per acre, which is significantly higher than the national average.
+
+2. **Irrigation**: A significant factor contributing to Nebraska's high corn yields is its extensive irrigation system. The state has a large number of irrigated acres, which allows farmers to control water supply and reduce the risk of drought. The Ogallala Aquifer, a vast underground water reservoir, provides a significant portion of the state's irrigation water.
+
+3. **Dryland corn production**: Nebraska is also a leader in dryland corn production, where corn is grown without irrigation. The state's dryland corn yields are often higher than those in other states, thanks to its favorable climate and soil conditions.
+
+4. **Corn production volume**: Nebraska is typically among the top four corn-producing states in the US, accounting for around 6-7% of the country's total corn production. In 2020, the state produced over 1.3 billion bushels of corn.
+
+Overall, Nebraska's combination of favorable climate, extensive irrigation, and advanced farming practices make it an exceptional corn-producing state in the United States.",False,NONE,NONE,The information provided about Nebraska's corn production is accurate and consistent with the ground truth.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Kansas_Winter_Wheat_plant,TEMPORAL,MEDIUM,When is the optimal planting window for Winter Wheat in Kansas?,"In Kansas, Winter Wheat is planted from late September to mid October. Harvest runs late June to July. Note: Kansas is the largest winter wheat state.","In Kansas, the optimal planting window for Winter Wheat typically falls between mid-September and mid-October. This period allows the crop to establish a strong root system before winter dormancy and provides sufficient time for the plants to mature in the spring.
+
+More specifically, the Kansas State University Extension recommends the following planting dates:
+
+* For eastern Kansas (including counties such as Anderson, Bourbon, and Cherokee): September 15 to October 10
+* For central Kansas (including counties such as Saline, McPherson, and Riley): September 20 to October 15
+* For western Kansas (including counties such as Wichita, Lane, and Gove): September 25 to October 20
+
+Planting too early (before September 15) can lead to excessive vegetative growth, making the crop more susceptible to winter damage. On the other hand, planting too late (after October 20) may result in reduced yields due to inadequate root development and cold hardiness.
+
+Keep in mind that these dates are general guidelines and may vary depending on factors such as:
+
+* Soil type and moisture
+* Weather conditions (e.g., temperature, precipitation)
+* Specific cultivar or variety
+* Region-specific climate and geography
+
+It's essential to monitor local weather forecasts and soil conditions to determine the best planting date for your specific location and conditions. Additionally, consulting with a local agricultural expert or extension agent can provide more detailed guidance tailored to your specific needs.",False,NONE,NONE,The provided information is accurate and consistent with the ground truth.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Kansas_Winter_Wheat_harvest,TEMPORAL,LOW,When does Winter Wheat harvest typically occur in Kansas?,Winter Wheat harvest in Kansas runs from late June to July. Kansas is the largest winter wheat state.,"In Kansas, Winter Wheat harvest typically occurs in late May to early July, with the peak harvest period usually happening in June. This timing can vary depending on factors like weather conditions, soil type, and specific wheat varieties.
+
+More specifically, the Kansas Wheat Commission and Kansas State University Extension typically report that Winter Wheat harvest in Kansas usually starts around late May in the southern parts of the state and progresses northward, with the harvest often wrapping up by mid-to-late July.
+
+Keep in mind that these dates can fluctuate from year to year, depending on factors like temperature, moisture, and disease pressure. If you're a Kansas farmer or agricultural professional, it's always a good idea to stay informed about local weather forecasts and crop conditions to plan your harvest accordingly.",False,NONE,LOW,"The AI response accurately reflects the ground truth, stating that Winter Wheat harvest in Kansas typically occurs in late May to early July, with the peak harvest period usually happening in June.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+FACT_Kansas_Winter_Wheat,FACTUAL,MEDIUM,What is notable about Winter Wheat production in Kansas compared to other US states?,Kansas is the largest winter wheat state,"Kansas is notable for being the leading producer of Winter Wheat in the United States. According to the USDA, Kansas consistently accounts for approximately 25-30% of the country's total Winter Wheat production. The state's fertile soil, moderate climate, and extensive irrigation system make it an ideal place for Winter Wheat production.
+
+In comparison to other US states, Kansas has a unique combination of factors that contribute to its dominance in Winter Wheat production:
+
+1. **Climate**: Kansas has a semi-arid to humid continental climate, with cold winters and hot summers. This allows Winter Wheat to be planted in the fall, grow during the winter, and mature in the spring, taking advantage of the state's ample moisture and temperature conditions.
+2. **Soil**: The state's soil is well-suited for Winter Wheat, with a mix of clay, silt, and loam soils that provide good drainage and aeration.
+3. **Water availability**: Kansas has a well-developed irrigation system, which helps to mitigate drought stress and ensure consistent yields.
+4. **Agronomic practices**: Kansas farmers have a long history of expertise in Winter Wheat production, with many adopting best management practices, such as crop rotation, conservation tillage, and integrated pest management.
+
+While other states, such as Oklahoma, Texas, and Nebraska, also produce Winter Wheat, Kansas's unique combination of climate, soil, and water resources, along with its extensive agricultural expertise, make it the top Winter Wheat-producing state in the US.",False,NONE,NONE,"Kansas is the largest winter wheat state due to its fertile soil, moderate climate, and extensive irrigation system.",1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Oklahoma_Winter_Wheat_plant,TEMPORAL,MEDIUM,When is the optimal planting window for Winter Wheat in Oklahoma?,"In Oklahoma, Winter Wheat is planted from mid September to October. Harvest runs late May to mid June. Note: Earlier harvest than Kansas due to warmer climate.","In Oklahoma, the optimal planting window for Winter Wheat typically falls between mid-September and mid-October. This period allows the crop to establish itself before the onset of winter, while also minimizing the risk of excessive vegetative growth that can make the crop more susceptible to winterkill.
+
+More specifically, the Oklahoma State University Extension recommends the following planting dates for Winter Wheat:
+
+* Northern Oklahoma (north of I-40): September 15 to October 1
+* Central Oklahoma (between I-40 and I-44): September 20 to October 10
+* Southern Oklahoma (south of I-44): September 25 to October 15
+
+Planting within this window allows Winter Wheat to take advantage of the fall moisture, while also providing sufficient time for the crop to harden off before the cold winter months. However, it's essential to note that these dates can vary depending on specific weather conditions, soil type, and location.
+
+Additionally, factors such as soil moisture, temperature, and potential pest and disease pressure should also be considered when determining the optimal planting date for Winter Wheat in Oklahoma. It's always a good idea to consult with local experts, such as your county extension office or a qualified agronomist, for more specific guidance tailored to your specific region and conditions.",False,NONE,NONE,The provided information matches the ground truth for optimal planting window of Winter Wheat in Oklahoma.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Oklahoma_Winter_Wheat_harvest,TEMPORAL,LOW,When does Winter Wheat harvest typically occur in Oklahoma?,Winter Wheat harvest in Oklahoma runs from late May to mid June. Earlier harvest than Kansas due to warmer climate.,"In Oklahoma, Winter Wheat harvest typically occurs in late May to early June. This can vary depending on factors such as weather conditions, soil type, and specific wheat varieties. However, based on historical data and general trends, the typical harvest period for Winter Wheat in Oklahoma is around late May to early June.
+
+More specifically, the Oklahoma State University Extension Service often reports that Winter Wheat harvest usually begins around May 20-25 and peaks around May 30-June 1. However, this can shift depending on the specific region within Oklahoma, with southern and western areas often maturing slightly earlier than northern and eastern areas.
+
+Keep in mind that these are general guidelines and the actual harvest timing may vary from year to year and even within specific fields. Producers should monitor their crop's progress and adjust accordingly to optimize harvest timing.",False,NONE,LOW,"The provided information matches the ground truth, with Winter Wheat harvest in Oklahoma typically occurring from late May to mid June.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+FACT_Oklahoma_Winter_Wheat,FACTUAL,MEDIUM,What is notable about Winter Wheat production in Oklahoma compared to other US states?,Earlier harvest than Kansas due to warmer climate,"In the United States, Oklahoma is notable for being one of the top Winter Wheat producing states. What's distinctive about Oklahoma's Winter Wheat production compared to other US states is its:
+
+**Dryland production system**: Oklahoma's Winter Wheat is predominantly grown under a dryland production system, which means it relies on rainfall rather than irrigation. This sets it apart from many other major Winter Wheat-producing states, such as Kansas, Nebraska, and Texas, which often use more irrigation.
+
+Oklahoma's dryland production system presents unique challenges, such as yield variability due to weather conditions. However, the state's Winter Wheat crop is well-adapted to its semi-arid climate, and farmers employ management strategies like conservation tillage, crop rotation, and selecting drought-tolerant varieties to mitigate risks.
+
+Oklahoma's Winter Wheat crop typically matures in late spring to early summer, around May or June, and the state's production is often used for both domestic consumption and export.
+
+Overall, Oklahoma's Winter Wheat production is notable for its reliance on dryland farming practices, which require careful management and attention to weather conditions.",False,NONE,LOW,"The provided response accurately describes Oklahoma's Winter Wheat production system as dryland, which is distinct from other major Winter Wheat-producing states.",1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Washington_Spring_Wheat_plant,TEMPORAL,MEDIUM,When is the optimal planting window for Spring Wheat in Washington?,"In Washington, Spring Wheat is planted from April to early May. Harvest runs August to September. Note: Palouse region spring wheat.","As an agricultural advisory AI, I'd be happy to provide guidance on the optimal planting window for Spring Wheat in Washington.
+
+The optimal planting window for Spring Wheat in Washington state typically occurs in late March to early May, with the ideal planting date varying depending on the specific location and climate conditions.
+
+In general, the recommended planting window for Spring Wheat in Washington is:
+
+* For the Palouse region ( eastern Washington): Late March to early April, with an optimal planting date around March 25 to April 1.
+* For the Columbia Basin (central Washington): Early to mid-April, with an optimal planting date around April 5 to 15.
+* For the dryland regions of eastern Washington: Late April to early May, with an optimal planting date around April 20 to May 1.
+
+These dates are based on historical climate data and research from Washington State University (WSU) and the United States Department of Agriculture (USDA). Planting within this window allows Spring Wheat to take advantage of the optimal growing conditions, including adequate moisture, moderate temperatures, and sufficient daylight hours.
+
+Keep in mind that specific weather conditions, soil type, and farm-specific factors can affect the optimal planting date. It's always a good idea to consult with local agricultural experts, check weather forecasts, and consider farm-specific conditions before making a planting decision.
+
+Sources:
+
+* Washington State University Extension: ""Spring Wheat Planting and Management""
+* USDA Natural Resources Conservation Service: ""Spring Wheat Planting Dates""
+* Washington State University",False,NONE,LOW,The provided information matches the ground truth for Palouse region spring wheat in Washington.,0.9,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Washington_Spring_Wheat_harvest,TEMPORAL,LOW,When does Spring Wheat harvest typically occur in Washington?,Spring Wheat harvest in Washington runs from August to September. Palouse region spring wheat.,"In Washington state, Spring Wheat harvest typically occurs in late August to early September. The exact timing may vary depending on factors such as weather conditions, soil type, and specific wheat varieties.
+
+ Generally, Spring Wheat is planted in late March to early May in Washington, and it takes around 120 to 140 days to mature. This puts the harvest period around late August to early September.
+
+Keep in mind that this is a general guideline, and local conditions can influence the harvest timing. If you're a specific farm or region in Washington, it's always best to consult with local agricultural experts or check the weather forecast for more precise information.",False,NONE,LOW,The provided information matches the ground truth.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+FACT_Washington_Spring_Wheat,FACTUAL,MEDIUM,What is notable about Spring Wheat production in Washington compared to other US states?,Palouse region spring wheat,"A great question about wheat production!
+
+In the United States, Washington state is notable for its high-quality Spring Wheat production. Here's what sets it apart:
+
+1. **Unique climate and soil conditions**: Washington's dry climate, rich soil, and ample moisture in the spring create an ideal environment for Spring Wheat production. The combination of cool winters, warm summers, and low humidity helps reduce the risk of disease and pests, resulting in higher yields and better grain quality.
+2. **High-protein content**: Washington-grown Spring Wheat is known for its exceptionally high protein content, which averages around 14-15%. This is significantly higher than the national average of 12-13%. The high protein content makes Washington's Spring Wheat highly prized by millers and bakers for producing high-quality bread and other baked products.
+3. **Large production scale**: Washington is one of the top Spring Wheat-producing states in the US, with a significant portion of its crop being exported to countries around the world.
+4. **Hard Red Spring Wheat (HRSW) dominance**: Washington primarily grows Hard Red Spring Wheat (HRSW), which is a premium wheat class known for its excellent baking quality, high protein content, and strong gluten. HRSW is in high demand globally, particularly in Asia and Latin America.
+
+Compared to other US states, Washington's Spring Wheat production stands out due to its:
+
+* Higher protein content
+* Favorable climate and soil conditions
+* Large production scale
+* Predomin",False,NONE,LOW,The information provided is accurate regarding Washington's Spring Wheat production.,0.95,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Illinois_Soybeans_plant,TEMPORAL,MEDIUM,When is the optimal planting window for Soybeans in Illinois?,"In Illinois, Soybeans is planted from early May to early June. Harvest runs late September to October. Note: Illinois top soybean producer.","The optimal planting window for soybeans in Illinois depends on several factors, including soil temperature, moisture, and maturity group. However, based on historical data and research, here's a general guideline for soybean planting in Illinois:
+
+**Optimal Planting Window:** Typically, the optimal soybean planting window in Illinois is from mid-April to early May. This period allows soybeans to emerge and grow during a time when temperatures are generally mild, and moisture is often adequate.
+
+**Specific Dates:**
+
+* For southern Illinois (Maturity Group 4-5): April 15 - May 1
+* For central Illinois (Maturity Group 2-3): April 20 - May 10
+* For northern Illinois (Maturity Group 0-1): April 25 - May 15
+
+**Soil Temperature:** Soybeans typically germinate and emerge best when soil temperatures are around 55°F to 65°F (13°C to 18°C). You can check soil temperatures using a thermometer or through online resources like the Illinois State Water Survey's Soil Temperature Profile.
+
+**Key Considerations:**
+
+* Planting too early (before April 15) can lead to:
+	+ Reduced stands due to cold, wet soils
+	+ Increased risk of seedling diseases
+* Planting too late (after May 15) can lead to:
+	+ Reduced yields due to delayed maturity and increased risk of fall frost
+	+ Increased risk of drought stress during critical growth stages
+
+Keep in mind that these are",False,REGULATORY/DOSAGE/TEMPORAL/FACTUAL/NONE,LOW,The provided information is consistent with the ground truth for optimal soybean planting in Illinois.,0.95,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Illinois_Soybeans_harvest,TEMPORAL,LOW,When does Soybeans harvest typically occur in Illinois?,Soybeans harvest in Illinois runs from late September to October. Illinois top soybean producer.,"In Illinois, soybean harvest typically occurs in late September to early October. However, the exact timing can vary depending on factors such as:
+
+1. **Maturity group**: Illinois growers typically plant a range of soybean maturity groups (e.g., MG 2.0 to MG 4.0). Harvest timing can vary among these groups, with earlier maturing groups (e.g., MG 2.0) harvested around late August to early September and later maturing groups (e.g., MG 4.0) harvested in late September to early October.
+
+2. **Weather conditions**: Weather conditions, such as temperature, rainfall, and soil moisture, can impact soybean maturity and dry down. Dry and warm conditions can accelerate maturity and harvest, while cool and wet conditions can delay it.
+
+3. **Planting date**: Soybeans planted earlier in the spring tend to mature and be harvested earlier than those planted later.
+
+On average, Illinois soybean harvest often begins around late September, with the bulk of the crop harvested in October. According to data from the Illinois Department of Agriculture and the USDA, soybean harvest in Illinois usually takes place over a 3- to 4-week period, with the peak harvest period often occurring around the first or second week of October.
+
+Keep in mind that these are general guidelines, and specific harvest timing may vary depending on local conditions, soil types, and farm management practices.",False,NONE,LOW,The provided information accurately describes the typical soybean harvest period in Illinois.,0.95,meta-llama/llama-4-scout-17b-16e-instruct
+FACT_Illinois_Soybeans,FACTUAL,MEDIUM,What is notable about Soybeans production in Illinois compared to other US states?,Illinois top soybean producer,"Illinois is indeed a significant player in soybean production in the United States. According to data from the United States Department of Agriculture (USDA), what is notable about soybean production in Illinois compared to other US states is that:
+
+**Illinois is the second-largest soybean-producing state in the US, accounting for approximately 15% of the country's total soybean production.**
+
+In 2020, Illinois produced over 582 million bushels of soybeans, with a total value of over $5.5 billion. The state's fertile soil, favorable climate, and extensive irrigation systems make it an ideal place for soybean cultivation.
+
+While Iowa is the largest soybean-producing state, Illinois consistently ranks second, followed closely by Minnesota, Indiana, and Ohio. The state's strong soybean production is attributed to its:
+
+1. **Soil and climate**: Illinois has rich, fertile soil and a temperate climate with adequate moisture, making it suitable for soybean growth.
+2. **Agricultural expertise**: Illinois farmers are known for their innovative farming practices, precision agriculture, and high-yielding varieties.
+3. **Infrastructure**: The state has well-developed transportation networks, including rivers, railroads, and highways, which facilitate the transportation of soybeans to domestic and international markets.
+
+Overall, Illinois plays a vital role in the US soybean industry, and its notable production levels contribute significantly to the country's agricultural economy.",False,NONE,NONE,"Illinois is the second-largest soybean-producing state in the US, accounting for approximately 15% of the country's total soybean production.",1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Iowa_Soybeans_plant,TEMPORAL,MEDIUM,When is the optimal planting window for Soybeans in Iowa?,"In Iowa, Soybeans is planted from early May to early June. Harvest runs late September to October. Note: Iowa second largest soybean producer.","The optimal planting window for soybeans in Iowa is typically from late April to early May. 
+
+According to data from the Iowa State University Extension, the recommended soybean planting dates for Iowa are:
+
+* Southern Iowa (Zone 3): April 25 - May 5
+* Central Iowa (Zone 2): May 1 - May 10
+* Northern Iowa (Zone 1): May 5 - May 15
+
+These dates are based on historical climate data and are aimed at optimizing soybean yields and minimizing potential frost damage. Planting within this window allows soybeans to mature before the first frost and take advantage of the optimal growing conditions during the summer.
+
+Keep in mind that these are general guidelines, and specific conditions such as soil moisture, temperature, and weather forecasts should also be considered when determining the optimal planting date for a specific location. Additionally, some Iowa farmers may also consider a slightly wider planting window, from April 20 to May 20, but the mentioned dates are generally considered optimal. 
+
+Would you like more details on soybean planting strategies or other agricultural advice?",False,REGULATORY,LOW,The provided information is accurate and based on data from the Iowa State University Extension.,0.95,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Iowa_Soybeans_harvest,TEMPORAL,LOW,When does Soybeans harvest typically occur in Iowa?,Soybeans harvest in Iowa runs from late September to October. Iowa second largest soybean producer.,"Typically, soybean harvest in Iowa occurs in late September to early October. However, the exact timing can vary depending on factors like weather conditions, soil type, and the specific maturity group of the soybean variety being grown.
+
+On average, Iowa soybean harvest starts around late September, with the peak harvest period usually occurring during the first week of October. By mid-to-late October, most of the soybean harvest is usually complete.
+
+Keep in mind that these are general guidelines, and the optimal harvest window may shift from year to year due to weather-related factors, such as:
+
+* Moisture levels: Soybeans are typically ready to harvest when the moisture content is around 13-15%. If the weather is dry, harvest may occur earlier, while wet conditions may delay harvest.
+* Temperature: Cooler temperatures can slow down the soybean drying process, while warmer temperatures can speed it up.
+
+Local conditions, soil type, and specific farm management practices can also influence the soybean harvest timing in Iowa.
+
+If you're looking for more specific guidance for your particular location or farm, I recommend checking with local agricultural extension resources, such as the Iowa State University Extension and Outreach, or consulting with a certified agricultural professional.",False,NONE,NONE,The provided information accurately describes the typical soybean harvest period in Iowa.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+FACT_Iowa_Soybeans,FACTUAL,MEDIUM,What is notable about Soybeans production in Iowa compared to other US states?,Iowa second largest soybean producer,"As an agricultural advisory AI, I can tell you that Iowa is a leading producer of soybeans in the United States. What's notable about soybean production in Iowa compared to other US states is that:
+
+**Iowa is the number one soybean-producing state in the country.** According to the United States Department of Agriculture (USDA), Iowa consistently produces more soybeans than any other state, accounting for approximately 20-25% of the country's total soybean production.
+
+In 2020, Iowa produced over 592 million bushels of soybeans, with an average yield of 58.5 bushels per acre. The state's fertile soil, moderate climate, and extensive irrigation system make it an ideal place for soybean production.
+
+Iowa's dominance in soybean production can be attributed to several factors:
+
+1. **Soil and climate**: Iowa's glacial till soil and moderate climate with warm summers and cold winters create a favorable environment for soybean growth.
+2. **Water resources**: The state has an abundance of water, with numerous rivers, lakes, and wetlands, which support irrigation and crop growth.
+3. **Infrastructure**: Iowa has a well-developed agricultural infrastructure, including extensive transportation networks, storage facilities, and processing plants.
+4. **Farmer expertise**: Iowa farmers have a strong reputation for adopting best practices, innovative technologies, and efficient farming techniques, which contribute to high yields and productivity.
+
+Overall, Iowa's unique combination of natural resources, infrastructure, and farmer expertise makes it the leading soybean-producing state in the United States.",False,NONE,NONE,"Iowa is the number one soybean-producing state in the country, accounting for approximately 20-25% of the country's total soybean production.",1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_California_Almonds_plant,TEMPORAL,MEDIUM,When is the optimal planting window for Almonds in California?,"In California, Almonds is planted from January (bloom) to February. Harvest runs August to October. Note: California produces 80% of world almonds.","In California, the optimal planting window for almonds is typically from mid-November to early February, with the ideal time usually being from late November to mid-December. This period allows the trees to establish themselves during the cooler winter months, which promotes healthy root growth and reduces the risk of disease and pests.
+
+Planting too early in the fall (before November) can lead to excessive vegetative growth, making the trees more susceptible to frost damage. On the other hand, planting too late in the winter (after February) can result in delayed root growth and increased risk of water stress during the hot summer months.
+
+It's essential to note that the exact optimal planting window may vary depending on specific factors such as:
+
+* Location: Different regions in California have varying climate conditions. For example, areas in the San Joaquin Valley may have a slightly longer planting window than those in the Sacramento Valley.
+* Soil type and condition: Planting in well-draining soils can help reduce the risk of root rot and other diseases.
+* Rootstock and scion variety: Some almond varieties may have specific planting requirements or recommendations.
+
+To ensure the best results, almond growers in California should consult with local agricultural experts, consider their specific orchard conditions, and follow best management practices for planting and orchard establishment.",False,REGULATORY/DOSAGE/TEMPORAL/FACTUAL/NONE,LOW,The provided information matches the ground truth about optimal planting window for almonds in California.,0.9,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_California_Almonds_harvest,TEMPORAL,LOW,When does Almonds harvest typically occur in California?,Almonds harvest in California runs from August to October. California produces 80% of world almonds.,"In California, the almond harvest typically occurs between August and October, with the peak harvest season usually taking place in late August to early September. The exact timing of the harvest can vary depending on factors such as weather conditions, specific almond variety, and location within the state.
+
+ Generally, the harvest season can be broken down into the following periods:
+
+* Late August: Harvesting of early-maturing almond varieties, such as 'Nonpareil' and 'Princeton', begins.
+* Early to mid-September: The main harvest season for most commercial almond varieties, including 'Carmel', 'Monterey', and 'Butte', takes place.
+* Late September to early October: Late-maturing varieties, such as 'Ferragnes' and 'Independence', are harvested.
+
+Keep in mind that these dates can vary depending on specific conditions in a given year, such as weather patterns, soil moisture, and pest management practices. Growers typically monitor their orchards closely and adjust their harvest schedule accordingly.",False,NONE,NONE,The provided information accurately describes the typical almond harvest period in California.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+FACT_California_Almonds,FACTUAL,MEDIUM,What is notable about Almonds production in California compared to other US states?,California produces 80% of world almonds,"A great question about a major crop!
+
+California is notable for being the dominant producer of almonds in the United States. In fact, California produces approximately 80% of the world's almonds and nearly 100% of the US almonds. The state's mild winters, long growing season, and well-drained soils make it an ideal place for growing almonds.
+
+Compared to other US states, California's almond production is unparalleled due to its:
+
+1. **Climate**: California's Mediterranean climate, with warm, dry summers and cool, wet winters, is well-suited for almond cultivation.
+2. **Soil**: The state's Central Valley has a large area of fertile, well-drained soils that are ideal for almond trees.
+3. **Water availability**: California has a well-developed irrigation infrastructure, which is essential for almond production, as the crop requires significant water inputs.
+4. **Scale of production**: California's almond industry is massive, with over 1.1 million acres of almond orchards, compared to other US states, which have relatively small almond production areas.
+
+Other states, such as Arizona, Texas, and Georgia, do grow almonds, but their production volumes are significantly smaller compared to California. Therefore, when it comes to almond production, California stands out as the leading producer in the United States.",False,NONE,NONE,California produces approximately 80% of the world's almonds and nearly 100% of the US almonds.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Florida_Tomatoes_plant,TEMPORAL,MEDIUM,When is the optimal planting window for Tomatoes in Florida?,"In Florida, Tomatoes is planted from September to October. Harvest runs December to January. Note: Florida winter tomato production for eastern US market.","In Florida, the optimal planting window for tomatoes depends on the specific region and climate conditions. Generally, Florida can be divided into three main regions: North, Central, and South. Here's a breakdown of the optimal planting windows for each region:
+
+1. **North Florida ( Zones 8-9)**: The optimal planting window for tomatoes in North Florida is from late March to early May, when the soil has warmed up and the risk of frost has passed. This allows for a spring harvest.
+2. **Central Florida (Zones 9-10)**: In Central Florida, the optimal planting window for tomatoes is from late February to early March, or from September to early November, for a fall harvest. Tomatoes can be planted year-round, but the best results are usually obtained during these periods.
+3. **South Florida (Zones 10-11)**: In South Florida, the optimal planting window for tomatoes is from October to early December, or from January to early February. The subtropical climate in this region allows for multiple plantings throughout the year, but the best results are usually obtained during these periods.
+
+It's essential to note that these are general guidelines and can vary depending on specific weather conditions, soil quality, and microclimates. Additionally, consider factors like:
+
+* Soil temperature: Tomatoes thrive in soil temperatures between 55°F (13°C) and 70°F (21°C).
+* Frost protection: If planting in North Florida, consider using frost protection methods, like",False,NONE,LOW,The provided information matches the ground truth for optimal planting windows in Florida.,0.9,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Florida_Tomatoes_harvest,TEMPORAL,LOW,When does Tomatoes harvest typically occur in Florida?,Tomatoes harvest in Florida runs from December to January. Florida winter tomato production for eastern US market.,"In Florida, tomato harvesting typically occurs from:
+
+* **March to May** for Spring-season tomatoes (also known as ""early season"" or ""cool-season"" tomatoes), which are planted from January to February. 
+* **July to September** for Fall-season tomatoes (also known as ""late season"" or ""warm-season"" tomatoes), which are planted from May to June.
+
+However, the exact harvest period may vary depending on factors such as:
+
+* Weather conditions (e.g., temperature, rainfall)
+* Specific tomato variety
+* Region within Florida (e.g., southwest, southeast, or north-central Florida)
+* Planting date
+
+Florida's tomato production is concentrated in areas like the Indian River Valley, which is known for its favorable climate and soil conditions.
+
+Keep in mind that these are general guidelines. If you're looking for more specific advice or have questions about a particular tomato variety or growing conditions, I'm here to help!",False,REGULATORY/DOSAGE/TEMPORAL/FACTUAL/NONE,LOW,"The AI response accurately describes the general guidelines for tomato harvesting in Florida, but the question specifically asked for the typical harvest period, which is from December to January for Florida winter tomato production.",0.8,meta-llama/llama-4-scout-17b-16e-instruct
+FACT_Florida_Tomatoes,FACTUAL,MEDIUM,What is notable about Tomatoes production in Florida compared to other US states?,Florida winter tomato production for eastern US market,"As an agricultural advisory AI, I can provide you with accurate information on tomato production in Florida compared to other US states.
+
+Florida is notable for being the second-largest producer of tomatoes in the United States, after California. However, what makes Florida's tomato production unique is its distinction as the leading producer of fresh-market tomatoes in the country.
+
+Florida's mild winters and long growing season allow for multiple harvests per year, making it an ideal place for growing fresh-market tomatoes. The state's tomato production is mainly concentrated in the southern part of the state, particularly in the Homestead and surrounding areas.
+
+In contrast, California is the largest producer of processing tomatoes (used for canned goods, sauces, and paste) in the US. While California's tomato production is largely focused on processing tomatoes, Florida's production is geared more towards fresh-market tomatoes.
+
+So, to summarize, Florida stands out for its significant production of fresh-market tomatoes, which are highly prized for their quality and flavor, and are often shipped to markets in the northeastern United States and other parts of the country during the winter months when local production is limited.",False,NONE,NONE,"Florida is notable for being the leading producer of fresh-market tomatoes in the US, with a focus on winter production for the eastern US market.",1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_California_Tomatoes_plant,TEMPORAL,MEDIUM,When is the optimal planting window for Tomatoes in California?,"In California, Tomatoes is planted from March to May. Harvest runs July to October. Note: California processing tomato, largest US producer.","California's climate varies greatly depending on the region, but I'll provide a general guideline for the optimal planting window for tomatoes in California.
+
+In California, the ideal time to plant tomatoes depends on the specific location, climate zone, and frost dates. Generally, tomatoes thrive in warm weather, and the optimal planting window is when the soil has warmed up and the risk of frost has passed.
+
+**Coastal California (Monterey, Santa Cruz, San Francisco):**
+
+* Start seedlings indoors 6-8 weeks before the last frost date (around late February to early March).
+* Transplant seedlings outside in late March to early April, when soil temperatures reach 55°F (13°C) or above.
+
+**Central Valley (Sacramento, Fresno, Bakersfield):**
+
+* Plant tomato seeds directly in the ground in late March to early April, when soil temperatures reach 55°F (13°C) or above.
+* For areas with a longer growing season, a second planting can be done in late summer to early fall (August-September).
+
+**Southern California (Los Angeles, San Diego):**
+
+* Plant tomato seeds directly in the ground in late February to early March, when soil temperatures reach 50°F (10°C) or above.
+* For areas with mild winters, a second planting can be done in late fall to early winter (November-December).
+
+**Inland California (eastern parts of the state):**
+
+* Plant tomato seeds directly in the ground in late May to early June,",False,NONE,NONE,"The provided information accurately describes the optimal planting window for tomatoes in California, considering regional climate variations and frost dates.",1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_California_Tomatoes_harvest,TEMPORAL,LOW,When does Tomatoes harvest typically occur in California?,"Tomatoes harvest in California runs from July to October. California processing tomato, largest US producer.","In California, the tomato harvest season varies depending on factors such as climate, region, and specific tomato variety. However, based on general agricultural practices and climate conditions, here's a general outline:
+
+**Fresh Market Tomatoes:**
+
+* Typically harvested from May to October, with peak season usually occurring between June and September.
+* Coastal regions like Santa Barbara, Ventura, and San Diego tend to harvest earlier (May-July), while the Central Valley and inland regions like Fresno, Stanislaus, and Yolo counties harvest later (July-October).
+
+**Processing Tomatoes (canned, sauce, etc.):**
+
+* Usually harvested from July to September, with the majority of the crop being harvested in August.
+* The Sacramento Valley, San Joaquin Valley, and Central Valley are major processing tomato-producing regions in California.
+
+**Cherry and Grape Tomatoes:**
+
+* Harvesting often occurs from May to November, with peak season typically between June and October.
+
+Keep in mind that these are general guidelines and can vary depending on specific weather conditions, soil quality, and farm management practices. Additionally, microclimates within regions can also impact harvest timing.
+
+If you're looking for more specific information or guidance tailored to a particular region or farm, feel free to provide more details!",False,NONE,LOW,The provided information is accurate and consistent with general knowledge about tomato harvest in California.,0.95,meta-llama/llama-4-scout-17b-16e-instruct
+FACT_California_Tomatoes,FACTUAL,MEDIUM,What is notable about Tomatoes production in California compared to other US states?,"California processing tomato, largest US producer","A great question about one of America's favorite fruits (yes, tomatoes are technically a fruit!)!
+
+According to data from the United States Department of Agriculture (USDA) and other reliable sources, California is the leading producer of tomatoes in the United States. Here's what's notable about tomato production in California compared to other US states:
+
+1. **Overwhelming dominance**: California produces over 95% of the United States' commercial processing tomatoes, which are used to make canned tomatoes, tomato sauce, and other tomato products. The state's ideal climate, rich soil, and extensive irrigation system make it an ideal place for large-scale tomato production.
+2. **Scale of production**: California's tomato production is massive, with over 2.5 million tons of processing tomatoes harvested annually, accounting for approximately 20% of the world's total processing tomato production.
+3. **Variety and quality**: California's tomato crop consists mainly of processing tomato varieties, such as 'Early Girl', 'Patio', and 'Roma', which are bred specifically for canning and sauces. The state's tomatoes are prized for their high quality, flavor, and acidity, making them a preferred choice for processors and consumers alike.
+4. **Growing conditions**: California's Mediterranean climate, characterized by warm summers, mild winters, and well-defined wet and dry seasons, allows for a single, large crop of tomatoes to be grown each year. The state's rich, fertile soil and extensive irrigation system also support intensive farming practices.
+
+The",False,NONE,NONE,The provided text accurately describes California's notable position in US tomato production.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Georgia_Peanuts_plant,TEMPORAL,MEDIUM,When is the optimal planting window for Peanuts in Georgia?,"In Georgia, Peanuts is planted from mid April to mid May. Harvest runs September to October. Note: Georgia largest US peanut producer.","In Georgia, the optimal planting window for peanuts is typically from late April to early May. This period allows for the best combination of temperature, moisture, and maturity for peanut growth.
+
+More specifically, the recommended planting dates for peanuts in Georgia are:
+
+* For the Coastal Plain region: April 20 - May 10
+* For the Piedmont region: April 25 - May 15
+* For the Mountains region: May 1 - May 20
+
+Planting during this window allows peanuts to mature before the first frost, which typically occurs in late September or early October in Georgia. Additionally, planting during this period helps to minimize the risk of diseases and pests that can be more prevalent when peanuts are planted too early or too late in the season.
+
+Keep in mind that these dates can vary depending on specific weather conditions, soil type, and other factors. It's always a good idea to consult with a local agricultural expert or check with the University of Georgia's Cooperative Extension for more specific guidance on planting peanuts in your area.",False,NONE,NONE,The provided information matches the ground truth for optimal planting window of peanuts in Georgia.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Georgia_Peanuts_harvest,TEMPORAL,LOW,When does Peanuts harvest typically occur in Georgia?,Peanuts harvest in Georgia runs from September to October. Georgia largest US peanut producer.,"In Georgia, peanuts are typically harvested from mid-September to early November. The exact timing of peanut harvest depends on factors such as weather conditions, soil type, and the specific peanut variety being grown.
+
+ Generally, peanut harvest in Georgia usually starts around late September to early October, with the peak harvest period occurring in October. By mid-to-late November, most of the peanut crop has been harvested.
+
+It's worth noting that the harvest season can vary depending on the specific region within Georgia, with the southeastern part of the state tend to harvest a bit earlier than the rest of the state.
+
+Georgia is one of the top peanut-producing states in the United States, accounting for approximately 40-50% of the country's total peanut production. The state's peanut crop is typically planted in May and June, and the harvest season is a critical period for farmers to bring in their crop.",False,NONE,LOW,The provided information matches the ground truth regarding peanut harvest timing in Georgia.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+FACT_Georgia_Peanuts,FACTUAL,MEDIUM,What is notable about Peanuts production in Georgia compared to other US states?,Georgia largest US peanut producer,"Georgia is notable for being the second-largest producer of peanuts in the United States, but what's more distinctive is that it is the only state in the US where a majority of the peanut crop is grown under contract. In Georgia, about 75-80% of peanut farmers grow peanuts under contract, primarily with peanut processing companies. This contracting system provides a stable market and helps manage risks associated with peanut production.
+
+However, I think there's another notable aspect: Georgia's climate and soil conditions make it an ideal place for growing peanuts. The state's mild winters, long growing season, and well-drained sandy soils of the southern part of the state are particularly well-suited for peanut production. 
+
+But if I'm being picky, I think the most notable thing about peanut production in Georgia compared to other US states is that... Georgia produces more than half of the country's peanut crop east of the Mississippi River. But to provide more focus on direct comparison; in the USA as a whole;  2 states; Georgia and Alabama are neck and neck usually; or are; then sometime;  one or the other state takes the No. 1 USA Peanut Production title. Nevertheless; 
+
+Peanuts production; usually take place; in; 
+
+- Georgia 
+- Alabama 
+- Florida 
+
+Of those;  almost every single year; the majority; usually; are field grown In;  *Georgia* 
+
+So that's my analysis; if I left something out or; there can otherwise help; then Do tell",False,NONE,LOW,"Your analysis is accurate, with Georgia being the largest US peanut producer, and the majority of its crop being grown under contract.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Mississippi_Cotton_plant,TEMPORAL,MEDIUM,When is the optimal planting window for Cotton in Mississippi?,"In Mississippi, Cotton is planted from mid April to mid May. Harvest runs September to November. Note: Mississippi Delta cotton production.","In Mississippi, the optimal planting window for cotton typically occurs in late spring, when soil temperatures and weather conditions are suitable for germination and growth.
+
+According to the Mississippi State University Extension Service, the optimal planting window for cotton in Mississippi is usually between mid-April and late May, with the ideal planting date being around April 20 to May 10.
+
+During this period, the soil has warmed up sufficiently, and the risk of frost has decreased, allowing for optimal germination, seedling growth, and boll development. Planting during this window also helps to minimize the risk of pests and diseases that can be prevalent in the region.
+
+It's essential to note that specific weather conditions, soil type, and region within Mississippi can influence the optimal planting window. Growers should consult with local extension agents, agricultural experts, or use data-driven decision tools to determine the best planting date for their specific location and conditions.
+
+Additionally, it's worth mentioning that the use of precision agriculture techniques, such as soil temperature monitoring and weather forecasts, can help farmers make informed decisions about planting dates and optimize their cotton yields.
+
+Sources:
+
+* Mississippi State University Extension Service: ""Cotton Planting Date Considerations""
+* USDA-NASS: ""Mississippi Cotton Planting Dates""
+
+Please let me know if I can help with any other agricultural-related questions!",False,NONE,LOW,"The provided information accurately reflects the optimal planting window for cotton in Mississippi, as stated by the Mississippi State University Extension Service.",1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Mississippi_Cotton_harvest,TEMPORAL,LOW,When does Cotton harvest typically occur in Mississippi?,Cotton harvest in Mississippi runs from September to November. Mississippi Delta cotton production.,"In Mississippi, cotton harvest typically occurs from late September to early November, with the peak harvest season usually taking place in October.
+
+The exact timing of cotton harvest in Mississippi can vary depending on factors such as:
+
+1. Weather conditions: Temperature, rainfall, and sunlight can impact cotton maturation and harvest timing.
+2. Soil type and moisture: Soil conditions can affect cotton growth and maturity.
+3. Cotton variety: Different cotton varieties have varying maturation periods, which can influence harvest timing.
+4. Planting date: The date of planting can impact the timing of harvest.
+
+ Generally, the Mississippi cotton harvest schedule can be broken down into:
+
+* Late September: Early-maturing cotton varieties are typically harvested during this period.
+* October: This is the peak harvest month, with most cotton fields being harvested.
+* Early November: Late-maturing cotton varieties are usually harvested during this period.
+
+Keep in mind that these are general guidelines and actual harvest timing may vary depending on specific conditions in a given year.",False,NONE,LOW,The provided information accurately describes the typical cotton harvest period in Mississippi.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+FACT_Mississippi_Cotton,FACTUAL,MEDIUM,What is notable about Cotton production in Mississippi compared to other US states?,Mississippi Delta cotton production,"Mississippi is notable for being one of the leading cotton-producing states in the United States. According to data from the United States Department of Agriculture (USDA), Mississippi consistently ranks among the top five cotton-producing states in the country.
+
+Some notable facts about cotton production in Mississippi:
+
+1. **High yield per acre**: Mississippi consistently has one of the highest cotton yields per acre in the country, often ranking second or third behind only Arkansas and/or Louisiana. This is due to the state's fertile soil, favorable climate, and effective agricultural practices.
+2. **Leading role in the Cotton Belt**: Mississippi is situated in the heart of the Cotton Belt, a region in the southern United States where cotton is a dominant crop. The state's cotton production is a significant contributor to the national total, with around 10-12% of the country's total cotton production coming from Mississippi.
+3. **Cotton as a major economic contributor**: Cotton is a vital crop for Mississippi's economy, generating hundreds of millions of dollars in revenue each year. The cotton industry supports thousands of jobs and has a significant impact on the state's agricultural economy.
+
+While other states, such as Texas, Arkansas, and Georgia, also produce significant amounts of cotton, Mississippi's high yields per acre and its prominent position in the Cotton Belt make its cotton production notable compared to other US states.",False,NONE,LOW,The statement is accurate and supported by data from the USDA.,0.95,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Idaho_Potatoes_plant,TEMPORAL,MEDIUM,When is the optimal planting window for Potatoes in Idaho?,"In Idaho, Potatoes is planted from April to May. Harvest runs August to October. Note: Idaho largest US potato producer.","As an agricultural advisory AI, I'd be happy to provide you with information on the optimal planting window for potatoes in Idaho.
+
+In Idaho, the optimal planting window for potatoes typically varies depending on the specific location, soil type, and potato variety. However, based on historical climate data and agricultural best practices, here are some general guidelines:
+
+**Spring Planting (Most common):**
+
+* In southern Idaho (e.g., Bingham, Bonneville, and Madison counties), the optimal planting window is usually around late April to early May, when soil temperatures reach around 40°F (4°C) to 45°F (7°C).
+* In central Idaho (e.g., Ada, Canyon, and Payette counties), the optimal planting window is typically around early to mid-May, when soil temperatures reach around 45°F (7°C) to 50°F (10°C).
+* In northern Idaho (e.g., Bonner, Boundary, and Idaho counties), the optimal planting window is usually around late May to early June, when soil temperatures reach around 50°F (10°C) to 55°F (13°C).
+
+**Factors to Consider:**
+
+1. **Soil Temperature:** Potatoes grow best when soil temperatures are between 40°F (4°C) and 70°F (21°C). Avoid planting when soil temperatures are below 35°F (2°C) or above 75°F (24°C).
+2. **Moisture:** Adequate soil moisture is essential for potato growth.",False,NONE,LOW,The provided information matches the ground truth for optimal planting window for potatoes in Idaho.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Idaho_Potatoes_harvest,TEMPORAL,LOW,When does Potatoes harvest typically occur in Idaho?,Potatoes harvest in Idaho runs from August to October. Idaho largest US potato producer.,"A great question about spuds!
+
+In Idaho, the potato harvest typically occurs from late August to early October, with the peak harvest season usually happening in September.
+
+The exact timing of the harvest depends on factors such as:
+
+1. **Variety**: Different potato varieties have distinct maturation periods. Early-season varieties like 'Russet Burbank' and 'Shepody' are usually harvested in late August and early September, while mid-season and late-season varieties like 'Russet Norkotah' and 'Simcoe' are harvested in September and October.
+2. **Weather conditions**: Weather conditions like temperature, moisture, and sunlight can impact potato growth and maturation. A dry and warm summer can lead to earlier maturation, while a cool and wet summer may delay harvest.
+3. **Soil and farm-specific conditions**: Soil type, elevation, and farm-specific practices like irrigation management can also influence the harvest timing.
+
+Idaho's potato harvest is typically divided into two periods:
+
+* **Early season** (late August to early September): Harvesting of early-season varieties, often used for fresh market and processing.
+* **Main crop** (mid-September to early October): Harvesting of mid-season and late-season varieties, which are commonly used for storage and processing.
+
+Keep in mind that these are general guidelines, and specific harvest times may vary depending on the region within Idaho and individual farm conditions.",False,NONE,LOW,The provided information accurately reflects the typical potato harvest period in Idaho.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+FACT_Idaho_Potatoes,FACTUAL,MEDIUM,What is notable about Potatoes production in Idaho compared to other US states?,Idaho largest US potato producer,"Idaho is notable for being the leading producer of potatoes in the United States. According to the United States Department of Agriculture (USDA), Idaho consistently produces more potatoes than any other state in the country.
+
+In 2020, Idaho produced over 13.2 billion pounds of potatoes, accounting for approximately 32% of the country's total potato production. The state's favorable climate, with cool winters and warm summers, along with its rich volcanic soil and abundant water supply, make it an ideal place for growing potatoes.
+
+Idaho's potato production is primarily concentrated in the Snake River Valley, which is often referred to as the ""Potato Capital of the World."" The state's potatoes are used for a variety of purposes, including fresh market, processing (e.g., French fries), and seed potatoes.
+
+While other states, such as Washington, Oregon, and Wisconsin, also produce significant quantities of potatoes, Idaho's sheer volume and quality of production set it apart as a leader in the US potato industry.",False,NONE,NONE,"Idaho is the largest US potato producer, accounting for 32% of the country's total potato production.",1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Wisconsin_Cranberries_plant,TEMPORAL,MEDIUM,When is the optimal planting window for Cranberries in Wisconsin?,"In Wisconsin, Cranberries is planted from N/A (perennial) to N/A. Harvest runs late September to October. Note: Wisconsin produces 60% of US cranberries.","In Wisconsin, the optimal planting window for cranberries is typically in the spring, around late April to early May, and in the fall, from late September to early October. However, the exact timing depends on factors like weather conditions, soil temperature, and specific cultivar.
+
+Wisconsin's cranberry growing season usually starts with planting of new vines or renovation of existing beds in the spring. The ideal time for spring planting is when the soil has warmed up to around 40°F (4°C) and the risk of frost has decreased. This is usually around late April to early May in Wisconsin.
+
+For fall planting, the optimal window is usually around late September to early October, about 6-8 weeks before the first frost. This allows the new plants to establish themselves before winter.
+
+It's essential to note that cranberry planting in Wisconsin should be done when the plants are dormant, which is typically from November to March or April. Planting during the active growing season (May to October) can lead to transplant shock and reduced plant establishment.
+
+Keep in mind that these are general guidelines, and specific weather conditions, such as unseasonable cold or warm temperatures, may affect the optimal planting window. I recommend checking with local experts, such as the University of Wisconsin-Madison's Extension or your county's agricultural agent, for more specific guidance on cranberry planting in your area.",False,NONE,LOW,The provided information accurately describes the optimal planting window for cranberries in Wisconsin.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+TEMP_Wisconsin_Cranberries_harvest,TEMPORAL,LOW,When does Cranberries harvest typically occur in Wisconsin?,Cranberries harvest in Wisconsin runs from late September to October. Wisconsin produces 60% of US cranberries.,"In Wisconsin, cranberries are typically harvested from late September to mid-October. The exact timing of the harvest depends on factors such as weather conditions, cranberry bog management practices, and the specific variety of cranberry being grown.
+
+Generally, cranberry harvest in Wisconsin occurs in two phases:
+
+1. **The ""shake"" or ""dry"" harvest**: This usually takes place in late September, around 2-4 weeks before the main harvest. During this phase, cranberries are shaken from the vines using mechanical rakes, and the berries that are ripe and have been loosened from the vines fall into the water.
+2. **The ""wet"" harvest**: This typically occurs in early to mid-October, when the cranberries are fully ripe and the bogs are flooded. The berries are corralled into a smaller area using booms or ""crowders,"" and then lifted out of the water using mechanical harvesters.
+
+Keep in mind that these dates are approximate and may vary depending on specific weather conditions and cranberry growing conditions in a particular year. Wisconsin is one of the largest cranberry-producing states in the United States, and its cranberry harvest is an important event in the state's agricultural calendar.",False,NONE,NONE,The provided information accurately describes the cranberry harvest timing in Wisconsin.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+FACT_Wisconsin_Cranberries,FACTUAL,MEDIUM,What is notable about Cranberries production in Wisconsin compared to other US states?,Wisconsin produces 60% of US cranberries,"Wisconsin is notable for being the second-largest cranberry-producing state in the United States, but what's more distinctive is that it produces a significant portion of the country's cranberries, with approximately 60-70% of the US cranberry crop being grown in Wisconsin. 
+
+However, what's particularly notable about cranberry production in Wisconsin compared to other US states is that Wisconsin's cranberries are mainly grown on acidic, peat-based soils, specifically on what are known as ""cranberry marshes"" or ""bogs."" Wisconsin has more than 20,000 acres of these cranberry bogs.
+
+Still, I think there's a more straightforward way to put this: 
+
+Wisconsin is especially known for its cranberry production because **Wisconsin has the largest number of cranberry farms and acres** dedicated to cranberry production in the United States.",False,REGULATORY/DOSAGE/TEMPORAL/FACTUAL/NONE,LOW,Wisconsin has the largest number of cranberry farms and acres dedicated to cranberry production in the United States.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+FERT_corn_Iowa_Nitrogen,DOSAGE,HIGH,"What is the recommended Nitrogen application rate for corn in Iowa, and when should it be applied?","For corn in Iowa: Nitrogen rate is 150-200 lbs/acre, applied as split application — pre-plant and side-dress at V6. Important: Excess N causes nitrate leaching into Iowa waterways.","A very specific and practical question!
+
+The recommended nitrogen (N) application rate for corn in Iowa varies depending on the soil type, previous crop, and yield goal. However, based on the Iowa State University (ISU) Extension guidelines, here are some general recommendations:
+
+**Nitrogen Application Rate:**
+
+* For corn following a non-legume crop (e.g., corn after corn or corn after small grains): 180-200 pounds of N per acre (lb N/ac) for a high-yield goal (> 200 bu/ac), 150-170 lb N/ac for a medium-yield goal (150-200 bu/ac), and 120-140 lb N/ac for a low-yield goal (< 150 bu/ac).
+* For corn following a legume crop (e.g., corn after soybeans): 120-150 lb N/ac for a high-yield goal, 90-120 lb N/ac for a medium-yield goal, and 60-90 lb N/ac for a low-yield goal.
+
+**Timing of Nitrogen Application:**
+
+* **Pre-plant application:** A portion of the total N can be applied pre-plant (before planting), typically as anhydrous ammonia (NH3) or urea. This is usually done 2-4 weeks before planting. A common practice is to apply 50-70% of the total N pre-plant.
+* **Side-dress application:** The remaining N can be applied at side-dress (V",False,NONE,LOW,"The provided information matches the ground truth, with some minor variations in wording.",0.95,meta-llama/llama-4-scout-17b-16e-instruct
+FERT_winter_wheat_Kansas_Nitrogen,DOSAGE,HIGH,"What is the recommended Nitrogen application rate for winter wheat in Kansas, and when should it be applied?","For winter wheat in Kansas: Nitrogen rate is 60-90 lbs/acre, applied as fall at planting plus spring topdress. Important: Kansas State recommends soil test before application.","**Recommended Nitrogen Application Rate and Timing for Winter Wheat in Kansas**
+
+As an agricultural advisory AI, I provide you with the most up-to-date and research-based information on nitrogen application rates and timing for winter wheat in Kansas.
+
+### Nitrogen Application Rate
+
+The recommended nitrogen application rate for winter wheat in Kansas varies depending on the yield goal, soil type, and previous crop. According to the Kansas State University (KSU) guidelines, the nitrogen application rates for winter wheat are:
+
+* For a yield goal of 60-80 bushels per acre (bu/ac): 90-120 pounds per acre (lb/ac) of nitrogen
+* For a yield goal of 80-100 bu/ac: 120-150 lb/ac of nitrogen
+* For a yield goal of 100-120 bu/ac: 150-180 lb/ac of nitrogen
+
+### Nitrogen Application Timing
+
+The optimal nitrogen application timing for winter wheat in Kansas is a split application approach:
+
+* **Fall Application (Pre-Plant):** Apply 30-40 lb/ac of nitrogen in the fall, typically in September or October, as a pre-plant application. This helps promote early growth and establishment.
+* **Spring Application (Topdress):** Apply the remaining nitrogen in the spring, typically in late February to early March, when the wheat is in the green-up stage (around Feekes growth stage 3-4). This is usually 60-80 lb/ac of nitrogen.
+
+### Additional Considerations
+
+* **Soil",False,REGULATORY/DOSAGE/TEMPORAL/FACTUAL/NONE,LOW,"The provided information is generally accurate, but it does not fully align with the original Ground Truth. The original Ground Truth specified a nitrogen rate of 60-90 lbs/acre, whereas the AI Response provided a more detailed breakdown of nitrogen application rates based on yield goals.",0.8,meta-llama/llama-4-scout-17b-16e-instruct
+FERT_soybeans_Illinois_Phosphorus,DOSAGE,HIGH,"What is the recommended Phosphorus application rate for soybeans in Illinois, and when should it be applied?","For soybeans in Illinois: Phosphorus rate is 40-80 lbs/acre, applied as pre-plant incorporated. Important: Soybeans fix N, so P and K are primary concerns.","According to the University of Illinois Extension, the recommended phosphorus application rate for soybeans in Illinois depends on the soil test phosphorus level.
+
+The Illinois Agronomy Handbook recommends the following phosphorus application rates for soybeans:
+
+* If the soil test phosphorus level is Very Low (< 10 ppm), apply 60-80 pounds per acre (lb/ac) of P2O5.
+* If the soil test phosphorus level is Low (10-15 ppm), apply 40-60 lb/ac of P2O5.
+* If the soil test phosphorus level is Medium (16-25 ppm), no phosphorus application is recommended.
+* If the soil test phosphorus level is High (> 25 ppm), no phosphorus application is recommended.
+
+As for the timing of phosphorus application, in Illinois, it is generally recommended to apply phosphorus in the fall or early spring, before planting soybeans. This allows the phosphorus to be available to the soybean plants during the early stages of growth.
+
+In more specific terms, for a typical soybean rotation in Illinois:
+
+* Fall application: Apply phosphorus in the fall, after harvest, to the previous crop's stubble or to the soybean field before planting.
+* Early spring application: Apply phosphorus in early spring, about 2-4 weeks before planting soybeans.
+
+It's essential to note that these are general guidelines and that specific conditions, such as soil type, previous crop, and tillage practices, may affect phosphorus availability and soybean response to phosphorus fertilization.
+
+To get a more precise recommendation, I",False,NONE,NONE,The provided information is accurate and based on the Illinois Agronomy Handbook.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+FERT_potatoes_Idaho_Nitrogen,DOSAGE,HIGH,"What is the recommended Nitrogen application rate for potatoes in Idaho, and when should it be applied?","For potatoes in Idaho: Nitrogen rate is 150-250 lbs/acre, applied as split — pre-plant, at emergence, mid-season. Important: Idaho potatoes have high N requirement due to yield goals.","For potatoes in Idaho, the recommended nitrogen (N) application rate varies depending on factors such as soil type, previous crop history, and specific potato variety. However, based on guidelines from the University of Idaho and the Idaho Potato Commission, here are some general recommendations:
+
+**Nitrogen Application Rate:**
+
+* For irrigated potatoes in Idaho, the recommended N application rate is around 150-200 pounds per acre (lb/ac) for most potato varieties.
+* For specific soil types:
+	+ Soils with low organic matter (<2%): 180-220 lb/ac
+	+ Soils with moderate organic matter (2-4%): 150-200 lb/ac
+	+ Soils with high organic matter (>4%): 120-180 lb/ac
+
+**Timing of Nitrogen Application:**
+
+* In Idaho, the recommended N application timing for potatoes is as follows:
+	+ Pre-plant: Apply 30-40% of the total N (about 60-80 lb/ac) before planting, either as a broadcast application or incorporated into the soil.
+	+ At planting: Apply another 30-40% of the total N (about 60-80 lb/ac) as a banded application (e.g., 2-4 inches to the side and below the seed piece).
+	+ Sidedress: Apply the remaining 20-30% of the total N (about 40-60 lb/ac) at the 2- to 4-inch stage",False,NONE,NONE,The AI response accurately reflects the recommended nitrogen application rate and timing for potatoes in Idaho.,1.0,meta-llama/llama-4-scout-17b-16e-instruct
+FERT_cotton_Georgia_Nitrogen,DOSAGE,HIGH,"What is the recommended Nitrogen application rate for cotton in Georgia, and when should it be applied?","For cotton in Georgia: Nitrogen rate is 60-90 lbs/acre, applied as pre-plant plus side-dress at first square. Important: Excess N delays maturity and reduces fiber quality.","A great question about cotton production in Georgia!
+
+The recommended nitrogen (N) application rate for cotton in Georgia varies depending on factors such as soil type, irrigation, and yield goal. According to the University of Georgia's Cooperative Extension (2022), the recommended N application rates for cotton in Georgia are:
+
+* For non-irrigated cotton:
+	+ 60-80 pounds of N per acre for a low-yield goal (1-1.5 bales/acre)
+	+ 80-100 pounds of N per acre for a medium-yield goal (1.5-2.5 bales/acre)
+	+ 100-120 pounds of N per acre for a high-yield goal (2.5-3.5 bales/acre)
+* For irrigated cotton:
+	+ 80-120 pounds of N per acre for a medium-yield goal (2-3 bales/acre)
+	+ 120-150 pounds of N per acre for a high-yield goal (3-4 bales/acre)
+
+As for the timing of N application, the University of Georgia recommends a split-application approach:
+
+1. **Pre-plant or at planting**: Apply 20-40% of the total N rate (e.g., 20-40 pounds of N per acre) pre-plant or at planting (typically in late spring, around May).
+2. **Side-dress or top-dress**: Apply the remaining 60-80% of the total N",False,REGULATORY/DOSAGE/TEMPORAL/FACTUAL/NONE,LOW,The provided information is accurate and based on the University of Georgia's Cooperative Extension (2022) recommendations.,0.9,meta-llama/llama-4-scout-17b-16e-instruct
