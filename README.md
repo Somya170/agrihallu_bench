@@ -15,16 +15,14 @@ A domain-specific hallucination evaluation benchmark for LLMs in agricultural ad
 | Qwen3-32B | 0.0% |
 
 ## Key Findings
-- Geographic retrieval confusion — 66.7% temporal RAG failures
+- Geographic retrieval confusion: 66.7% temporal RAG failures
 - Reasoning models achieve near-zero hallucination
 - Dosage hallucination most persistent across model sizes
 
 ## Setup
-```bash
 pip install -r requirements.txt
-cp .env.example .env  # Add GROQ_API_KEY
+Add GROQ_API_KEY in .env file
 python src/evaluator.py
-```
 
 ## Citation
 Coming soon — paper under review
